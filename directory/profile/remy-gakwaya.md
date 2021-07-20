@@ -23,6 +23,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/remy-gakwaya (1).jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/remy-gakwaya (1).jpg
