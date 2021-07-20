@@ -18,6 +18,10 @@ seo:
       value: images/5c9de3734.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/5c9de3734.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/5c9de3734.jpg
