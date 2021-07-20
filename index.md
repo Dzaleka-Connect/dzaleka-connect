@@ -5,9 +5,16 @@ sections:
   - section_id: hero
     type: section_hero
     title: Growing Dzaleka Community Online
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Were connecting people around the world with one thing in common, their
+      history with Dzaleka. Connecting members from a wide range of industries,
+      with a range of skills, knowledge, and opportunity to share.
+
+
+      Dzaleka Refugee Camp is home to over 41,000 refugees and asylum seekers,
+      who are unable to leave its confines to pursue education or employment
+      opportunities. We have an opportunity to create Dzaleka's largest global
+      community and shape the future of Refugees.
     actions:
       - label: Let's talk
         url: /contact
