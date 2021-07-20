@@ -5,7 +5,11 @@ seo:
   title: Join UNHCR LuQuLuQu Club
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Join UNHCR LuQuLuQu Club
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/5c9de3734.jpg
