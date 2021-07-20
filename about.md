@@ -29,6 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+image: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
 ---
 Being a refugee is more than seeking asylum, it’s a sense of pride and belonging. We’re building on this strength by bringing refugees and diaspora all over the world together as one global community, sharing our knowledge, business opportunity, and connect with like-minded individuals.
 
