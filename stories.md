@@ -22,6 +22,10 @@ seo:
       value: Dzaleka Connect - Stories
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: article
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
