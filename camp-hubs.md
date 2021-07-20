@@ -28,6 +28,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Camp Hubs - Dzaleka Connect
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
