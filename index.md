@@ -108,7 +108,7 @@ seo:
         opportunities, and ideas that will enrich the lives of refugees.
       keyName: property
     - name: 'og:image'
-      value: images/exto_preview.png
+      value: images/7._.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
