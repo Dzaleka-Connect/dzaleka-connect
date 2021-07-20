@@ -13,6 +13,13 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        When joining our community, you must comply with these rules. Here are
+        also a few reminders of what Dzaleka Connect is about.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
