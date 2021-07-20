@@ -42,6 +42,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/11.jpg
     type: section_grid
 seo:
   title: ''
