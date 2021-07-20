@@ -1,7 +1,6 @@
 ---
 title: Vijana Africa
 date: '2019-01-05'
-thumb_image: images/5_thumb.jpg
 thumb_image_alt: A white gamepad on a green background
 image: images/5.jpg
 image_alt: A white gamepad on a green background
