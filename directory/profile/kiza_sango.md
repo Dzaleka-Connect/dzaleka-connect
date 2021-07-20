@@ -19,6 +19,10 @@ seo:
         frames she uses to make cement slabs for pit latrines. 
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Kiza Sango | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Kiza-sango.jpg
