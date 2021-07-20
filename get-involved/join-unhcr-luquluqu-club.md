@@ -46,6 +46,10 @@ seo:
         are just like you and me.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/5c9de3734.jpg
