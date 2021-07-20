@@ -1,5 +1,5 @@
 ---
-title: Founder and CEO at TakenoLAB
+title: Remy Gakwaya
 subtitle: Founder and CEO at TakenoLAB
 image_alt: lorem-ipsum
 seo:
