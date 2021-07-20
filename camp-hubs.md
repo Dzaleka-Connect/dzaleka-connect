@@ -20,6 +20,10 @@ seo:
         diaspora via our growing community around the world.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Camp Hubs - Dzaleka Connect
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
