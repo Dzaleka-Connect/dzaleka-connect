@@ -44,7 +44,7 @@ seo:
         activities and strengthening their spiritual well-being. 
 
     - name: 'twitter:image'
-      value: images/2.jpg
+      value: images/unnamed (1).jpg
       relativeUrl: true
 layout: project
 ---
