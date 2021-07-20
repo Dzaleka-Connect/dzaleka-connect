@@ -1,6 +1,6 @@
 ---
 title: Kiza Sango
-subtitle: lorem-ipsum
+subtitle: Making cement Covers
 image_alt: lorem-ipsum
 seo:
   title: ''
