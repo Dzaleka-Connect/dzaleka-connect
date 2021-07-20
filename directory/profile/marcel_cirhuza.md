@@ -3,7 +3,7 @@ title: Marcel Cirhuza
 subtitle: Social Entrepreneur | Fountain of Hope
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Marcel Cirhuza | Profile
   description: ''
   robots: []
   extra: []
