@@ -18,6 +18,10 @@ seo:
       value: Dzaleka Connect - Stories
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: Dzaleka Connect - Stories
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
