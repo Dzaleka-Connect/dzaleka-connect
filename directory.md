@@ -51,6 +51,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/Eureka-Exode.jpg
       - title: Freddy Kwabo
         image_alt: lorem-ipsum
         content: >-
