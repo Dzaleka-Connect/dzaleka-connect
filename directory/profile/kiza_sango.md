@@ -13,6 +13,12 @@ seo:
         frames she uses to make cement slabs for pit latrines. 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Kiza Sango, 27 , from the Democratic Republic of Congo with one of the
+        frames she uses to make cement slabs for pit latrines. 
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Kiza-sango.jpg
