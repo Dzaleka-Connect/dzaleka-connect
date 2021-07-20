@@ -27,7 +27,12 @@ seo:
     - name: 'twitter:title'
       value: Tumaini Festival
     - name: 'twitter:description'
-      value: This is the project 1 description
+      value: >+
+        An annual music and arts celebration at Dzaleka Refugee Camp, Malawi.
+        Tumaini Festival is an innovative cultural event, which uses
+        entertainment and artistic expression, to promote intercultural harmony,
+        mutual understanding, and peaceful co-existence. 
+
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
