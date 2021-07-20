@@ -1,6 +1,6 @@
 ---
 title: Job Yanga
-subtitle: lorem-ipsum
+subtitle: Musician
 image_alt: lorem-ipsum
 seo:
   title: ''
