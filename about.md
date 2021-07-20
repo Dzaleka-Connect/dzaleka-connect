@@ -31,11 +31,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
+Being a refugee is more than seeking asylum, it’s a sense of pride and belonging. We’re building on this strength by bringing refugees and diaspora all over the world together as one global community, sharing our knowledge, business opportunity, and connect with like-minded individuals.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+Dzaleka had been a political prison before it was transformed into a refugee camp in response to a massive influx of refugees from Africa's Great Lakes region in 1994. Primary countries of origin represented in the camp include the Democratic Republic of Congo (DRC), Rwanda, Burundi, Ethiopia, and Somalia. Prior to becoming a refugee camp, the Dzaleka facility had served as a political prison to around 6, 000 inmates. We have an opportunity to create Dzaleka's largest global community and shape the future of Malawi.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
+## Our Vision
 
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
+Dzaleka is more than a refugee camp. The talent among the refugee community is endless – now we want to share those stories and celebrate the talent.
 
-*Thank You for reading!*
+> We're changing how people see refugees by giving our camp a global platform.
+
+## Make Meaningful Connections, discovering Opportunities
+
+Dzaleka Connect gives you a range of ways to interact and connect with others
+
+Whether you’re heading to a new city and want to meet some friendly Malawian faces during your stay, you want to access valuable business knowledge or you want to give back and help others succeed, Dzaleka online connect will help you make those important connections and seek out those opportunities.
