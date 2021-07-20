@@ -28,6 +28,10 @@ seo:
       value: Valless Antony | Profile
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/b13744de-c60e-4c66-8663-1596c5b9c2d0_rw_600.jpg
