@@ -2,7 +2,7 @@
 title: Join UNHCR LuQuLuQu Club
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Join UNHCR LuQuLuQu Club
   description: ''
   robots: []
   extra: []
