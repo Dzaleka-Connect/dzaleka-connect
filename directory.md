@@ -13,7 +13,7 @@ sections:
         content: |
           Founder and CEO at TakenoLAB
         actions:
-          - label: lorem-ipsum
+          - label: Profile
             url: '#'
             style: link
             icon: dribbble
