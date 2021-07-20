@@ -2,7 +2,7 @@
 title: lorem-ipsum
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: 'Connect with Dzaleka Artists, Entrepreneurs and Creators.'
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
