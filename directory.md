@@ -12,6 +12,10 @@ sections:
         content: lorem-ipsum
         type: testimonial
         avatar: images/1.jpg
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
     type: section_testimonials
 seo:
   title: ''
