@@ -21,7 +21,7 @@ sections:
             no_follow: true
             type: action
         type: grid_item
-        image: images/11.jpg
+        image: images/remy-gakwaya (1).jpg
       - title: King Chapati
         image_alt: lorem-ipsum
         content: |
