@@ -15,6 +15,10 @@ seo:
       value: 'Marcel is an asylum seeker, an entrepreneur, and a community-builder.'
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Marcel Cirhuza | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/New-Marcel-2.jpg
