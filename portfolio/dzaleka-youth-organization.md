@@ -29,7 +29,9 @@ seo:
     - name: 'twitter:title'
       value: Dzaleka Youth Organization
     - name: 'twitter:description'
-      value: This is the project 4 description
+      value: >
+        Dzaleka Youth Congress is a non-discrimination organization. Founded in
+        September 2015. To work with youth via unity and togetherness.
     - name: 'twitter:image'
       value: images/4.jpg
       relativeUrl: true
