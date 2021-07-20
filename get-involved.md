@@ -14,8 +14,8 @@ There are many ways to get involved with Dzaleka Connect, from sharing an idea f
 
 ## Become a partner by
 
-1.  **Donating **- With your help, we will continue to help this incredible platform to stay online and those passionate about Dzaleka refugees to succeed and prosper.
+*   **Donating **- With your help, we will continue to help this incredible platform to stay online and those passionate about Dzaleka refugees to succeed and prosper.
 
-2.  **Offering your Support** - Offer your skills and experience to help refugees. Get in touch with us and we’ll do our best to match you people who would truly value your impact and support.
+*   **Offering your Support** - Offer your skills and experience to help refugees. Get in touch with us and we’ll do our best to match you people who would truly value your impact and support.
 
-3.  **Sharing Refugee Stories** - Share your story with us or nominate a friend, wherever they are in the world, to tell theirs.
+*   **Sharing Refugee Stories** - Share your story with us or nominate a friend, wherever they are in the world, to tell theirs.
