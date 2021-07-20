@@ -121,7 +121,7 @@ seo:
         Dzaleka Community prosper, to bring about new connections,
         opportunities, and ideas that will enrich the lives of refugees.
     - name: 'twitter:image'
-      value: images/exto_preview.png
+      value: images/7._.jpg
       relativeUrl: true
 layout: advanced
 ---
