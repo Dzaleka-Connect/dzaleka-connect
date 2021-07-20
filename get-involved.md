@@ -1,6 +1,6 @@
 ---
 title: Get Involved
-subtitle: lorem-ipsum
+subtitle: Helps us create new opportunities for Dzaleka refugees
 image_alt: lorem-ipsum
 seo:
   title: ''
