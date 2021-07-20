@@ -23,6 +23,10 @@ seo:
       value: profile
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/49083236178_c692c9746d_b.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/49083236178_c692c9746d_b.jpg
