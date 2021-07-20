@@ -4,7 +4,9 @@ subtitle: Making cement Covers
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: >-
+    Kiza Sango, 27 , from the Democratic Republic of Congo with one of the
+    frames she uses to make cement slabs for pit latrines. 
   robots: []
   extra:
     - name: 'og:description'
