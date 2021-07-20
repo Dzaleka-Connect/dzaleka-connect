@@ -21,7 +21,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: Working With People Passionate about Dzaleka
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
