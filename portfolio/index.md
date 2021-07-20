@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: portfolio
+      value: 'Community Organisation, Projects and Resources'
       keyName: property
     - name: 'og:description'
       value: This is the portfolio page
