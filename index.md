@@ -16,7 +16,7 @@ sections:
       opportunities. We have an opportunity to create Dzaleka's largest global
       community and shape the future of Refugees.
     actions:
-      - label: Let's talk
+      - label: Learn More
         url: /contact
         style: button
   - section_id: latest-projects
