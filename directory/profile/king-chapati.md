@@ -4,7 +4,9 @@ subtitle: Business
 image_alt: lorem-ipsum
 seo:
   title: King Chapati | Profile
-  description: ''
+  description: >-
+    The chapati business was initiated by a young refugee, entrepreneur called
+    KING in Dzaleka refugee camp.
   robots: []
   extra:
     - name: 'og:title'
