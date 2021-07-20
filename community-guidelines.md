@@ -38,6 +38,10 @@ seo:
       value: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
