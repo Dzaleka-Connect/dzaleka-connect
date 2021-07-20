@@ -11,7 +11,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: Join UNHCR LuQuLuQu Club
+      value: Join UNHCR LuQuLuQu Club   - Dzaleka Connect
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
