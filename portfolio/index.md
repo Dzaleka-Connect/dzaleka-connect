@@ -1,6 +1,9 @@
 ---
 title: Community Projects and Resources
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: >-
+  If you are involved in or know of a project that is designed to benefit
+  Dzaleka and the surrounding community, please share that information with us
+  so that we can help spread the word.
 layout_style: tiles
 seo:
   title: Portfolio
