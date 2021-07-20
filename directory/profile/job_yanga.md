@@ -21,6 +21,12 @@ seo:
         song writer.
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Job Yanga  Born in Kinshasa DRC s a vocalist, guitarist, drummer, and
+        song writer.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000575731925-lsprt5-t500x500.jpg
