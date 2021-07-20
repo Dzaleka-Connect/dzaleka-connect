@@ -5,7 +5,11 @@ thumb_image_alt: A white gamepad on a green background
 image_alt: A white gamepad on a green background
 seo:
   title: Vijana Africa
-  description: This is the project 5 description
+  description: >
+    Vijana Africa is a community-based organization implemented in Dzaleka since
+    February 2015. The organization was founded by refugees and asylum seekers
+    who decided to be a part of the solution to their fellow refugees’ common
+    challenges.
   extra:
     - name: 'og:type'
       value: website
