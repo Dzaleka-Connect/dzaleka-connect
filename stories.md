@@ -3,7 +3,7 @@ title: Stories
 hide_title: true
 sections:
   - title: Stories
-    section_id: lorem-ipsum
+    section_id: stories
     posts_number: 5
     col_number: three
     actions: []
