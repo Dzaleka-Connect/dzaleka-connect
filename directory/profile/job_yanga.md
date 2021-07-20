@@ -25,7 +25,7 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        Job Yanga  Born in Kinshasa DRC s a vocalist, guitarist, drummer, and
+        Job Yanga  Born in Kinshasa DRC's a vocalist, guitarist, drummer, and
         songwriter.
       keyName: property
       relativeUrl: false
