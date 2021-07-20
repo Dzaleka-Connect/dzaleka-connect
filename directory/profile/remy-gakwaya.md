@@ -3,7 +3,7 @@ title: Remy Gakwaya
 subtitle: Founder and CEO at TakenoLAB
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Remy Gakwaya | Profile
   description: >-
     Remy Gakwaya is the founder of takenoLAB, an organization that teaches
     software engineering and digital skills to refugees.
