@@ -27,9 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Blog | Dzaleka Connect
     - name: 'twitter:description'
-      value: >-
-        Tips and advice to grow your career and in life. This is the Dzaleka
-        Connect Blog.
+      value: 'News, tips, and highlights. This is the Dzaleka Connect Blog.'
     - name: 'twitter:image'
       value: images/4532A.PNG
       relativeUrl: true
