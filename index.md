@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Growing Dzaleka Community Online
     content: >
-      Dzaleka Refugee Camp is home to over 51,000+ refugees and asylum seekers,
+      Dzaleka Refugee Camp is home to over 52,000+ refugees and asylum seekers,
       who are unable to leave its confines to pursue education or employment
       opportunities. We have an opportunity to create Dzaleka's largest global
       community and shape the future of Refugees.
