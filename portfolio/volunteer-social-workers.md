@@ -29,7 +29,7 @@ seo:
         identify, deal, refer and advocate for social issues.
       keyName: property
     - name: 'og:image'
-      value: images/6.jpg
+      value: images/120430475_3374265346014064_8218519141783228667_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
