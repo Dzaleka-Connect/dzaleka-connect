@@ -1,6 +1,6 @@
 ---
 title: Valless Antony
-subtitle: lorem-ipsum
+subtitle: Musician
 image_alt: lorem-ipsum
 seo:
   title: ''
