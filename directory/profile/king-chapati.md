@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - title: King Chapati
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Business
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
