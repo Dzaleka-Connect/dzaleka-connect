@@ -63,17 +63,13 @@ sections:
         type: grid_item
       - title: Camp Hubs
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          Join a growing range of CAMP Hubs to connect with like-minded people
+          near you, e.g, TakanoLAB & Appfactory[
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          ](https://my.dzalekaconnect.com/)
         actions: []
         type: grid_item
   - section_id: testimonials
