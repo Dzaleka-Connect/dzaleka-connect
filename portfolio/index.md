@@ -41,7 +41,7 @@ seo:
         with us so that we can help spread the word.
 
     - name: 'twitter:image'
-      value: images/1.jpg
+      value: images/51869806_160267535322470_r.jpeg
       relativeUrl: true
 layout: portfolio
 ---
