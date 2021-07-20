@@ -6,7 +6,11 @@ thumb_image_alt: A black headphones on a yeallow background
 image_alt: A black headphones on a yeallow background
 seo:
   title: Adai Circle Malawi
-  description: This is the project 7 description
+  description: >-
+    Adai Circle was established on Sunday 2nd February 2020 in Dzaleka Camp –
+    Malawi by Mr. Byamasu Patrick Paul and Amisi Hassan Jospin out of the heart
+    of "We are the change that we want to see" to change the lives of people
+    living with vulnerability. 
   extra:
     - name: 'og:type'
       value: website
