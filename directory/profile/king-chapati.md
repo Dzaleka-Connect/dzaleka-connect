@@ -15,7 +15,7 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >-
-        The chapati business was initiated by a young refugee, entrepreneur
+        The chapati business was initiated by a young refugee, an entrepreneur
         called KING in Dzaleka refugee camp.
       keyName: property
       relativeUrl: false
