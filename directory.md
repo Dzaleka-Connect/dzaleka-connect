@@ -96,7 +96,7 @@ sections:
         image: images/Marcel.jpg
     type: section_grid
 seo:
-  title: ''
+  title: Dzaleka Connect Talent Directory
   description: ''
   robots: []
   extra: []
