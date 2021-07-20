@@ -4,7 +4,7 @@ subtitle: Social Entrepreneur | Fountain of Hope
 image_alt: lorem-ipsum
 seo:
   title: Marcel Cirhuza | Profile
-  description: ''
+  description: 'Marcel is an asylum seeker, an entrepreneur, and a community-builder.'
   robots: []
   extra: []
   type: stackbit_page_meta
