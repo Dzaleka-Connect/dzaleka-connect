@@ -13,7 +13,7 @@ sections:
         content: |
           Founder and CEO at TakenoLAB
         actions:
-          - label: Learn More >>
+          - label: Learn More
             url: '#'
             style: link
             icon: dribbble
