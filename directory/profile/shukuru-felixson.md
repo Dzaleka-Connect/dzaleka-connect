@@ -29,6 +29,10 @@ seo:
       value: images/festive-mars.webp
       keyName: property
       relativeUrl: true
+    - name: 'og:title'
+      value: Shukuru Felixson | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/90241186_108339104138847_322201729217069.webp
