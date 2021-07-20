@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-subtitle: Connecting Dzaleka Refugee and the Diaspora
+subtitle: Connecting Dzaleka Refugees and the Diaspora
 image_alt: Dzaleka refugee camp
 seo:
   title: About Us
