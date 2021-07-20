@@ -25,6 +25,10 @@ seo:
       value: Eureka Exode | Profile
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Eureka-Exode.jpg
