@@ -32,6 +32,7 @@ seo:
       relativeUrl: true
 layout: project
 image: images/DSCF0214.jpg
+thumb_image: images/DSCF0214.jpg
 ---
 Adai Circle is a technological non-profit organization devoted to teach, empower and equip vulnerable people (orphans, handicaps), students’ dropouts, and those who do not have access to education with skills in computer programming, data science, and artificial intelligence. We work with vulnerable people around the world. The goals of Adai Circle organization are to improve the social and economic standards of people in order to foster development in different communities. By so doing, we make sure that;
 
