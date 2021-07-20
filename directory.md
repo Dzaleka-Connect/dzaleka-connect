@@ -79,6 +79,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/josephine.png
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
