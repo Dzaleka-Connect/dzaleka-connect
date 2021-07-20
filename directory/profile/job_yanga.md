@@ -4,7 +4,9 @@ subtitle: Musician
 image_alt: lorem-ipsum
 seo:
   title: Job Yanga | Profile
-  description: ''
+  description: >-
+    Job Yanga  Born in Kinshasa DRC's a vocalist, guitarist, drummer, and
+    songwriter.
   robots: []
   extra:
     - name: 'og:title'
