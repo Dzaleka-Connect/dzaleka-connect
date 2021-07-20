@@ -13,6 +13,12 @@ seo:
       value: King Chapati | Profile
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        The chapati business was initiated by a young refugee, entrepreneur
+        called KING in Dzaleka refugee camp.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/49083236178_c692c9746d_b.jpg
