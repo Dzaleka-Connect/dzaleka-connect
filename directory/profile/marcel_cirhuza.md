@@ -31,6 +31,10 @@ seo:
       value: Marcel Cirhuza | Profile
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/New-Marcel-2.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/New-Marcel-2.jpg
