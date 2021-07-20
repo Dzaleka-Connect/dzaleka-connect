@@ -3,7 +3,11 @@ title: Join UNHCR LuQuLuQu Club
 image_alt: lorem-ipsum
 seo:
   title: Join UNHCR LuQuLuQu Club
-  description: ''
+  description: >-
+    This program is made by youth, for youth. This includes students and refugee
+    youth. The clubs serve as a vehicle to foster greater advocacy, engagement,
+    and fundraising to protect people forced to flee. People who are just like
+    you and me.
   robots: []
   extra:
     - name: 'og:title'
