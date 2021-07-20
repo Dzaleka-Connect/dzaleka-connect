@@ -4,7 +4,10 @@ subtitle: Poet & Founder of The Branches Art
 image_alt: lorem-ipsum
 seo:
   title: John Kazadi | Profile
-  description: ''
+  description: >-
+    John Kazadi, a Congolese refugee living in Dzaleka Refugee Camp with a
+    talent and passion for poetry and he's a founder of The Branches Art a group
+    of talented young poets.
   robots: []
   extra:
     - name: 'og:title'
