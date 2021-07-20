@@ -4,7 +4,7 @@ subtitle: Entrepreneur
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: images/Eureka-Exode.jpg
   robots: []
   extra:
     - name: 'og:description'
