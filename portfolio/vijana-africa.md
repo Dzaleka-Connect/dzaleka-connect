@@ -4,7 +4,7 @@ date: '2019-01-05'
 thumb_image_alt: A white gamepad on a green background
 image_alt: A white gamepad on a green background
 seo:
-  title: Project Title 5
+  title: Vijana Africa
   description: This is the project 5 description
   extra:
     - name: 'og:type'
