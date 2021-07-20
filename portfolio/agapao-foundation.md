@@ -17,7 +17,10 @@ seo:
       value: Agapao Foundation
       keyName: property
     - name: 'og:description'
-      value: This is the project 3 description
+      value: >+
+        Working toward improving child well-being, Health, and Education that
+        help vulnerable children. 
+
       keyName: property
     - name: 'og:image'
       value: images/3.jpg
