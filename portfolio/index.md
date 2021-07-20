@@ -33,7 +33,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: 'Community Organisation, Projects and Resources'
+      value: 'Community Organisations, Projects and Resources'
     - name: 'twitter:description'
       value: >+
         If you are involved in or know of a project that is designed to benefit
