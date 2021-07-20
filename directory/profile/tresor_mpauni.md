@@ -25,6 +25,10 @@ seo:
         (real name Menes la Plume) is an artist based in Malawi. 
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000135173092-0oz4et-t500x500.jpg
