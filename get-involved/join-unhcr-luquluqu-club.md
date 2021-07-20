@@ -30,6 +30,10 @@ seo:
         are just like you and me.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/5c9de3734.jpg
