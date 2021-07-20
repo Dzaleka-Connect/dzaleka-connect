@@ -14,7 +14,7 @@ sections:
           Founder and CEO at TakenoLAB
         actions:
           - label: Learn More
-            url: /profile/remy-gakwaya
+            url: 'https://dzalekaconnect.com/directory/profile/remy-gakwaya'
             style: button
             icon: dribbble
             new_window: false
