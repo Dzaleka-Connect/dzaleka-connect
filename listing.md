@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Community Projects and Resources
 hide_title: true
 sections:
   - title: Tumaini Festival
