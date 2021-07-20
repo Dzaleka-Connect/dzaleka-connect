@@ -31,6 +31,10 @@ seo:
       value: images/josephine.png
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/josephine.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/josephine.png
