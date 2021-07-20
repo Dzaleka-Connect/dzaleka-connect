@@ -16,9 +16,7 @@ seo:
       value: Blog | Dzaleka Connect
       keyName: property
     - name: 'og:description'
-      value: >-
-        Tips and advice to grow your career and in life. This is the Dzaleka
-        Connect Blog.
+      value: 'News, tips, and highlights. This is the Dzaleka Connect Blog.'
       keyName: property
     - name: 'og:image'
       value: images/4532A.PNG
