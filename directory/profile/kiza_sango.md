@@ -39,6 +39,10 @@ seo:
       value: images/Kiza-sango.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Kiza-sango.jpg
