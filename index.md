@@ -54,17 +54,11 @@ sections:
 
       - title: Create Profile
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >+
+          Build your own personal and professinal profile to share with the
+          community.
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
   - section_id: testimonials
