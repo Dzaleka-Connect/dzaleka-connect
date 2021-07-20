@@ -21,6 +21,7 @@ sections:
           Business
         actions: []
         type: grid_item
+        image: images/King-chapati.jpeg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
