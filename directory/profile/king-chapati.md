@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: King Chapati
 hide_title: true
 sections:
   - title: King Chapati
