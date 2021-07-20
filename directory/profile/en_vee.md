@@ -24,6 +24,10 @@ seo:
         because of his sister who sung in a choir.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Valless Antony | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/b13744de-c60e-4c66-8663-1596c5b9c2d0_rw_600.jpg
