@@ -8,7 +8,13 @@ seo:
     James is a multi-talented artist based in Vancouver- Canada. He is a
     Dzalekan Artist in his own right. 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        James is a multi-talented artist based in Vancouver- Canada. He is a
+        Dzalekan Artist in his own right. 
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/james-niyomugabo.jfif
