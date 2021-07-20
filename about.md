@@ -29,7 +29,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: About Us
+      value: About Us - Dzaleka Connect
     - name: 'twitter:description'
       value: >+
         Dzaleka is more than a refugee camp. The talent among the refugee
