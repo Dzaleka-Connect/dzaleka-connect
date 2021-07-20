@@ -12,7 +12,14 @@ sections:
         image_alt: lorem-ipsum
         content: |
           Founder and CEO at TakenoLAB
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/11.jpg
       - title: King Chapati
