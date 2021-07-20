@@ -8,7 +8,7 @@ sections:
       If you are involved in or know of a project that is designed to benefit
       Dzaleka and the surrounding community, please share that information with
       us so that we can help spread the word.
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 1
     view_all_label: lorem-ipsum
     view_all_url: '#'
