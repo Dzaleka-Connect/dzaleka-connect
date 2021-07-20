@@ -18,7 +18,7 @@ sections:
             style: button
             icon: dribbble
             new_window: false
-            no_follow: false
+            no_follow: true
             type: action
         type: grid_item
         image: images/11.jpg
