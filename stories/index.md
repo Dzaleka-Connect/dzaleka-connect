@@ -29,5 +29,5 @@ seo:
     - name: 'twitter:image'
       value: images/4532A.PNG
       relativeUrl: true
-layout: blog
+layout: stories
 ---
