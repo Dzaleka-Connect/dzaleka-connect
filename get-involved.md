@@ -12,4 +12,14 @@ layout: page
 ---
 There are many ways to get involved with Dzaleka Connect, from sharing an idea for a wonderful refugee story to show your support. Or, if you have a new idea, you’d like to share you can [contact us](https://dzalekaconnect.com/contact) directly. We’d love to hear from you.
 
+#### Donate
 
+With you help, we will continue to help this incredible platform to stay online and those passionate about Dzaleka refugee to succeed and to prosper.
+
+### Offer your Support
+
+Offer your skills and experience to help refugees. Get in touch with us and we’ll do our best to match you people who would truly value your impact and support.
+
+### Refugee Stories
+
+Share your story with us or nominate a friend, wherever they are in the world, to tell theirs.
