@@ -2,7 +2,7 @@
 title: Join UNHCR LuQuLuQu Club
 image_alt: lorem-ipsum
 seo:
-  title: Join UNHCR LuQuLuQu Club
+  title: Join UNHCR LuQuLuQu Club   - Dzaleka Connect
   description: >-
     This program is made by youth, for youth. This includes students and refugee
     youth. The clubs serve as a vehicle to foster greater advocacy, engagement,
