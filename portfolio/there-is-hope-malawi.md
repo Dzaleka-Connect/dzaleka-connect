@@ -7,7 +7,12 @@ image: images/unnamed (1).jpg
 image_alt: An orange on a blue background
 seo:
   title: There Is Hope Malawi
-  description: This is the project 2 description
+  description: >+
+    There Is Hope Malawi is a faith-based Malawian Non-Governmental Organization
+    (NGO) providing refugees of Dzaleka Refugee Camp as well as their Dowa host
+    community with access to education and income-generating activities and
+    strengthening their spiritual well-being. 
+
   extra:
     - name: 'og:type'
       value: website
