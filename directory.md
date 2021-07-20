@@ -8,7 +8,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
+      - title: Remy Gakwaya
         image_alt: lorem-ipsum
         content: |
           Founder and CEO at TakenoLAB
