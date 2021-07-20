@@ -4,7 +4,9 @@ subtitle: Entrepreneur
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: images/Eureka-Exode.jpg
+  description: >-
+    Mamale Eureka Exode loves football so much, that she named her first born
+    son, Messi, after the Barcelona football team mega player Lionel Messi
   robots: []
   extra:
     - name: 'og:description'
