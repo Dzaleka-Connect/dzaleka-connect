@@ -28,7 +28,7 @@ sections:
           Business
         actions:
           - label: Learn More
-            url: '#'
+            url: 'https://dzalekaconnect.com/directory/profile/king-chapati'
             style: button
             icon: dribbble
             new_window: false
