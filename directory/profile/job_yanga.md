@@ -27,6 +27,10 @@ seo:
         song writer.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000575731925-lsprt5-t500x500.jpg
