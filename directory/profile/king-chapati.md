@@ -2,7 +2,7 @@
 title: lorem-ipsum
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: King Chapati
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
