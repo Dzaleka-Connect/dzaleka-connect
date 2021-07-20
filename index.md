@@ -89,7 +89,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
 seo:
-  title: Stackbit Exto Theme
+  title: Dzaleka Connect - Connecting Refugees & the Diaspora
   description: The preview of the Exto theme
   extra:
     - name: 'og:type'
