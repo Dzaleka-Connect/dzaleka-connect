@@ -4,7 +4,7 @@ subtitle: Helps us create new opportunities for Dzaleka refugees
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: Helps us create new opportunities for Dzaleka refugees
   robots: []
   extra:
     - name: 'og:description'
