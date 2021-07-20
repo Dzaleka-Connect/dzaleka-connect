@@ -25,6 +25,10 @@ seo:
       value: images/festive-mars.webp
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/festive-mars.webp
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/90241186_108339104138847_322201729217069.webp
