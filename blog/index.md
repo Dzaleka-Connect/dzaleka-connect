@@ -21,7 +21,7 @@ seo:
         Connect Blog.
       keyName: property
     - name: 'og:image'
-      value: images/12.jpg
+      value: images/4532A.PNG
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
