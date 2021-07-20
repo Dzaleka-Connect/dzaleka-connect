@@ -3,7 +3,9 @@ title: Community Guidelines
 image_alt: lorem-ipsum
 seo:
   title: Community Guidelines
-  description: ''
+  description: >
+    When joining our community, you must comply with these rules. Here are also
+    a few reminders of what Dzaleka Connect is about.
   robots: []
   extra:
     - name: 'og:description'
