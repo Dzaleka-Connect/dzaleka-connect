@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/remy-gakwaya (1).jpg
 ---
 Remy Gakwaya is the founder of takenoLAB, an organization that teaches software engineering and digital skills to refugees and the host community in Malawi.
 
