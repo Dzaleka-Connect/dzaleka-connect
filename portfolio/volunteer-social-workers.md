@@ -7,7 +7,7 @@ thumb_image_alt: A handheld game console on a yellow background
 image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
-  title: Project Title 6
+  title: Volunteer Social Workers
   description: This is the project 6 description
   extra:
     - name: 'og:type'
