@@ -17,6 +17,15 @@
                 "style": "link"
             },
             {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Portfolio",
                 "url": "/portfolio/",
                 "style": "link"
@@ -35,15 +44,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
