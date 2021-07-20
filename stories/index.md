@@ -1,33 +1,30 @@
 ---
 title: Stories
-subtitle: 'News, tips and highlights'
-hide_title: false
-col_number: three
+hide_title: true
+sections:
+  - title: Stories
+    section_id: stories
+    posts_number: 5
+    col_number: three
+    actions: []
+    type: section_posts
 seo:
-  title: Stories | Dzaleka Connect
-  description: 'News, tips, and highlights. This is the Dzaleka Connect Stories.'
+  title: Dzaleka Connect - Stories
+  description: ''
+  robots: []
   extra:
+    - name: 'og:title'
+      value: Dzaleka Connect - Stories
+      keyName: property
+      relativeUrl: false
+    - name: 'twitter:card'
+      value: Dzaleka Connect - Stories
+      keyName: name
+      relativeUrl: false
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stories | Dzaleka Connect
-      keyName: property
-    - name: 'og:description'
-      value: 'News, tips, and highlights. This is the Dzaleka Connect Stories.'
-      keyName: property
-    - name: 'og:image'
-      value: images/4532A.PNG
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stories | Dzaleka Connect
-    - name: 'twitter:description'
-      value: 'News, tips, and highlights. This is the Dzaleka Connect Stories.'
-    - name: 'twitter:image'
-      value: images/4532A.PNG
-      relativeUrl: true
+      relativeUrl: false
+  type: stackbit_page_meta
 layout: stories
 ---
