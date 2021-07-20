@@ -45,7 +45,7 @@ seo:
         through different social projects. The aim of the organization is to
         identify, deal, refer and advocate for social issues.
     - name: 'twitter:image'
-      value: images/6.jpg
+      value: images/120430475_3374265346014064_8218519141783228667_n.jpg
       relativeUrl: true
 layout: project
 image: images/120430475_3374265346014064_8218519141783228667_n.jpg
