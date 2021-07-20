@@ -33,6 +33,10 @@ seo:
       value: Shukuru Felixson | Profile
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Shukuru Felixson | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/90241186_108339104138847_322201729217069.webp
