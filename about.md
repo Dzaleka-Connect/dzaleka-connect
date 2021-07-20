@@ -13,7 +13,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Us
+      value: About Us - Dzaleka Connect
       keyName: property
     - name: 'og:description'
       value: >+
