@@ -42,6 +42,10 @@ seo:
       value: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
