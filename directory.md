@@ -40,7 +40,14 @@ sections:
         image_alt: lorem-ipsum
         content: |
           Entrepreneur
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/Eureka-Exode.jpg
       - title: Freddy Kwabo
