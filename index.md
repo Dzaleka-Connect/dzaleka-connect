@@ -30,10 +30,10 @@ sections:
     is_numbered: true
     grid_items:
       - title: News
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: |+
+          The latest news and view from Dzaleka Connect and the community.
+
+
       - title: Service Title
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
