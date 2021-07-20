@@ -22,7 +22,14 @@ sections:
   - section_id: services
     type: section_grid
     title: Working With People Passionate about Dzaleka
-    subtitle: An optional subtitle of the section
+    subtitle: >-
+      When refugees leave Dzaleka, their allegiance, passions and emotional
+      connections don’t fade, if anything they grow stronger. No matter where we
+      end up in the world, we always feel connected.  We’re working with
+      inspiring refugees in the diaspora who want to give back to the incredible
+      camp that pulls at them. From scholars to leaders all are working in
+      helping to bring about significant and social change in Dzaleka Refugee's
+      future. If you feel the same, we’d love you to join us.
     col_number: two
     is_numbered: true
     grid_items:
