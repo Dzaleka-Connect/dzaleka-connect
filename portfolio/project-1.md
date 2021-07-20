@@ -4,7 +4,7 @@ subtitle: 'An annual music and arts celebration at Dzaleka Refugee Camp, Malawi.
 date: '2019-05-10'
 thumb_image_alt: 'White, black, and red shoe sole'
 image: images/1.jpg
-image_alt: 'White, black, and red shoe sole'
+image_alt: tumaini festiv
 seo:
   title: Project Title 1
   description: This is the project 1 description
