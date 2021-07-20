@@ -3,7 +3,7 @@ title: Valless Antony
 subtitle: Musician
 image_alt: lorem-ipsum
 seo:
-  title: Valless Antony
+  title: Valless Antony | Profile
   description: >-
     Valless Antony was born in a family of five and is the firstborn. He has
     been doing music Music since age 12. Valless was inspired to start music
