@@ -43,3 +43,5 @@ Adai Circle is a technological non-profit organization devoted to teach, empower
 *   Every handicapped and orphan should be in school, safe, and attend classes every day
 
 > Adai Circle is guided by the following values: Integrity, Reliability, Responsibility, Transparency, Dedication, Unity.
+
+Learn More > [Adaicircle.com](http://www.adaicircle.com/index.html)
