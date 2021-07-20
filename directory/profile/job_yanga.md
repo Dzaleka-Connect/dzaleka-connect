@@ -39,6 +39,10 @@ seo:
       value: images/artworks-000575731925-lsprt5-t500x500.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000575731925-lsprt5-t500x500.jpg
