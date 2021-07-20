@@ -4,7 +4,9 @@ subtitle: Musician & Founder of Tumaini Festival
 image_alt: lorem-ipsum
 seo:
   title: Tresor Mpauni (Menes la Plume) | Profile
-  description: ''
+  description: >-
+    Born in Lubumbashi, Democratic Republic of the Congo (DRC), Lu'Menesm (real
+    name Menes la Plume) is an artist based in Malawi. 
   robots: []
   extra:
     - name: 'og:title'
