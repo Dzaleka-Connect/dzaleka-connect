@@ -8,7 +8,13 @@ seo:
     Remy Gakwaya is the founder of takenoLAB, an organization that teaches
     software engineering and digital skills to refugees.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Remy Gakwaya is the founder of takenoLAB, an organization that teaches
+        software engineering and digital skills to refugees.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/remy-gakwaya (1).jpg
