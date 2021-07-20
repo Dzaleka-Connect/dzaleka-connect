@@ -35,13 +35,13 @@ Being a refugee is more than seeking asylum, it’s a sense of pride and belongi
 
 Dzaleka had been a political prison before it was transformed into a refugee camp in response to a massive influx of refugees from Africa's Great Lakes region in 1994. Primary countries of origin represented in the camp include the Democratic Republic of Congo (DRC), Rwanda, Burundi, Ethiopia, and Somalia. Prior to becoming a refugee camp, the Dzaleka facility had served as a political prison to around 6, 000 inmates. We have an opportunity to create Dzaleka's largest global community and shape the future of Malawi.
 
-## Our Vision
+### Our Vision
 
 Dzaleka is more than a refugee camp. The talent among the refugee community is endless – now we want to share those stories and celebrate the talent.
 
 > We're changing how people see refugees by giving our camp a global platform.
 
-## Make Meaningful Connections, discovering Opportunities
+### Make Meaningful Connections, discovering Opportunities
 
 Dzaleka Connect gives you a range of ways to interact and connect with others
 
