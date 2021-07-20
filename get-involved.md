@@ -19,6 +19,10 @@ seo:
       value: Get Involved - Dzaleka Connect
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Get Involved - Dzaleka Connect
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
