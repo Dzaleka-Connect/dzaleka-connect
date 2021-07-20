@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Marcel Cirhuza
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
