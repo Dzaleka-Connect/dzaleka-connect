@@ -6,7 +6,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Tresor Mpauni (Menes la Plume) | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000135173092-0oz4et-t500x500.jpg
