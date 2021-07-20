@@ -3,7 +3,7 @@ title: Get Involved
 subtitle: Helps us create new opportunities for Dzaleka refugees
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Get Involved - Dzaleka Connect
   description: Helps us create new opportunities for Dzaleka refugees
   robots: []
   extra:
