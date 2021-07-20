@@ -1,6 +1,5 @@
 ---
 title: Volunteer Social Workers
-subtitle: Optional Project Subtitle
 date: '2018-12-18'
 thumb_image_alt: A handheld game console on a yellow background
 image_alt: A handheld game console on a yellow background
