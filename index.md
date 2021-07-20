@@ -40,7 +40,7 @@ sections:
           area.
 
 
-      - title: Service Title
+      - title: Discuss
         content: >+
           Fuel your passion – start or join a discussion on a matter close to
           your heart.
