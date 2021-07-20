@@ -116,7 +116,10 @@ seo:
     - name: 'twitter:title'
       value: Dzaleka Connect - Connecting Refugees & the Diaspora
     - name: 'twitter:description'
-      value: The preview of the Exto theme
+      value: >-
+        We're a global community connecting refugees and diaspora. Here to help
+        Dzaleka Community prosper, to bring about new connections,
+        opportunities, and ideas that will enrich the lives of refugees.
     - name: 'twitter:image'
       value: images/exto_preview.png
       relativeUrl: true
