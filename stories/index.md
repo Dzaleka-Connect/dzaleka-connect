@@ -1,6 +1,6 @@
 ---
 title: Stories
-hide_title: true
+hide_title: false
 sections:
   - title: Stories
     section_id: stories
