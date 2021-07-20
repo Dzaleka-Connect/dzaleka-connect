@@ -13,7 +13,11 @@ seo:
   title: Dzaleka Connect - Stories
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Dzaleka Connect - Stories
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
