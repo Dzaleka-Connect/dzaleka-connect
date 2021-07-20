@@ -23,7 +23,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:type'
-      value: article
+      value: website
       keyName: property
       relativeUrl: false
   type: stackbit_page_meta
