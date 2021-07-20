@@ -27,6 +27,10 @@ seo:
         Dzalekan Artist in his own right. 
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: James Niyomugabo | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/james-niyomugabo.jfif
