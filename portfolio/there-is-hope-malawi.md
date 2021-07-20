@@ -37,7 +37,12 @@ seo:
     - name: 'twitter:title'
       value: There Is Hope Malawi
     - name: 'twitter:description'
-      value: This is the project 2 description
+      value: >+
+        There Is Hope Malawi is a faith-based Malawian Non-Governmental
+        Organization (NGO) providing refugees of Dzaleka Refugee Camp as well as
+        their Dowa host community with access to education and income-generating
+        activities and strengthening their spiritual well-being. 
+
     - name: 'twitter:image'
       value: images/2.jpg
       relativeUrl: true
