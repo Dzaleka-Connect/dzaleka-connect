@@ -90,7 +90,10 @@ sections:
           convallis, interdum ligula vel, pretium diam.
 seo:
   title: Dzaleka Connect - Connecting Refugees & the Diaspora
-  description: The preview of the Exto theme
+  description: >-
+    We're a global community connecting refugees and diaspora. Here to help
+    Dzaleka Community prosper, to bring about new connections, opportunities,
+    and ideas that will enrich the lives of refugees.
   extra:
     - name: 'og:type'
       value: website
