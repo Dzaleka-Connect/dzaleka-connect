@@ -2,7 +2,7 @@
 title: Community Projects and Resources
 hide_title: true
 sections:
-  - title: Tumaini Festival
+  - title: Community Projects and Resources
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
