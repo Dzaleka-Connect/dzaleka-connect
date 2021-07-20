@@ -66,7 +66,7 @@ sections:
             type: action
         type: grid_item
         image: images/Freddy-Kwabo.jpg
-      - title: lorem-ipsum
+      - title: Josephine
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
