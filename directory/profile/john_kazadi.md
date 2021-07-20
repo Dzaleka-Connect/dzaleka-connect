@@ -6,7 +6,11 @@ seo:
   title: John Kazadi | Profile
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: John Kazadi | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/John-kazadi.jpg
