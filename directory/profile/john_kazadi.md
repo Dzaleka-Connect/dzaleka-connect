@@ -37,6 +37,10 @@ seo:
       value: images/John-kazadi.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/John-kazadi.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/John-kazadi.jpg
