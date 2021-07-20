@@ -72,7 +72,7 @@ sections:
           Tailoring Business
         actions:
           - label: Learn More
-            url: '#'
+            url: 'https://dzalekaconnect.com/directory/profile/josephine'
             style: button
             icon: dribbble
             new_window: false
