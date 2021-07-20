@@ -6,7 +6,7 @@ thumb_image_alt: 'White, black, and red shoe sole'
 image: images/slider_one_new-1.jpg
 image_alt: tumaini festival
 seo:
-  title: Project Title 1
+  title: Tumaini Festival
   description: This is the project 1 description
   extra:
     - name: 'og:type'
