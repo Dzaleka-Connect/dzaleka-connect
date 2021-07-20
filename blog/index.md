@@ -5,9 +5,7 @@ hide_title: false
 col_number: three
 seo:
   title: Blog | Dzaleka Connect
-  description: >-
-    Tips and advice to grow your career and in life. This is the Dzaleka Connect
-    Blog.
+  description: 'News, tips, and highlights. This is the Dzaleka Connect Blog.'
   extra:
     - name: 'og:type'
       value: website
