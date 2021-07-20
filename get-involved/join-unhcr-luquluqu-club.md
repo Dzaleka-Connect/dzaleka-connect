@@ -61,4 +61,9 @@ Africa has a big role to play in understanding refugees and forcibly displaced p
 By starting a UNHCR LuQuLuQu club within your school or refugee camp and engaging in the year-round activities, you will not only be a part of the movement…you will help drive it.
 
 
-[Find Out More](https://luquluqu.org/article/unhcr-luquluqu-club)
+
+### Get Involved
+
+*   [UNHCR LuQuLuQu Club](https://www.unhcr.org/afr/join-unhcr-luquluqu-club.html)
+
+*   [Find Out More](https://luquluqu.org/article/unhcr-luquluqu-club)
