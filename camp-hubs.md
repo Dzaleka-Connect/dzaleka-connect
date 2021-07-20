@@ -36,6 +36,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/2021-03-01.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
