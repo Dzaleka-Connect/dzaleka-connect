@@ -97,7 +97,9 @@ sections:
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
-  description: ''
+  description: >-
+    Dzaleka is more than a refugee camp. The talent among the refugee community
+    is endless – now we want to share those stories and celebrate the talent.
   robots: []
   extra: []
   type: stackbit_page_meta
