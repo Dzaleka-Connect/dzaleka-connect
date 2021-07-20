@@ -28,6 +28,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Community Guidelines
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
