@@ -22,6 +22,14 @@ seo:
       value: images/5c9de3734.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        This program is made by youth, for youth. This includes students and
+        refugee youth. The clubs serve as a vehicle to foster greater advocacy,
+        engagement, and fundraising to protect people forced to flee. People who
+        are just like you and me.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/5c9de3734.jpg
