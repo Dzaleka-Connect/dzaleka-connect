@@ -31,6 +31,10 @@ seo:
       value: James Niyomugabo | Profile
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: James Niyomugabo | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/james-niyomugabo.jfif
