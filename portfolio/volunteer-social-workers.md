@@ -8,7 +8,13 @@ image: images/6.jpg
 image_alt: A handheld game console on a yellow background
 seo:
   title: Volunteer Social Workers
-  description: This is the project 6 description
+  description: >-
+    Volunteer Social Workers is a community based organization created in 2017
+    by Raphael M. NDABAGA, a refugee and professional social worker from the
+    Democratic Republic of Congo with a purpose of bringing positive changes in
+    Dzaleka refugee camp and its surrounding villages through different social
+    projects. The aim of the organization is to identify, deal, refer and
+    advocate for social issues.
   extra:
     - name: 'og:type'
       value: website
