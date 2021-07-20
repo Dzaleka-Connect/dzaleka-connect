@@ -31,6 +31,7 @@ seo:
       value: images/4.jpg
       relativeUrl: true
 layout: project
+image: images/214900068_2884809661766714_4483073576045877123_n.jpg
 ---
 Dzaleka Youth Congress is a non-discrimination organization. Founded in September 2015. To work with youth via unity and togetherness.
 
