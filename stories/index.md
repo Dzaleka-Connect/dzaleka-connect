@@ -24,7 +24,7 @@ seo:
     - name: 'og:type'
       value: website
       keyName: property
-      relativeUrl: false
+      relativeUrl: true
   type: stackbit_page_meta
 layout: stories
 ---
