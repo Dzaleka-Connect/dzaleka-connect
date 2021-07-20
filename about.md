@@ -1,7 +1,7 @@
 ---
 title: Connecting Refugee and the Diaspora
 subtitle: This is a short page about us and our work.
-image_alt: A man taking a picture
+image_alt: dzaleka refugee camp
 seo:
   title: About Us
   description: This is the about us page
