@@ -33,6 +33,10 @@ seo:
       value: images/Eureka-Exode.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:title'
+      value: Eureka Exode | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Eureka-Exode.jpg
