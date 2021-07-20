@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 7
+      value: Adai Circle Malawi
     - name: 'twitter:description'
       value: >
         Adai Circle was established on Sunday 2nd February, 2020 in Dzaleka Camp
