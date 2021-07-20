@@ -52,7 +52,7 @@ sections:
           opportunity to make new connections.
 
 
-      - title: lorem-ipsum
+      - title: Create Profile
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
