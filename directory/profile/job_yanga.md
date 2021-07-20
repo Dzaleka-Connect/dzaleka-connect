@@ -3,7 +3,7 @@ title: Job Yanga
 subtitle: Musician
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Job Yanga | Profile
   description: ''
   robots: []
   extra: []
