@@ -6,7 +6,7 @@ subtitle: >-
 date: '2019-04-30'
 thumb_image: images/cool-jupiter.jpeg
 thumb_image_alt: Dzaleka Connect
-image: images/2.jpg
+image: images/cool-jupiter.jpeg
 image_alt: An orange on a blue background
 seo:
   title: Project Title 2
