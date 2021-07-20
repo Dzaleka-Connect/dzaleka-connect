@@ -102,8 +102,9 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Here to help Dzaleka Community prosper, to bring about new connections,
-        opportunities, and ideas that will enrich the lives of refugees.
+        Here to help Dzaleka Community prosper and to bring about new
+        connections, opportunities, and ideas that will enrich the lives of
+        refugees.
       keyName: property
     - name: 'og:image'
       value: images/7._.jpg
