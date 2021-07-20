@@ -10,9 +10,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+John Kazadi is a Congolese refugee living in Dzaleka Camp with a talent and passion for poetry and he's the founder of "The Branches Art" a group of talented young poets, dancers, and dramatists living in the camp.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+
