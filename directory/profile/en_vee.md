@@ -10,9 +10,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Valless Antony was born in a family of five and is the firstborn. He has been doing music Music since age 12. Valless was inspired to start music because of his sister who sung in a choir. One day when his sister heard Him sing, she was amazed and asked him to start a choir together. He later joined the choir and sung in the choir for over 5 years.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+
