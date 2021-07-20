@@ -11,6 +11,10 @@ seo:
       value: Helps us create new opportunities for Dzaleka refugees
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: Helps us create new opportunities for Dzaleka refugees
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
