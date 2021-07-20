@@ -3,7 +3,7 @@ title: John Kazadi
 subtitle: Poet & Founder of The Branches Art
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: John Kazadi | Profile
   description: ''
   robots: []
   extra: []
