@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: community-projects-and-resources
 subtitle: This is an optional subtitle for the portfolio page.
 layout_style: mosaic
 seo:
