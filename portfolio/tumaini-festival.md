@@ -45,3 +45,5 @@ The festival gained national and international media coverage. It has so far ach
 Tumaini Festival has represented a unique opportunity for refugees to share aspects of their lives with interested visitors, to exhibit and sell their crafts, and to feel the hope of connecting to a wider community. Tumaini Festival has become a community celebration that residents of Dzaleka appreciate as their own event, which they are looking forward to and want to see happen regularly.
 
 Entrance to all events will be free of charge!
+
+Learn More at <https://www.tumainifestival.org/>
