@@ -5,7 +5,14 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >+
+        When joining our community, you must comply with these rules. Here are
+        also a few reminders of what Dzaleka Connect is about.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
