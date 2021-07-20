@@ -5,7 +5,7 @@ date: '2018-01-15'
 thumb_image_alt: A black headphones on a yeallow background
 image_alt: A black headphones on a yeallow background
 seo:
-  title: Project Title 7
+  title: Adai Circle Malawi
   description: This is the project 7 description
   extra:
     - name: 'og:type'
