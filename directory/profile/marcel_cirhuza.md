@@ -35,6 +35,10 @@ seo:
       value: images/New-Marcel-2.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/New-Marcel-2.jpg
