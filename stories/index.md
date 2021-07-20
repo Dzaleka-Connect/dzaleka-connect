@@ -16,11 +16,11 @@ seo:
     - name: 'og:title'
       value: Dzaleka Connect - Stories
       keyName: property
-      relativeUrl: false
+      relativeUrl: true
     - name: 'twitter:card'
       value: Dzaleka Connect - Stories
       keyName: name
-      relativeUrl: false
+      relativeUrl: true
     - name: 'og:type'
       value: website
       keyName: property
