@@ -82,10 +82,8 @@ sections:
         image: images/josephine.png
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
-        content: |+
-          Social Entrepreneur | Fountain of Hope
-
-
+        content: |
+          Social Entrepreneur - Fountain of Hope
         actions:
           - label: Learn More
             url: 'https://dzalekaconnect.com/directory/profile/marcel_cirhuza'
