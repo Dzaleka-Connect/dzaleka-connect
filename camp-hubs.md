@@ -14,6 +14,12 @@ seo:
         diaspora via our growing community around the world.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Join and connect with like-minded people near you in Dzaleka and the
+        diaspora via our growing community around the world.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
