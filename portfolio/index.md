@@ -27,7 +27,11 @@ seo:
     - name: 'twitter:title'
       value: 'Community Organisation, Projects and Resources'
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: >+
+        If you are involved in or know of a project that is designed to benefit
+        Dzaleka and the surrounding community, please share that information
+        with us so that we can help spread the word.
+
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
