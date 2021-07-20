@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/Marcel.jpg
 ---
 Marcel Cirhuza is redefining what it means to be a refugee. Marcel is an asylum seeker, an entrepreneur, and a community-builder.
 
