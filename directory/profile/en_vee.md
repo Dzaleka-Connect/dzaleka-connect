@@ -4,7 +4,10 @@ subtitle: Musician
 image_alt: lorem-ipsum
 seo:
   title: Valless Antony
-  description: ''
+  description: >-
+    Valless Antony was born in a family of five and is the firstborn. He has
+    been doing music Music since age 12. Valless was inspired to start music
+    because of his sister who sung in a choir.
   robots: []
   extra: []
   type: stackbit_page_meta
