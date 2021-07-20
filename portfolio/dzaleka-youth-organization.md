@@ -12,7 +12,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 4
+      value: Dzaleka Youth Organization
       keyName: property
     - name: 'og:description'
       value: >+
