@@ -6,7 +6,7 @@ subtitle: >-
   so that we can help spread the word.
 layout_style: tiles
 seo:
-  title: Portfolio
+  title: 'Community Organisation, Projects and Resources'
   description: This is the portfolio page
   extra:
     - name: 'og:type'
