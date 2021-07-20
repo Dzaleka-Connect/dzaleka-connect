@@ -44,6 +44,10 @@ seo:
       value: images/b13744de-c60e-4c66-8663-1596c5b9c2d0_rw_600.jpg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/b13744de-c60e-4c66-8663-1596c5b9c2d0_rw_600.jpg
