@@ -14,6 +14,13 @@ seo:
         Messi
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Mamale Eureka Exode* loves football so much, that she named her first
+        born son, Messi, after the Barcelona football team mega player Lionel
+        Messi
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Eureka-Exode.jpg
