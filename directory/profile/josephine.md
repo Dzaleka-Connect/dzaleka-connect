@@ -4,7 +4,9 @@ subtitle: Tailoring Business
 image_alt: lorem-ipsum
 seo:
   title: Josephine | Profile
-  description: ''
+  description: >-
+    Josephine has lived in Dzaleka for ten years and only has herself to rely on
+    within Dzaleka. 
   robots: []
   extra:
     - name: 'og:title'
