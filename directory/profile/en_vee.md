@@ -3,7 +3,7 @@ title: Valless Antony
 subtitle: Musician
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Valless Antony
   description: ''
   robots: []
   extra: []
