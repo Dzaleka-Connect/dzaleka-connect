@@ -3,7 +3,7 @@ title: Josephine
 subtitle: Tailoring Business
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Josephine | Profile
   description: ''
   robots: []
   extra: []
