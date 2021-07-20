@@ -65,17 +65,17 @@
                 "type": "action"
             },
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/dzalekaconnect",
-                "style": "icon",
-                "icon": "twitter",
-                "new_window": true
-            },
-            {
                 "label": "Instagram",
                 "url": "https://www.instagram.com/dzalekaconnect",
                 "style": "icon",
                 "icon": "instagram",
+                "new_window": true
+            },
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/dzalekaconnect",
+                "style": "icon",
+                "icon": "twitter",
                 "new_window": true
             },
             {
