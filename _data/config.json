@@ -26,6 +26,15 @@
                 "type": "action"
             },
             {
+                "label": "Members Directory",
+                "url": "/directory",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Camp Hubs",
                 "url": "/camp-hubs",
                 "style": "link"
@@ -44,15 +53,6 @@
                 "label": "Contact",
                 "url": "/contact/",
                 "style": "link"
-            },
-            {
-                "label": "Members Directory",
-                "url": "/directory",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
