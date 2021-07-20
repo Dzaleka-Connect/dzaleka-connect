@@ -26,13 +26,13 @@
                 "type": "action"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
+                "label": "Style Guide",
+                "url": "/style-guide/",
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
+                "label": "Portfolio",
+                "url": "/portfolio/",
                 "style": "link"
             },
             {
