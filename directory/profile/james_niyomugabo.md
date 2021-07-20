@@ -3,7 +3,7 @@ title: James Niyomugabo
 subtitle: 'Poet, Musician'
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: James Niyomugabo | Profile
   description: >-
     James is a multi-talented artist based in Vancouver- Canada. He is a
     Dzalekan Artist in his own right. 
