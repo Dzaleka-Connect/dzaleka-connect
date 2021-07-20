@@ -23,7 +23,7 @@ seo:
 
       keyName: property
     - name: 'og:image'
-      value: images/about.jpg
+      value: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
