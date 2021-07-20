@@ -3,7 +3,7 @@ title: King Chapati
 subtitle: Business
 image_alt: lorem-ipsum
 seo:
-  title: King Chapati
+  title: King Chapati | Profile
   description: ''
   robots: []
   extra:
