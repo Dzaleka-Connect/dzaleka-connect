@@ -52,17 +52,10 @@ sections:
         image: images/Eureka-Exode.jpg
       - title: Freddy Kwabo
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Gaming Shop
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions:
           - label: lorem-ipsum
             url: '#'
