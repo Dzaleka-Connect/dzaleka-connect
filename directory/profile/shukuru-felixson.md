@@ -1,6 +1,6 @@
 ---
 title: Shukuru Felixson
-subtitle: lorem-ipsum
+subtitle: Musician
 image_alt: lorem-ipsum
 seo:
   title: ''
