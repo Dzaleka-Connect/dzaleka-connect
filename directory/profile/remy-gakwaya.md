@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: Founder and CEO at TakenoLAB
 image_alt: lorem-ipsum
 seo:
   title: ''
