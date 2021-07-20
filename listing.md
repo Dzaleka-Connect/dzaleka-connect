@@ -4,7 +4,10 @@ hide_title: true
 sections:
   - title: Community Projects and Resources
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      If you are involved in or know of a project that is designed to benefit
+      Dzaleka and the surrounding community, please share that information with
+      us so that we can help spread the word.
     layout_style: mosaic
     projects_number: 1
     view_all_label: lorem-ipsum
