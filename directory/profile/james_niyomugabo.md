@@ -21,6 +21,12 @@ seo:
         Dzalekan Artist in his own right. 
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        James is a multi-talented artist based in Vancouver- Canada. He is a
+        Dzalekan Artist in his own right. 
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/james-niyomugabo.jfif
