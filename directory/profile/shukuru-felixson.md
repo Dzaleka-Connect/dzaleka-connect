@@ -9,7 +9,14 @@ seo:
     his secondary school education in Malawi and started an online diploma in
     business management.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Felixson Shukuru is a young man born in 1998 and single of course. He
+        did his secondary school education in Malawi and started an online
+        diploma in business management.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/90241186_108339104138847_322201729217069.webp
