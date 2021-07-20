@@ -1,6 +1,6 @@
 ---
 title: 'Poet, Musician'
-subtitle: lorem-ipsum
+subtitle: 'Poet, Musician'
 image_alt: lorem-ipsum
 seo:
   title: ''
