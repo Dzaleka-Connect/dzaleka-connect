@@ -1,5 +1,5 @@
 ---
-title: 'Poet, Musician'
+title: James Niyomugabo
 subtitle: 'Poet, Musician'
 image_alt: lorem-ipsum
 seo:
