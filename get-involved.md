@@ -35,6 +35,10 @@ seo:
       value: images/hpblog.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:image'
+      value: images/hpblog.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
