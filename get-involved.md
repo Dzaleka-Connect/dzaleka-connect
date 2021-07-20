@@ -6,7 +6,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: Helps us create new opportunities for Dzaleka refugees
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
