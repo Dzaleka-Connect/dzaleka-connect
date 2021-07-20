@@ -22,6 +22,13 @@ seo:
         group of talented young poets.
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        John Kazadi, a Congolese refugee living in Dzaleka Refugee Camp with a
+        talent and passion for poetry and he's a founder of The Branches Art a
+        group of talented young poets.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/John-kazadi.jpg
