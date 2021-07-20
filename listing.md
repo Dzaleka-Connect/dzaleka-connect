@@ -2,7 +2,7 @@
 title: lorem-ipsum
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Tumaini Festival
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
