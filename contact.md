@@ -4,20 +4,7 @@ hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: >
-      ### Headquarter
-
-
-      Dzaleka Online Media, LLC.Dzaleka Online, Dzaleka Refugee Camp, Dowa,
-      Malawi
-
-
-      *Mailing Address*:
-
-      P.O Box 30 Dowa, Malawi
-
-
-
+    content: |
       For all inquiries please use the form below.
     form_id: contactForm
     form_action: /thank-you
