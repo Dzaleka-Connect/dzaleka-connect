@@ -3,7 +3,9 @@ title: Camp Hubs
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: >-
+    Join and connect with like-minded people near you in Dzaleka and the
+    diaspora via our growing community around the world.
   robots: []
   extra: []
   type: stackbit_page_meta
