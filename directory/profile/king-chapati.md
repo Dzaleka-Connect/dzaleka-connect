@@ -10,9 +10,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+The chapati business was initiated by a young refugee, an entrepreneur called KING in the Dzaleka refugee camp. He expanded his business to other major towns in Malawi. Since this type of bread is only found in the Dzaleka refugee camp, people travel long distances to buy it.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+
