@@ -128,6 +128,10 @@ seo:
         the talent.
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Dzaleka Connect Talent Directory
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
