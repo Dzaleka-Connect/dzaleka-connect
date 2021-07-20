@@ -18,7 +18,7 @@ sections:
     actions:
       - label: Learn More
         url: /about
-        style: icon
+        style: button
   - section_id: services
     type: section_grid
     title: Working With People Passionate about Dzaleka
