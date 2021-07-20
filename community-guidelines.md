@@ -2,7 +2,7 @@
 title: Community Guidelines
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Community Guidelines
   description: ''
   robots: []
   extra:
