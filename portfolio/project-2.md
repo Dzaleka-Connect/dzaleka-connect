@@ -1,6 +1,8 @@
 ---
 title: Dzaleka Connect
-subtitle: Optional Project Subtitle
+subtitle: >-
+  Dzaleka Connect is an online portal and directory dedicated to connecting
+  people who have one main thing in common – Dzaleka Refugee Camp.
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 thumb_image_alt: An orange on a blue background
