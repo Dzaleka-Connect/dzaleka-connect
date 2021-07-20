@@ -15,7 +15,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Project Title 5
+      value: Vijana Africa
       keyName: property
     - name: 'og:description'
       value: >
