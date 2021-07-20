@@ -38,17 +38,8 @@ sections:
         image: images/King-chapati.jpeg
       - title: Eureka Exode
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Entrepreneur
         actions: []
         type: grid_item
         image: images/Eureka-Exode.jpg
