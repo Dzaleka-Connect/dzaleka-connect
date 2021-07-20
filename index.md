@@ -102,8 +102,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        We're a global community connecting refugees and diaspora. Here to help
-        Dzaleka Community prosper, to bring about new connections,
+        Here to help Dzaleka Community prosper, to bring about new connections,
         opportunities, and ideas that will enrich the lives of refugees.
       keyName: property
     - name: 'og:image'
