@@ -7,7 +7,13 @@ seo:
     Join and connect with like-minded people near you in Dzaleka and the
     diaspora via our growing community around the world.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Join and connect with like-minded people near you in Dzaleka and the
+        diaspora via our growing community around the world.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
