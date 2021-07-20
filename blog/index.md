@@ -33,7 +33,7 @@ seo:
         Tips and advice to grow your career and in life. This is the Dzaleka
         Connect Blog.
     - name: 'twitter:image'
-      value: images/12.jpg
+      value: images/4532A.PNG
       relativeUrl: true
 layout: blog
 ---
