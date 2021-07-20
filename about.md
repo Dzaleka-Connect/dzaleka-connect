@@ -16,7 +16,11 @@ seo:
       value: About Us
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: >+
+        Dzaleka is more than a refugee camp. The talent among the refugee
+        community is endless – now we want to share those stories and celebrate
+        the talent.
+
       keyName: property
     - name: 'og:image'
       value: images/about.jpg
