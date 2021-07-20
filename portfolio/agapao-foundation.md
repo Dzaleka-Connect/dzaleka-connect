@@ -8,7 +8,10 @@ image: images/3.jpg
 image_alt: A yellow retro telephone on a yellow background
 seo:
   title: Agapao Foundation
-  description: This is the project 3 description
+  description: >+
+    Working toward improving child well-being, Health, and Education that help
+    vulnerable children. 
+
   extra:
     - name: 'og:type'
       value: website
