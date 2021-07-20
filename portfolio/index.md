@@ -16,7 +16,11 @@ seo:
       value: 'Community Organisation, Projects and Resources'
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: >+
+        If you are involved in or know of a project that is designed to benefit
+        Dzaleka and the surrounding community, please share that information
+        with us so that we can help spread the word.
+
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
