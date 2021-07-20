@@ -1,6 +1,6 @@
 ---
 title: Josephine
-subtitle: lorem-ipsum
+subtitle: Tailoring Business
 image_alt: lorem-ipsum
 seo:
   title: ''
