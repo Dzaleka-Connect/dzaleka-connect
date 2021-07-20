@@ -6,14 +6,7 @@ sections:
     section_id: stories
     posts_number: 5
     col_number: three
-    actions:
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        icon: dribbble
-        new_window: false
-        no_follow: false
-        type: action
+    actions: []
     type: section_posts
 seo:
   title: Dzaleka Connect - Stories
