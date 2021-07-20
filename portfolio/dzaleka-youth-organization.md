@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Project Title 4
+      value: Dzaleka Youth Organization
     - name: 'twitter:description'
       value: This is the project 4 description
     - name: 'twitter:image'
