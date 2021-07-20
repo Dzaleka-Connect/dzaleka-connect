@@ -25,7 +25,7 @@ seo:
         refugees’ common challenges.
       keyName: property
     - name: 'og:image'
-      value: images/5.jpg
+      value: images/vijana africa.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
