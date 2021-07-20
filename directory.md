@@ -82,17 +82,10 @@ sections:
         image: images/josephine.png
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Social Entrepreneur | Fountain of Hope
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions:
           - label: lorem-ipsum
             url: '#'
