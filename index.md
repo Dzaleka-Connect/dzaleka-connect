@@ -17,7 +17,7 @@ sections:
       community and shape the future of Refugees.
     actions:
       - label: Learn More
-        url: /contact
+        url: /about
         style: button
   - section_id: latest-projects
     type: section_portfolio
