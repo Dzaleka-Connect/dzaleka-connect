@@ -65,6 +65,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/Freddy-Kwabo.jpg
     type: section_grid
 seo:
   title: ''
