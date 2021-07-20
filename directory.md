@@ -85,7 +85,14 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
 seo:
