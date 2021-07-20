@@ -27,6 +27,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/josephine.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/josephine.png
