@@ -11,6 +11,7 @@ sections:
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+        avatar: images/1.jpg
     type: section_testimonials
 seo:
   title: ''
