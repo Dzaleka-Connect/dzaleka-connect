@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Poet, Musician'
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
