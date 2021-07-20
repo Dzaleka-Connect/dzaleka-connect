@@ -11,9 +11,8 @@ seo:
 layout: page
 image: images/james-niyomugabo.jfif
 ---
-## Lorem ipsum
+James is a multi-talented artist based in Vancouver- Canada. He is a Dzalekan Artist in his own right. Spent a decade in Dzaleka and has a deep interest in it. As early as 10 years, he was already into writing and reciting poetry.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+
