@@ -26,7 +26,13 @@ seo:
     - name: 'twitter:title'
       value: Project Title 7
     - name: 'twitter:description'
-      value: This is the project 7 description
+      value: >
+        Adai Circle was established on Sunday 2nd February, 2020 in Dzaleka Camp
+        – Malawi by Mr. Byamasu Patrick Paul and Amisi Hassan Jospin out of the
+        heart of "We are the change that we want to see" to change the lives of
+        people living with vulnerability. Positive change in human life is our
+        delight. As members of Adai Circle we believe in the motto "Build to
+        change".
     - name: 'twitter:image'
       value: images/DSCF0214.jpg
       relativeUrl: true
