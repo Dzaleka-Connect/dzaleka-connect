@@ -6,17 +6,17 @@ subtitle: >-
   so that we can help spread the word.
 layout_style: tiles
 seo:
-  title: Portfolio
-  description: This is the portfolio page
+  title: Listing
+  description: This is the Listing page
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Portfolio
+      value: Listing
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: This is the Listing page
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -25,11 +25,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Portfolio
+      value: Listing
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: This is the Listing page
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true
-layout: portfolio
+layout: Listing
 ---
