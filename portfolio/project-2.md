@@ -1,8 +1,5 @@
 ---
 title: There Is Hope
-subtitle: >-
-  Dzaleka Connect is an online portal and directory dedicated to connecting
-  people who have one main thing in common – Dzaleka Refugee Camp.
 date: '2019-04-30'
 thumb_image: images/cool-jupiter.jpeg
 thumb_image_alt: Dzaleka Connect
