@@ -10,6 +10,9 @@ sass:
   indentWidth: 4
   style: nested
   precision: 10
+include:
+  - _redirects
+  - .htaccess
 exclude:
   - Gemfile
   - Gemfile.lock
