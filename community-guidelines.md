@@ -1,6 +1,5 @@
 ---
 title: Community Guidelines
-subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
