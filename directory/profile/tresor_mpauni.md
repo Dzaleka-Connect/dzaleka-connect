@@ -1,6 +1,6 @@
 ---
 title: Tresor Mpauni (Menes la Plume)
-subtitle: lorem-ipsum
+subtitle: Musician & Founder of Tumaini Festival
 image_alt: lorem-ipsum
 seo:
   title: ''
