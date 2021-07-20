@@ -13,6 +13,12 @@ seo:
       value: Tresor Mpauni (Menes la Plume) | Profile
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Born in Lubumbashi, Democratic Republic of the Congo (DRC), Lu'Menesm
+        (real name Menes la Plume) is an artist based in Malawi. 
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000135173092-0oz4et-t500x500.jpg
