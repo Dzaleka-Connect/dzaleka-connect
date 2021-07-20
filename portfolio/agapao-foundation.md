@@ -28,7 +28,10 @@ seo:
     - name: 'twitter:title'
       value: Agapao Foundation
     - name: 'twitter:description'
-      value: This is the project 3 description
+      value: >+
+        Working toward improving child well-being, Health, and Education that
+        help vulnerable children. 
+
     - name: 'twitter:image'
       value: images/3.jpg
       relativeUrl: true
