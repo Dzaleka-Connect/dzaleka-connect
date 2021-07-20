@@ -1,6 +1,6 @@
 ---
 title: Eureka Exode
-subtitle: lorem-ipsum
+subtitle: Entrepreneur
 image_alt: lorem-ipsum
 seo:
   title: ''
