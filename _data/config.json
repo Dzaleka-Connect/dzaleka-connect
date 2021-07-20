@@ -72,5 +72,6 @@
             }
         ]
     },
-    "domain": "https://dzalekaconnect.com/"
+    "domain": "https://dzalekaconnect.com/",
+    "favicon": "images/dzaleka_connect_logo.png"
 }
