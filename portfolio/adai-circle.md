@@ -19,13 +19,11 @@ seo:
       value: Adai Circle Malawi
       keyName: property
     - name: 'og:description'
-      value: >
-        Adai Circle was established on Sunday 2nd February, 2020 in Dzaleka Camp
+      value: >-
+        Adai Circle was established on Sunday 2nd February 2020 in Dzaleka Camp
         – Malawi by Mr. Byamasu Patrick Paul and Amisi Hassan Jospin out of the
         heart of "We are the change that we want to see" to change the lives of
-        people living with vulnerability. Positive change in human life is our
-        delight. As members of Adai Circle we believe in the motto "Build to
-        change".
+        people living with vulnerability. 
       keyName: property
     - name: 'og:image'
       value: images/DSCF0214.jpg
