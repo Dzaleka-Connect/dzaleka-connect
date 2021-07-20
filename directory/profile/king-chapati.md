@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: King Chapati
 subtitle: Business
 image_alt: lorem-ipsum
 seo:
