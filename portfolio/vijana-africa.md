@@ -39,7 +39,7 @@ seo:
         seekers who decided to be a part of the solution to their fellow
         refugees’ common challenges.
     - name: 'twitter:image'
-      value: images/5.jpg
+      value: images/vijana africa.jpg
       relativeUrl: true
 layout: project
 thumb_image: images/vijana africa.jpg
