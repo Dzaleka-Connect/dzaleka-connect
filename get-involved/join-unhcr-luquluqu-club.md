@@ -9,9 +9,11 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+This program is made by youth, for youth. This includes students and refugee youth. The clubs serve as a vehicle to foster greater advocacy, engagement, and fundraising to protect people forced to flee. People who are just like you and me.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Africa has a big role to play in understanding refugees and forcibly displaced people.
 
-- Lorem ipsum
-- dolor sit amet
+By starting a UNHCR LuQuLuQu club within your school or refugee camp and engaging in the year-round activities, you will not only be a part of the movement…you will help drive it.
+
+
+[Find Out More](https://luquluqu.org/article/unhcr-luquluqu-club)
