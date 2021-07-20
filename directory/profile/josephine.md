@@ -35,6 +35,12 @@ seo:
       value: images/josephine.png
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Josephine has lived in Dzaleka for ten years, and only has herself to
+        rely on within Dzaleka. 
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/josephine.png
