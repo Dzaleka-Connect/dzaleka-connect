@@ -115,9 +115,9 @@ seo:
       value: Dzaleka Connect - Connecting Refugees & the Diaspora
     - name: 'twitter:description'
       value: >-
-        We're a global community connecting refugees and diaspora. Here to help
-        Dzaleka Community prosper, to bring about new connections,
-        opportunities, and ideas that will enrich the lives of refugees.
+        Here to help Dzaleka Community prosper and to bring about new
+        connections, opportunities, and ideas that will enrich the lives of
+        refugees.
     - name: 'twitter:image'
       value: images/7._.jpg
       relativeUrl: true
