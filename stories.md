@@ -2,7 +2,7 @@
 title: Stories
 hide_title: true
 sections:
-  - title: website
+  - title: Stories
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     posts_number: 3
