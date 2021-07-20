@@ -11,7 +11,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Blog
+      value: Blog | Dzaleka Connect
       keyName: property
     - name: 'og:description'
       value: >-
