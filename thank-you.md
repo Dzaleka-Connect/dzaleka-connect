@@ -4,7 +4,11 @@ image: images/thank-you.jpg
 image_alt: Thank You Led Signage
 layout: page
 ---
+We have received your message and would like to thank you for writing to us. Please enjoy, we will reply by email as soon as possible.
 
-Thank you for contacting us! We will get back in touch with you soon.
 
-**Have a great day!**
+
+See you online,
+
+The Dzaleka Connect Team
+
