@@ -40,6 +40,7 @@ seo:
       relativeUrl: true
 layout: project
 image: images/3c4de4_e14e10051f0847babc352ff447258081_mv2.webp
+thumb_image: images/super-sloth.webp
 ---
 The AGAPAO FOUNDATION is, a non-profit community-based organization working toward stopping the spread of HIV/ Aids in the communities of Malawi, especially to children living in a vulnerable place such as Dzaleka Refugee Camp.
 
