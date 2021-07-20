@@ -1,6 +1,6 @@
 ---
 title: John Kazadi
-subtitle: lorem-ipsum
+subtitle: Poet & Founder of The Branches Art
 image_alt: lorem-ipsum
 seo:
   title: ''
