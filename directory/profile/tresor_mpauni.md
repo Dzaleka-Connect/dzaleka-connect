@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Tresor Mpauni (Menes la Plume)
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
