@@ -39,6 +39,10 @@ seo:
       value: profile
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/caring-anemone.jfif
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/james-niyomugabo.jfif
