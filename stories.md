@@ -10,7 +10,7 @@ sections:
     actions: []
     type: section_posts
 seo:
-  title: ''
+  title: Dzaleka Connect - Stories
   description: ''
   robots: []
   extra: []
