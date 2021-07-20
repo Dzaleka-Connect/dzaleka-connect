@@ -106,6 +106,13 @@ seo:
       value: Dzaleka Connect Talent Directory
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        Dzaleka is more than a refugee camp. The talent among the refugee
+        community is endless – now we want to share those stories and celebrate
+        the talent.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
