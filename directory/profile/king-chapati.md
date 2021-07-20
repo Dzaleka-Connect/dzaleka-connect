@@ -41,6 +41,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: King Chapati | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/49083236178_c692c9746d_b.jpg
