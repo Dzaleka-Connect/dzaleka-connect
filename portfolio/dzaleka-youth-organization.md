@@ -5,7 +5,7 @@ thumb_image: images/214900068_2884809661766714_4483073576045877123_n.jpg
 thumb_image_alt: Dzaleka Youth Organization
 image_alt: A table tennis racket on a pink background
 seo:
-  title: Project Title 4
+  title: Dzaleka Youth Organization
   description: >
     Dzaleka Youth Congress is a non-discrimination organization. Founded in
     September 2015. To work with youth via unity and togetherness.
