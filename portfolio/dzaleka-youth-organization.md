@@ -1,7 +1,7 @@
 ---
 title: Dzaleka Youth Organization
 date: '2019-02-26'
-thumb_image: images/4_thumb.jpg
+thumb_image: images/214900068_2884809661766714_4483073576045877123_n.jpg
 thumb_image_alt: Dzaleka Youth Organization
 image_alt: A table tennis racket on a pink background
 seo:
