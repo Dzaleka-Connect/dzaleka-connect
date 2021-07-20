@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/Kiza-sango.jpg
 ---
 Making cement covers for pit latrines was not something Kiza Sango, 27, thought she would end up doing to earn a living. She had grown up cultivating the fields next to her family home in South Kivu in the Democratic Republic of Congo. In 2006, she fled to Malawi after armed rebel groups showed up at her house threatening to kill her and fisherman husband.  She and her family first lived in Luwani camp until they were transferred to Dzaleka in 2007.  She saw that many of the families had to dig and set up latrines behind their homes in the camp so she realized there was a need for   slabs to cover them.  She makes the slabs using cement, stones, sand and water. “They need to be strong so that no accidents happen,” says Sango.
 
