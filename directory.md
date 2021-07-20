@@ -36,7 +36,7 @@ sections:
             type: action
         type: grid_item
         image: images/King-chapati.jpeg
-      - title: lorem-ipsum
+      - title: Eureka Exode
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
