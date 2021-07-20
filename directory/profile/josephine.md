@@ -15,6 +15,10 @@ seo:
       value: profile
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Josephine | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/josephine.png
