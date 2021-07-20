@@ -8,6 +8,12 @@ sections:
     col_number: three
     testimonials: []
     type: section_testimonials
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    col_number: three
+    testimonials: []
+    type: section_testimonials
 seo:
   title: ''
   description: ''
