@@ -1,5 +1,5 @@
 ---
-title: There Is Hope
+title: There Is Hope Malawi
 date: '2019-04-30'
 thumb_image: images/cool-jupiter.jpeg
 thumb_image_alt: Dzaleka Connect
