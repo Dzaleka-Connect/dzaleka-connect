@@ -4,7 +4,10 @@ subtitle: Connecting Dzaleka Refugees and the Diaspora
 image_alt: Dzaleka refugee camp
 seo:
   title: About Us
-  description: This is the about us page
+  description: >+
+    Dzaleka is more than a refugee camp. The talent among the refugee community
+    is endless – now we want to share those stories and celebrate the talent.
+
   extra:
     - name: 'og:type'
       value: website
