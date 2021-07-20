@@ -47,9 +47,11 @@ sections:
 
 
       - title: Trips
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        content: >+
+          Share with the community if you've got a trip planned for an
+          opportunity to make new connections.
+
+
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
