@@ -21,6 +21,10 @@ seo:
         Messi
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Eureka Exode | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Eureka-Exode.jpg
