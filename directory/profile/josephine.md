@@ -37,7 +37,7 @@ seo:
       relativeUrl: true
     - name: 'og:description'
       value: >-
-        Josephine has lived in Dzaleka for ten years, and only has herself to
+        Josephine has lived in Dzaleka for ten years and only has herself to
         rely on within Dzaleka. 
       keyName: property
       relativeUrl: false
