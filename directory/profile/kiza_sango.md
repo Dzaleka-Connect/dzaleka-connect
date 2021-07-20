@@ -27,6 +27,10 @@ seo:
       value: profile
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Kiza Sango | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Kiza-sango.jpg
