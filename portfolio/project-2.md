@@ -1,5 +1,5 @@
 ---
-title: Dzaleka Connect
+title: There Is Hope
 subtitle: >-
   Dzaleka Connect is an online portal and directory dedicated to connecting
   people who have one main thing in common – Dzaleka Refugee Camp.
