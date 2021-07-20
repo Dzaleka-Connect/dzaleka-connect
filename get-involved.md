@@ -10,9 +10,6 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+There are many ways to get involved with Dzaleka Connect, from sharing an idea for a wonderful refugee story to show your support. Or, if you have a new idea, you’d like to share you can [contact us](https://dzalekaconnect.com/contact) directly. We’d love to hear from you.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
