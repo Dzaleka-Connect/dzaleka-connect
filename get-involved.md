@@ -15,6 +15,10 @@ seo:
       value: Helps us create new opportunities for Dzaleka refugees
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Get Involved - Dzaleka Connect
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
