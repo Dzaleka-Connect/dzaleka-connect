@@ -34,7 +34,7 @@ sections:
           The latest news and view from Dzaleka Connect and the community.
 
 
-      - title: Service Title
+      - title: Events
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
