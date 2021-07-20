@@ -10,9 +10,19 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Remy Gakwaya is the founder of takenoLAB, an organization that teaches software engineering and digital skills to refugees and the host community in Malawi.
+[](https://unctad.org/news/photo-exhibition-entrepreneurship-migrants-and-refugees)
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+*   [Photo Exhibition on Entrepreneurship for Migrants and Refugees](https://unctad.org/news/photo-exhibition-entrepreneurship-migrants-and-refugees)
 
-- Lorem ipsum
-- dolor sit amet
+*   [Remy Gakwaya - Connected Learning in Crisis Consortium](https://connectedlearning4refugees.org/stories/remy-gakwaya/)
+
+*   [Connectivity brightening future of refugees in Malawi - UNHCR](https://www.unhcr.org/en-au/news/latest/2017/3/58c7aa054/connectivity-brightening-future-of-refugees-in-malawi.html)
+
+*   [The refugee coding school trend: lessons and reflections](https://medium.com/unhcr-innovation-service/the-refugee-coding-school-trend-lessons-and-reflections-5b6ee8168bc)
+
+*   [Remy - Jesuit Worldwide Learning](https://www.jwl.org/en/become-a-student/alumni-stories-2/remy)
+
+*   [How tech is empowering Africa's youth - Chazuka Project](https://thechazukaproject.org/2020/01/23/how-tech-is-empowering-africas-youth/)
+
+*   [Refugees learn to code a new future in Malawi](https://news.trust.org/item/20180913100700-uy18a)
