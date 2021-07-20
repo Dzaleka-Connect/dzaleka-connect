@@ -17,7 +17,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Community Organisation, Projects and Resources'
+      value: 'Community Organisations, Projects and Resources'
       keyName: property
     - name: 'og:description'
       value: >+
