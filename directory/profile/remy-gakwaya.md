@@ -9,6 +9,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/remy-gakwaya (1).jpg
 ---
 ## Lorem ipsum
 
