@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Stories
 hide_title: true
 sections:
   - title: lorem-ipsum
