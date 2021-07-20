@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dzaleka Connect - Connecting Refugees &amp; the Diaspora
 hide_title: true
 sections:
   - section_id: hero
