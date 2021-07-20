@@ -11,6 +11,10 @@ seo:
       value: John Kazadi | Profile
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: John Kazadi | Profile
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/John-kazadi.jpg
