@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 sections:
   - title: 'Connect with Dzaleka Artists, Entrepreneurs and Creators.'
-    section_id: lorem-ipsum
+    section_id: 'Connect with Dzaleka Artists, Entrepreneurs and Creators.'
     subtitle: "Dzaleka is more than a refugee camp. The talent among the refugee community is endless – now we want to share those stories and celebrate the talent.Dzaleka Community are achieving all kinds of amazing things. Discover their stories or\_submit your own."
     col_number: three
     is_numbered: false
