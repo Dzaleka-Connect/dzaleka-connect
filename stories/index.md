@@ -26,5 +26,5 @@ seo:
       keyName: property
       relativeUrl: false
   type: stackbit_page_meta
-layout: advanced
+layout: stories
 ---
