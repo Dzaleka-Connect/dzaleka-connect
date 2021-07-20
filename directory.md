@@ -10,17 +10,8 @@ sections:
     grid_items:
       - title: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
-          ## **Remy Gakwaya**
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          *   Lorem ipsum
-
-          *   dolor sit amet
+        content: |
+          Founder and CEO at TakenoLAB
         actions: []
         type: grid_item
         image: images/11.jpg
