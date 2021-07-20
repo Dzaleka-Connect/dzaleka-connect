@@ -56,6 +56,15 @@
         "has_social": true,
         "social_links": [
             {
+                "label": "Facebook",
+                "url": "https://www.facebook.com/DzalekaConnect",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
                 "label": "Twitter",
                 "url": "https://twitter.com/dzalekaconnect",
                 "style": "icon",
@@ -75,15 +84,6 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
-            },
-            {
-                "label": "Facebook",
-                "url": "https://www.facebook.com/DzalekaConnect",
-                "style": "icon",
-                "icon": "facebook",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
