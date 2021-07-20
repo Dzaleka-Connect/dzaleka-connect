@@ -15,7 +15,7 @@ sections:
         actions: []
         type: grid_item
         image: images/11.jpg
-      - title: lorem-ipsum
+      - title: King Chapati
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
