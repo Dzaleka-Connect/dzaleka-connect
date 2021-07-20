@@ -33,6 +33,10 @@ seo:
       value: Tresor Mpauni (Menes la Plume) | Profile
       keyName: name
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/artworks-000135173092-0oz4et-t500x500.jpg
