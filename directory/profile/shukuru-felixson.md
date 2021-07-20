@@ -3,7 +3,7 @@ title: Shukuru Felixson
 subtitle: Musician
 image_alt: lorem-ipsum
 seo:
-  title: Shukuru Felixson
+  title: Shukuru Felixson | Profile
   description: >-
     Felixson Shukuru is a young man born in 1998 and single of course. He did
     his secondary school education in Malawi and started an online diploma in
