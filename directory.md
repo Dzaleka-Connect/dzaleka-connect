@@ -16,6 +16,10 @@ sections:
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+      - author: lorem-ipsum
+        avatar_alt: lorem-ipsum
+        content: lorem-ipsum
+        type: testimonial
     type: section_testimonials
 seo:
   title: ''
