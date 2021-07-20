@@ -14,6 +14,10 @@ seo:
       value: Join UNHCR LuQuLuQu Club
       keyName: name
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/5c9de3734.jpg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/5c9de3734.jpg
