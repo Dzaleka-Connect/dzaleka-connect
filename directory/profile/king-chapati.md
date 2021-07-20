@@ -1,6 +1,6 @@
 ---
 title: lorem-ipsum
-subtitle: lorem-ipsum
+subtitle: Business
 image_alt: lorem-ipsum
 seo:
   title: ''
