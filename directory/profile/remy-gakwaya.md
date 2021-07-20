@@ -20,7 +20,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:type'
-      value: website
+      value: profile
       keyName: property
       relativeUrl: false
     - name: 'twitter:image'
