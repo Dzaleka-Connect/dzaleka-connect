@@ -10,9 +10,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Marcel Cirhuza is redefining what it means to be a refugee. Marcel is an asylum seeker, an entrepreneur, and a community-builder.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+
