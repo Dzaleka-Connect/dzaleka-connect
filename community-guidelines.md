@@ -34,6 +34,10 @@ seo:
       value: Community Guidelines
       keyName: property
       relativeUrl: false
+    - name: 'twitter:image'
+      value: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 ---
