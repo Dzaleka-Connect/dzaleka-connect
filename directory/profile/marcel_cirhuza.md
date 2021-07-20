@@ -11,6 +11,10 @@ seo:
       value: 'Marcel is an asylum seeker, an entrepreneur, and a community-builder.'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: 'Marcel is an asylum seeker, an entrepreneur, and a community-builder.'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/New-Marcel-2.jpg
