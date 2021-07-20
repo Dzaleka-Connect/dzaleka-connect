@@ -65,11 +65,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Join a growing range of CAMP Hubs to connect with like-minded people
-          near you, e.g, TakanoLAB & Appfactory[
-
-
-
-          ](https://my.dzalekaconnect.com/)
+          near you, e.g, TakanoLAB & Appfactory
         actions: []
         type: grid_item
   - section_id: testimonials
