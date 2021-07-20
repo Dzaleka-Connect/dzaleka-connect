@@ -6,7 +6,11 @@ seo:
   title: King Chapati
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: King Chapati | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/49083236178_c692c9746d_b.jpg
