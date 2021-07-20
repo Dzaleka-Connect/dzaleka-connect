@@ -3,7 +3,7 @@ title: Shukuru Felixson
 subtitle: Musician
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Shukuru Felixson
   description: ''
   robots: []
   extra: []
