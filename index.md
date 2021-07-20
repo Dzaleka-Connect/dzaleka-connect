@@ -91,9 +91,8 @@ sections:
 seo:
   title: Dzaleka Connect - Connecting Refugees & the Diaspora
   description: >-
-    We're a global community connecting refugees and diaspora. Here to help
-    Dzaleka Community prosper, to bring about new connections, opportunities,
-    and ideas that will enrich the lives of refugees.
+    Here to help Dzaleka Community prosper, to bring about new connections,
+    opportunities, and ideas that will enrich the lives of refugees.
   extra:
     - name: 'og:type'
       value: website
