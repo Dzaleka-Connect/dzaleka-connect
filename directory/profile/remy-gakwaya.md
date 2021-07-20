@@ -15,6 +15,10 @@ seo:
         software engineering and digital skills to refugees.
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Remy Gakwaya | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/remy-gakwaya (1).jpg
