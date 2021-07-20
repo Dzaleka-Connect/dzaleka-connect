@@ -29,6 +29,10 @@ seo:
         group of talented young poets.
       keyName: property
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/John-kazadi.jpg
