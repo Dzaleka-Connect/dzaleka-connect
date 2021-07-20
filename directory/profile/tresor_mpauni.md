@@ -10,9 +10,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+Tresor Mpauni, also known by his artist name “Menes la Plume,” was designated the World Bank Africa Region’s Social Inclusion Hero 2018. He was invited to Washington D.C. in April 2019 and received his award from Sheila Redzepi, the World Bank Vice-President for External and Corporate Relations. Mpauni lives in Dzaleka Refugee Camp in Malawi.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+
