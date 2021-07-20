@@ -15,7 +15,10 @@ seo:
       value: Project Title 4
       keyName: property
     - name: 'og:description'
-      value: This is the project 4 description
+      value: >+
+        Dzaleka Youth Congress is a non-discrimination organization. Founded in
+        September 2015. To work with youth via unity and togetherness.
+
       keyName: property
     - name: 'og:image'
       value: images/214900068_2884809661766714_4483073576045877123_n.jpg
