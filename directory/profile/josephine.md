@@ -6,7 +6,11 @@ seo:
   title: Josephine | Profile
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Josephine | Profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/josephine.png
