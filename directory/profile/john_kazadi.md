@@ -13,6 +13,14 @@ image: images/John-kazadi.jpg
 ---
 John Kazadi is a Congolese refugee living in Dzaleka Camp with a talent and passion for poetry and he's the founder of "The Branches Art" a group of talented young poets, dancers, and dramatists living in the camp.
 
+## Articles
 
+1.  [A poet from Dzaleka Refugee Camp - WHO's JOHN KAZADI?](https://www.youtube.com/watch?v=JBQ8zAxph1M)
 
+2.  [History of the Branches arts group](https://branchesarts.wordpress.com/2018/10/05/history-of-the-branches-arts-group/)
 
+3.  [Dzaleka hosts photo exhibit](https://www.kulinji.com/index.php/article/entertainment-arts/2019/dzaleka-hosts-photo-exhibit-0)
+
+4.  [Dzaleka Refugee camp introduces photo exhibition to promote intercultural harmony](https://www.manaonline.gov.mw/index.php/national/general/item/12851-dzaleka-refugee-camp-introduces-photo-exhibition-to-promote-intercultural-harmony)
+
+5.  [Students’ group visits refugees](https://malawi24.com/2018/03/05/students-group-visits-refugees/)
