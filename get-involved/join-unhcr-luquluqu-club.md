@@ -15,7 +15,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Join UNHCR LuQuLuQu Club
+      value: Join UNHCR LuQuLuQu Club   - Dzaleka Connect
       keyName: name
       relativeUrl: false
     - name: 'twitter:image'
