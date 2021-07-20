@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Dzaleka Connect Talent Directory
 hide_title: true
 sections:
   - title: 'Connect with Dzaleka Artists, Entrepreneurs and Creators.'
