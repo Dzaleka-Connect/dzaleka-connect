@@ -23,6 +23,10 @@ seo:
       value: Kiza Sango | Profile
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Kiza-sango.jpg
