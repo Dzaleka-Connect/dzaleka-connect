@@ -59,7 +59,7 @@ sections:
         actions:
           - label: Learn More
             url: 'https://dzalekaconnect.com/directory/profile/freddy_kwabo'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
