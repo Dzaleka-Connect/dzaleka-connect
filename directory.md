@@ -88,7 +88,7 @@ sections:
 
         actions:
           - label: Learn More
-            url: '#'
+            url: 'https://dzalekaconnect.com/directory/profile/marcel_cirhuza'
             style: link
             icon: dribbble
             new_window: false
