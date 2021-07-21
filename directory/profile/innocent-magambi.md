@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Innocent Magambi '
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
