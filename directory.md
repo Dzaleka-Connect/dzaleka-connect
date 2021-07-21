@@ -142,7 +142,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Jey.webp
-      - title: lorem-ipsum
+      - title: Valless Antony
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
