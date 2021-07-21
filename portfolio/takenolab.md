@@ -6,7 +6,11 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: >+
+    Takenolab is a learning center for information and communications technology
+    (ICT) serving refugees and the host community in and around Dzaleka Refugee
+    Camp in Malawi, Africa.
+
   robots: []
   extra: []
   type: stackbit_page_meta
