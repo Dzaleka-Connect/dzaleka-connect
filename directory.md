@@ -42,7 +42,7 @@ sections:
           Entrepreneur
         actions:
           - label: Learn More
-            url: /profile/eureka-exode
+            url: /directory/profile/eureka-exode
             style: button
             icon: dribbble
             new_window: false
