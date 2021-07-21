@@ -10,6 +10,13 @@ seo:
       value: Donate
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >+
+        We’re a small organization and we’re proud of the impact we make. But we
+        need your help to make more Dzaleka Refugee voices heard.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
