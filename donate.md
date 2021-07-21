@@ -5,7 +5,11 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Donate
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
