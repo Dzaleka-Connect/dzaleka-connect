@@ -1,6 +1,6 @@
 ---
 title: 'Innocent Magambi '
-subtitle: Chief Executive Officer at INUA Consulting
+subtitle: Chief Executive Officer at INUA Consulting and Author of "Refugee for Life"
 image_alt: lorem-ipsum
 seo:
   title: ''
