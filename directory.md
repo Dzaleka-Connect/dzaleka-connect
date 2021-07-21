@@ -239,17 +239,10 @@ sections:
         image: images/Rose Kabonga.jpg
       - title: Amisi Jospin Hassan
         image_alt: Amisi Jospin Hassan
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Adai Circle Co-Founder & Entreprenuer
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
       - title: lorem-ipsum
