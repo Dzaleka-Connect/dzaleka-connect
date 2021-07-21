@@ -13,6 +13,14 @@ seo:
       value: Kibébé
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        Kibebe designs ethical, eco-inclusive, highly curated products for the
+        international market, to provide employment for refugee and Malawian
+        artisans.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
