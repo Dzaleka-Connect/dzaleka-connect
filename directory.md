@@ -245,6 +245,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/Rose Kabonga.jpg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
