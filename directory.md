@@ -114,6 +114,7 @@ sections:
           Poet, Musician
         actions: []
         type: grid_item
+        image: images/clever-octopus.jfif
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
