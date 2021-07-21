@@ -207,6 +207,7 @@ sections:
         content: "Educator\_\n\n"
         actions: []
         type: grid_item
+        image: images/Malawi 3.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
