@@ -163,7 +163,7 @@ sections:
         actions:
           - label: Facebook
             url: 'https://www.facebook.com/atolodavid80'
-            style: icon
+            style: button
             icon: facebook
             new_window: false
             no_follow: false
