@@ -42,7 +42,7 @@ sections:
           Entrepreneur
         actions:
           - label: Learn More
-            url: 'https://dzalekaconnect.com/directory/profile/eureka-exode'
+            url: /profile/eureka-exode
             style: button
             icon: dribbble
             new_window: false
