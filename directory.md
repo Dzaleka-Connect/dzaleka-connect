@@ -137,7 +137,7 @@ sections:
         type: grid_item
         image: images/artworks-000135173092-0oz4et-t500x500.jpg
       - title: Jay Extra
-        image_alt: lorem-ipsum
+        image_alt: Jay Extra
         content: >-
           ## Lorem ipsum
 
