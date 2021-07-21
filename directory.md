@@ -122,7 +122,7 @@ sections:
             type: action
         type: grid_item
         image: images/clever-octopus.jfif
-      - title: lorem-ipsum
+      - title: Menes la Plume
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
