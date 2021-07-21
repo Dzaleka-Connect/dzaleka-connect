@@ -9,9 +9,8 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+We’re a small organization and we’re proud of the impact we make. But we need your help to make more Dzaleka Refugee voices heard.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+If you would like to support our work financially, you can do so via [this page](https://www.paypal.com/donate?hosted_button_id=RVSXPU74SV238).
+ ![](https://www.paypal.com/en_AU/i/scr/pixel.gif)
 
-- Lorem ipsum
-- dolor sit amet
