@@ -210,17 +210,8 @@ sections:
         image: images/Malawi 3.jpg
       - title: Obadiah
         image_alt: Obadiah
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Guitarist
         actions: []
         type: grid_item
       - title: lorem-ipsum
