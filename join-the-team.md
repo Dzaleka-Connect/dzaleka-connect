@@ -2,7 +2,7 @@
 title: Join the team
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Join the team
   description: ''
   robots: []
   extra: []
