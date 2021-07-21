@@ -124,17 +124,8 @@ sections:
         image: images/clever-octopus.jfif
       - title: Menes la Plume
         image_alt: Menes la Plume
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Musician & Founder of Tumaini Festival
         actions: []
         type: grid_item
         image: images/artworks-000135173092-0oz4et-t500x500.jpg
