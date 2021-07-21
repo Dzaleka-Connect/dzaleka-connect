@@ -68,3 +68,5 @@ Kibébé’s story is personal, yet universal. It encompasses every family’s 
 Our mission is to economically empower these families to support themselves and create inclusive products that can be enjoyed by anyone from any cultural background. Besides directly providing jobs, Kibébé donates all of its profits to vocational training programs and college scholarships for refugees by There is Hope. 
 
 Since the inception of Kibébé in 2014, our brand has been loved by our local community in Lilongwe, Malawi’s capital city. To bring Kibébé to its broader international community, a group of skilled and passionate volunteers finally established Kibébé International as a 501c(3) non-profit organization in the US in 2019. 
+
+[Learn More](https://kibebe.com/)
