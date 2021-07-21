@@ -1,6 +1,6 @@
 ---
 title: Kibébé
-subtitle: lorem-ipsum
+subtitle: Our Story
 date: '2021-07-21'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
