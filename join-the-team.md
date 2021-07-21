@@ -29,6 +29,13 @@ seo:
         to dzalekaconnect@gmail.com if you would like to find out more.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        We are often looking for volunteers to support our work in Dzaleka
+        Refugee Camp, Malawi. Send an email with your CV and your availability
+        to dzalekaconnect@gmail.com if you would like to find out more.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
