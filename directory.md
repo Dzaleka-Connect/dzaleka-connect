@@ -274,7 +274,14 @@ sections:
         content: >
           Chief Executive Officer at INUA Consulting & Author of Refugee for
           Life
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/1620160024880.jpg
     type: section_grid
