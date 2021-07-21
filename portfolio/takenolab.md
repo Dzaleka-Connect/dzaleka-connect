@@ -45,6 +45,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/tknlb27.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 thumb_image: images/tknlb27.jpeg
