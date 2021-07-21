@@ -284,7 +284,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-        image: images/Innocent Magambi.jpg
+        image: images/1620160024880.jpg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
