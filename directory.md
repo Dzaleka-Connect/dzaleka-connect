@@ -86,7 +86,7 @@ sections:
           Social Entrepreneur - Fountain of Hope
         actions:
           - label: Learn More
-            url: /profile/marcel_cirhuza
+            url: /directory/profile/marcel_cirhuza
             style: button
             icon: dribbble
             new_window: false
