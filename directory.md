@@ -204,17 +204,7 @@ sections:
         image: images/20210518_MWI_Badre-Bahaji_IO_-6.jpg
       - title: Raymond
         image_alt: Raymond
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Educator\_\n\n"
         actions: []
         type: grid_item
       - title: lorem-ipsum
