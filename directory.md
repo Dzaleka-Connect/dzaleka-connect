@@ -262,7 +262,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Jack Buyol.jpeg
-      - title: lorem-ipsum
+      - title: Ramazani Hassan Boateng
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
