@@ -256,7 +256,7 @@ sections:
         type: grid_item
         image: images/patrickp.jpg
       - title: Jack Buyol
-        image_alt: lorem-ipsum
+        image_alt: Jack Buyol
         content: >-
           ## Lorem ipsum
 
