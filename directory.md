@@ -195,7 +195,7 @@ sections:
         actions: []
         type: grid_item
         image: images/artworks-000575731925-lsprt5-t500x500.jpg
-      - title: lorem-ipsum
+      - title: La Pearl DJ
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
