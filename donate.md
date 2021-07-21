@@ -17,6 +17,13 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        We’re a small organization and we’re proud of the impact we make. But we
+        need your help to make more Dzaleka Refugee voices heard.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
