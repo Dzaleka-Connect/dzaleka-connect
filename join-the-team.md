@@ -14,6 +14,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Join the team
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
