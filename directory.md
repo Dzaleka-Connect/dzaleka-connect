@@ -157,7 +157,7 @@ sections:
             type: action
         type: grid_item
         image: images/En Vee.webp
-      - title: lorem-ipsum
+      - title: Atolo David
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
