@@ -159,17 +159,7 @@ sections:
         image: images/En Vee.webp
       - title: Atolo David
         image_alt: Atolo David
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Musician\_\n"
         actions: []
         type: grid_item
       - title: lorem-ipsum
