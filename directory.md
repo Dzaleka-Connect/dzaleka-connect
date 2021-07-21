@@ -232,17 +232,8 @@ sections:
         image: images/Junior Mafia.jpg
       - title: Rose Kabonga
         image_alt: Rose Kabonga
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Activist
         actions: []
         type: grid_item
         image: images/Rose Kabonga.jpg
