@@ -138,17 +138,7 @@ sections:
         image: images/artworks-000135173092-0oz4et-t500x500.jpg
       - title: Jay Extra
         image_alt: Jay Extra
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Musician\_\n\n"
         actions: []
         type: grid_item
       - title: lorem-ipsum
