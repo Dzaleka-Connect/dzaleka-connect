@@ -12,7 +12,15 @@ seo:
     Camp in Malawi, Africa.
 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >+
+        Takenolab is a learning center for information and communications
+        technology (ICT) serving refugees and the host community in and around
+        Dzaleka Refugee Camp in Malawi, Africa.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
