@@ -5,7 +5,7 @@ date: '2021-07-21'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: 'Takenolab - School of information and communications technology (ICT) '
   description: >+
     Takenolab is a learning center for information and communications technology
     (ICT) serving refugees and the host community in and around Dzaleka Refugee
