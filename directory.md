@@ -100,7 +100,7 @@ sections:
           Poet & Founder of The Branches Art
         actions:
           - label: Learn More
-            url: '#'
+            url: /profile/john_kazadi
             style: link
             icon: dribbble
             new_window: false
