@@ -208,7 +208,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Malawi 3.jpg
-      - title: lorem-ipsum
+      - title: 'educator '
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
