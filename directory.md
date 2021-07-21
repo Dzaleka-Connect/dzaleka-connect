@@ -150,7 +150,7 @@ sections:
         actions:
           - label: Learn More
             url: /profile/en_vee
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
