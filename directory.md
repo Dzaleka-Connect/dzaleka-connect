@@ -229,6 +229,7 @@ sections:
 
         actions: []
         type: grid_item
+        image: images/Junior Mafia.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
