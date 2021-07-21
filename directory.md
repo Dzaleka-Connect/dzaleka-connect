@@ -245,6 +245,7 @@ sections:
 
         actions: []
         type: grid_item
+        image: images/Amisi Jospin Hassan.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
