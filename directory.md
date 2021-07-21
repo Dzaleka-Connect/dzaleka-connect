@@ -209,7 +209,7 @@ sections:
         type: grid_item
         image: images/Malawi 3.jpg
       - title: Obadiah
-        image_alt: lorem-ipsum
+        image_alt: Obadiah
         content: >-
           ## Lorem ipsum
 
