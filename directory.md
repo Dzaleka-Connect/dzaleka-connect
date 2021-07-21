@@ -190,7 +190,7 @@ sections:
         type: grid_item
         image: images/Dan Pascal.jpg
       - title: Job Yanga
-        image_alt: lorem-ipsum
+        image_alt: Job Yanga
         content: >-
           ## Lorem ipsum
 
