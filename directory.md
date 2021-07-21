@@ -99,7 +99,7 @@ sections:
         content: |
           Poet & Founder of The Branches Art
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             icon: dribbble
