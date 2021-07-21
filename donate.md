@@ -2,7 +2,7 @@
 title: Donate
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Donate
   description: >+
     We’re a small organization and we’re proud of the impact we make. But we
     need your help to make more Dzaleka Refugee voices heard.
