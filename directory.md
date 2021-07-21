@@ -137,6 +137,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/artworks-000135173092-0oz4et-t500x500.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
