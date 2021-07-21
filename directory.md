@@ -246,7 +246,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Amisi Jospin Hassan.jpg
-      - title: lorem-ipsum
+      - title: Byamasu Paul Patrick
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
