@@ -47,6 +47,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 thumb_image: images/kibebe.png
+image: images/kibebe.png
 ---
 The name “Kibébé” contains two words--“Ki” and “bébé.” The prefix "Ki" as "big" is used as slang by the Kiswahili speakers in the community we work with and “bébé” means “baby” in French. When our artisan community say Kibébé, they mean "big healthy baby" as a compliment. It highlights two important elements of our humble origins. 
 
