@@ -170,7 +170,7 @@ sections:
             type: action
         type: grid_item
         image: images/2P6DI0Al.jpg
-      - title: lorem-ipsum
+      - title: Shukuru Felixson
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
