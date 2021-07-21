@@ -162,6 +162,7 @@ sections:
         content: "Musician\_\n"
         actions: []
         type: grid_item
+        image: images/2P6DI0Al.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
