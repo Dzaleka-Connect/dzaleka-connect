@@ -24,6 +24,10 @@ seo:
 
       keyName: name
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Donate
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
