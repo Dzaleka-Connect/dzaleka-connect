@@ -108,7 +108,7 @@ sections:
             type: action
         type: grid_item
         image: images/John-kazadi.jpg
-      - title: lorem-ipsum
+      - title: James Niyomugabo
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
