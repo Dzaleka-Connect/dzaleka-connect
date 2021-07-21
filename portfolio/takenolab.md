@@ -1,6 +1,6 @@
 ---
 title: Takenolab
-subtitle: lorem-ipsum
+subtitle: School of ICT
 date: '2021-07-21'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
