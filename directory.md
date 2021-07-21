@@ -172,17 +172,7 @@ sections:
         image: images/2P6DI0Al.jpg
       - title: Shukuru Felixson
         image_alt: Shukuru Felixson
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Musician\_\n"
         actions: []
         type: grid_item
         image: images/important-robin.webp
