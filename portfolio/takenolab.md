@@ -21,6 +21,14 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        Takenolab is a learning center for information and communications
+        technology (ICT) serving refugees and the host community in and around
+        Dzaleka Refugee Camp in Malawi, Africa.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
