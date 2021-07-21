@@ -188,6 +188,7 @@ sections:
         content: "Musician\_\n\n"
         actions: []
         type: grid_item
+        image: images/Dan Pascal.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
