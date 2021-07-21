@@ -33,6 +33,10 @@ seo:
       value: wesbite
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Takenolab
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
