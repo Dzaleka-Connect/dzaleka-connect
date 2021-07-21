@@ -276,7 +276,7 @@ sections:
           Life
         actions:
           - label: Learn More
-            url: '#'
+            url: /profile/innocent-magambi
             style: button
             icon: dribbble
             new_window: false
