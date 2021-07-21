@@ -264,17 +264,8 @@ sections:
         image: images/Jack Buyol.jpeg
       - title: Ramazani Hassan Boateng
         image_alt: Ramazani Hassan Boateng
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Chief Finance Officer @ Adai Circle
         actions: []
         type: grid_item
         image: images/ramadhan 1.jpg
