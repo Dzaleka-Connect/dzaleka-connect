@@ -22,6 +22,12 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >-
+        We are often looking for volunteers to support our work in Dzaleka
+        Refugee Camp, Malawi.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
