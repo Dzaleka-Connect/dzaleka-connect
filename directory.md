@@ -183,7 +183,7 @@ sections:
             type: action
         type: grid_item
         image: images/important-robin.webp
-      - title: lorem-ipsum
+      - title: Dan Pascal
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
