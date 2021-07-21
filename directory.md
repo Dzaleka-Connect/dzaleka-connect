@@ -58,7 +58,7 @@ sections:
 
         actions:
           - label: Learn More
-            url: //directory/profile/freddy_kwabo
+            url: /directory/profile/freddy_kwabo
             style: button
             icon: dribbble
             new_window: false
