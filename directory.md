@@ -109,7 +109,7 @@ sections:
         type: grid_item
         image: images/John-kazadi.jpg
       - title: James Niyomugabo
-        image_alt: lorem-ipsum
+        image_alt: James Niyomugabo
         content: |
           Poet, Musician
         actions: []
