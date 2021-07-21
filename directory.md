@@ -173,7 +173,14 @@ sections:
       - title: Shukuru Felixson
         image_alt: Shukuru Felixson
         content: "Musician\_\n"
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/important-robin.webp
       - title: lorem-ipsum
