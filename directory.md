@@ -247,7 +247,7 @@ sections:
         type: grid_item
         image: images/Amisi Jospin Hassan.jpg
       - title: Byamasu Paul Patrick
-        image_alt: lorem-ipsum
+        image_alt: Byamasu Paul Patrick
         content: >-
           ## Lorem ipsum
 
