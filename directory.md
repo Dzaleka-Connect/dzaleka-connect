@@ -194,6 +194,7 @@ sections:
         content: "Musician\_\n\n"
         actions: []
         type: grid_item
+        image: images/artworks-000575731925-lsprt5-t500x500.jpg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
