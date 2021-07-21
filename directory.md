@@ -161,7 +161,7 @@ sections:
         image_alt: Atolo David
         content: "Musician\_\n"
         actions:
-          - label: lorem-ipsum
+          - label: Facebook
             url: '#'
             style: link
             icon: dribbble
