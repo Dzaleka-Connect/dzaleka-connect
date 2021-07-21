@@ -34,7 +34,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: Takenolab
+      value: 'Takenolab - School of information and communications technology (ICT) '
       keyName: property
       relativeUrl: false
   type: stackbit_page_meta
