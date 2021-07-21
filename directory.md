@@ -270,6 +270,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/Jack Buyol.jpeg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
