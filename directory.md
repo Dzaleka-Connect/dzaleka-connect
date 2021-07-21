@@ -216,7 +216,7 @@ sections:
         type: grid_item
         image: images/Obadiah.jpg
       - title: Andy
-        image_alt: lorem-ipsum
+        image_alt: Andy
         content: >-
           ## Lorem ipsum
 
