@@ -191,17 +191,7 @@ sections:
         image: images/Dan Pascal.jpg
       - title: Job Yanga
         image_alt: Job Yanga
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Musician\_\n\n"
         actions: []
         type: grid_item
     type: section_grid
