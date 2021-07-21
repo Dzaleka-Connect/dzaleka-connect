@@ -248,17 +248,10 @@ sections:
         image: images/Amisi Jospin Hassan.jpg
       - title: Byamasu Paul Patrick
         image_alt: Byamasu Paul Patrick
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Adai Circle Co-Founder
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
       - title: lorem-ipsum
