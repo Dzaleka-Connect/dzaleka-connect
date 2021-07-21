@@ -201,6 +201,7 @@ sections:
           DJ
         actions: []
         type: grid_item
+        image: images/20210518_MWI_Badre-Bahaji_IO_-6.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
