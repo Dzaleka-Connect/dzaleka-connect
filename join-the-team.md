@@ -5,7 +5,11 @@ seo:
   title: Join the team
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Join the team
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
