@@ -195,6 +195,21 @@ sections:
         actions: []
         type: grid_item
         image: images/artworks-000575731925-lsprt5-t500x500.jpg
+      - title: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
