@@ -48,9 +48,8 @@ seo:
   type: stackbit_page_meta
 layout: project
 ---
-## Lorem ipsum
+TakenoLAB is a school of technology that teaches communities how to develop software professionally and provides communities with different technological platforms to practice and express skills. It is also helping people to find solutions to their problems by connecting with online jobs. takenoLAB is there to help marginalized communities to become technologically advanced.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+**MISSION: **To teach everyone how to code, and to provide platforms for learning, practicing, and expressing skills in constructing meaningful solutions
