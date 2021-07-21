@@ -224,17 +224,9 @@ sections:
         image: images/Andy.jpg
       - title: Junior Mafia
         image_alt: Junior Mafia
-        content: >-
-          ## Lorem ipsum
+        content: |+
+          Musician and Entrepreneur
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
       - title: lorem-ipsum
