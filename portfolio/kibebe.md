@@ -33,6 +33,10 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Kibébé
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
