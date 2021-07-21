@@ -37,6 +37,10 @@ seo:
       value: 'Takenolab - School of information and communications technology (ICT) '
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Takenolab - School of information and communications technology (ICT) '
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
