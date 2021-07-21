@@ -215,7 +215,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Obadiah.jpg
-      - title: lorem-ipsum
+      - title: Andy
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
