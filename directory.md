@@ -175,7 +175,7 @@ sections:
         content: "Musician\_\n"
         actions:
           - label: Learn More
-            url: /profile/shukuru-felixson
+            url: /directory/profile/shukuru-felixson
             style: button
             icon: dribbble
             new_window: false
