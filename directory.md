@@ -217,17 +217,8 @@ sections:
         image: images/Obadiah.jpg
       - title: Andy
         image_alt: Andy
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Computer Programmer
         actions: []
         type: grid_item
         image: images/Andy.jpg
