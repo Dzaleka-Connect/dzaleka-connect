@@ -6,7 +6,10 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: Kibébé
-  description: ''
+  description: >
+    Kibebe designs ethical, eco-inclusive, highly curated products for the
+    international market, to provide employment for refugee and Malawian
+    artisans.
   robots: []
   extra:
     - name: 'twitter:title'
