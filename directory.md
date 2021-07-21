@@ -164,7 +164,7 @@ sections:
           - label: Facebook
             url: '#'
             style: link
-            icon: dribbble
+            icon: facebook
             new_window: false
             no_follow: false
             type: action
