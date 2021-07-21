@@ -2,7 +2,7 @@
 title: Takenolab
 subtitle: School of ICT
 date: '2021-07-21'
-thumb_image_alt: lorem-ipsum
+thumb_image_alt: Takenolab
 image_alt: lorem-ipsum
 seo:
   title: 'Takenolab - School of information and communications technology (ICT) '
