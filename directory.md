@@ -257,17 +257,8 @@ sections:
         image: images/patrickp.jpg
       - title: Jack Buyol
         image_alt: Jack Buyol
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Chief Technology Officer @ Adai Circle
         actions: []
         type: grid_item
         image: images/Jack Buyol.jpeg
