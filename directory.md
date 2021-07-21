@@ -197,17 +197,8 @@ sections:
         image: images/artworks-000575731925-lsprt5-t500x500.jpg
       - title: La Pearl DJ
         image_alt: La Pearl DJ
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          DJ
         actions: []
         type: grid_item
       - title: lorem-ipsum
