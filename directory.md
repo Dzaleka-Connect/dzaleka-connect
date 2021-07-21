@@ -112,7 +112,14 @@ sections:
         image_alt: James Niyomugabo
         content: |
           Poet, Musician
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/clever-octopus.jfif
       - title: lorem-ipsum
