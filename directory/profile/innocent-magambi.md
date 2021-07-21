@@ -1,6 +1,6 @@
 ---
 title: 'Innocent Magambi '
-subtitle: lorem-ipsum
+subtitle: Chief Executive Officer at INUA Consulting
 image_alt: lorem-ipsum
 seo:
   title: ''
