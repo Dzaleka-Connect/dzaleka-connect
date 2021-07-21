@@ -3,7 +3,10 @@ title: Join the team
 image_alt: lorem-ipsum
 seo:
   title: Join the team
-  description: ''
+  description: >-
+    We are often looking for volunteers to support our work in Dzaleka Refugee
+    Camp, Malawi. Send an email with your CV and your availability to
+    dzalekaconnect@gmail.com if you would like to find out more.
   robots: []
   extra:
     - name: 'og:title'
