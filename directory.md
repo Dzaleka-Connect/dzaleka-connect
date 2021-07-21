@@ -95,7 +95,7 @@ sections:
         type: grid_item
         image: images/Marcel.jpg
       - title: John Kazadi
-        image_alt: lorem-ipsum
+        image_alt: John Kazadi
         content: |
           Poet & Founder of The Branches Art
         actions:
