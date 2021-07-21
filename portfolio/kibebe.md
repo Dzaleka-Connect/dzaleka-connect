@@ -5,10 +5,14 @@ date: '2021-07-21'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Kibébé
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'twitter:title'
+      value: Kibébé
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
