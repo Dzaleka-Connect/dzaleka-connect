@@ -163,7 +163,7 @@ sections:
         actions:
           - label: Facebook
             url: '#'
-            style: link
+            style: icon
             icon: facebook
             new_window: false
             no_follow: false
