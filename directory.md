@@ -214,6 +214,7 @@ sections:
           Guitarist
         actions: []
         type: grid_item
+        image: images/Obadiah.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
