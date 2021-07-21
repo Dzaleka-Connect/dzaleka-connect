@@ -44,6 +44,10 @@ seo:
       value: summary_large_image
       keyName: name
       relativeUrl: false
+    - name: 'og:image'
+      value: images/kibebe.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: project
 thumb_image: images/kibebe.png
