@@ -1,6 +1,5 @@
 ---
 title: Join the team
-subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
