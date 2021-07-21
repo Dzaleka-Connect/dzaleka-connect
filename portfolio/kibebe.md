@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Kibébé
 subtitle: lorem-ipsum
 date: '2021-07-21'
 thumb_image_alt: lorem-ipsum
