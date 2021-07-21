@@ -271,17 +271,9 @@ sections:
         image: images/ramadhan 1.jpg
       - title: Innocent Magambi
         image_alt: Innocent Magambi
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          Chief Executive Officer at INUA Consulting & Author of Refugee for
+          Life
         actions: []
         type: grid_item
         image: images/1620160024880.jpg
