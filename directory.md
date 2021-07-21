@@ -129,7 +129,7 @@ sections:
         actions:
           - label: Learn More
             url: /profile/tresor_mpauni
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
