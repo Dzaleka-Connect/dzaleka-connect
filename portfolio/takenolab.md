@@ -48,6 +48,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 thumb_image: images/tknlb27.jpeg
+image: images/tknlb27.jpeg
 ---
 TakenoLAB is a school of technology that teaches communities how to develop software professionally and provides communities with different technological platforms to practice and express skills. It is also helping people to find solutions to their problems by connecting with online jobs. takenoLAB is there to help marginalized communities to become technologically advanced.
 
