@@ -94,7 +94,7 @@ sections:
             type: action
         type: grid_item
         image: images/Marcel.jpg
-      - title: lorem-ipsum
+      - title: John Kazadi
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
