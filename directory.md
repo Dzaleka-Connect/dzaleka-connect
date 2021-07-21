@@ -114,7 +114,7 @@ sections:
           Poet, Musician
         actions:
           - label: Learn More
-            url: '#'
+            url: /profile/james_niyomugabo
             style: link
             icon: dribbble
             new_window: false
