@@ -128,7 +128,7 @@ sections:
           Musician & Founder of Tumaini Festival
         actions:
           - label: Learn More
-            url: /profile/tresor_mpauni
+            url: /directory/profile/tresor_mpauni
             style: button
             icon: dribbble
             new_window: false
