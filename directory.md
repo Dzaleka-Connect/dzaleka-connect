@@ -107,6 +107,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/John-kazadi.jpg
       - title: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
