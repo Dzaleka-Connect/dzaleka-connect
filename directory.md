@@ -101,7 +101,7 @@ sections:
         actions:
           - label: Learn More
             url: /profile/john_kazadi
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
