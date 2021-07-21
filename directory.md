@@ -230,7 +230,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Junior Mafia.jpg
-      - title: lorem-ipsum
+      - title: Rose Kabonga
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
