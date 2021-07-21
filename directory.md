@@ -269,7 +269,7 @@ sections:
         actions: []
         type: grid_item
         image: images/ramadhan 1.jpg
-      - title: lorem-ipsum
+      - title: Innocent Magambi
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
