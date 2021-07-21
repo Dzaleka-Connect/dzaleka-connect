@@ -222,7 +222,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Andy.jpg
-      - title: lorem-ipsum
+      - title: Junior Mafia
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
