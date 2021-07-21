@@ -237,7 +237,7 @@ sections:
         actions: []
         type: grid_item
         image: images/Rose Kabonga.jpg
-      - title: lorem-ipsum
+      - title: Amisi Jospin Hassan
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
