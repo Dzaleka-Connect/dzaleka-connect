@@ -126,7 +126,14 @@ sections:
         image_alt: Menes la Plume
         content: |
           Musician & Founder of Tumaini Festival
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/artworks-000135173092-0oz4et-t500x500.jpg
       - title: lorem-ipsum
