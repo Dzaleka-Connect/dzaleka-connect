@@ -185,17 +185,7 @@ sections:
         image: images/important-robin.webp
       - title: Dan Pascal
         image_alt: Dan Pascal
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "Musician\_\n\n"
         actions: []
         type: grid_item
       - title: lorem-ipsum
