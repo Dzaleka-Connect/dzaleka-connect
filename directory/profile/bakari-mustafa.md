@@ -18,4 +18,4 @@ He grew up in Malawi, a small country located in South-eastern Africa but was bo
 
 Dzaleka Connect is an online portal and directory dedicated to connecting people who have one main thing in common – Dzaleka Refugee Camp in Malawi, Africa – and a desire to better the lives of those who live or have lived there.
 
-Created by Bakari Mustafa, a Burundi-born – and as of 2015, Australian – entrepreneur, technologist, and former refugee, Dzaleka Connect offers both current and ex-residents and others who care about Dzaleka an opportunity to bring about social change by applying their passion and insight to a variety of projects that will benefit the future of Dzaleka and those in it.
+Created by Bakari Mustafa. Dzaleka Connect offers both current and ex-residents and others who care about Dzaleka an opportunity to bring about social change by applying their passion and insight to a variety of projects that will benefit the future of Dzaleka and those in it.
