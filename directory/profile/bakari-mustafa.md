@@ -18,6 +18,10 @@ seo:
       value: Bakari Mustafa
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Bakari Mustafa
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
