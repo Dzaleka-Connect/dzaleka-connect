@@ -28,6 +28,10 @@ seo:
         entrepreneur, technologist, and former refugee
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: profile
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
