@@ -14,6 +14,10 @@ seo:
         entrepreneur, technologist, and former refugee
       keyName: property
       relativeUrl: false
+    - name: 'og:title'
+      value: Bakari Mustafa
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
