@@ -40,6 +40,10 @@ seo:
       value: images/Bakari_Mustafa_Headshot.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
