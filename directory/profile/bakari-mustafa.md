@@ -2,7 +2,7 @@
 title: Bakari Mustafa
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Bakari Mustafa
   description: >-
     Bakari Mustafa, a Burundi-born – and as of 2015, Australian – entrepreneur,
     technologist, and former refugee
