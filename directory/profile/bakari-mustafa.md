@@ -8,6 +8,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+image: images/Bakari_Mustafa_Headshot.jpeg
 ---
 ## Lorem ipsum
 
