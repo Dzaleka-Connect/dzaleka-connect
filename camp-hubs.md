@@ -57,7 +57,7 @@ For those in Dzaleka, Malawi, and diaspora around the world, camp hubs will be �
 
 ### Get Involved with Dzaleka Connect
 
-We are looking to establish Dzaleka Connect in all the world's major cities and are looking for passionate people to help us with this. If you’re interested in setting up a hub in your area, we’d love to hear from you.
+We are looking to establish Dzaleka Connect Hub and are looking for passionate people to help us with this. If you’re interested we’d love to hear from you.
 
 > Get in touch via email at <dzalekaconnect@gmail.com>
 
