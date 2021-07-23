@@ -15,7 +15,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:title'
-      value: Bakari Mustafa
+      value: Bakari Mustafa | Dzaleka Connect
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
