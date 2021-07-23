@@ -4,7 +4,7 @@ image_alt: lorem-ipsum
 seo:
   title: Bakari Mustafa | Dzaleka Connect
   description: >-
-    Bakari Mustafa, a Burundi-born – and as of 2015, Australian – entrepreneur,
+    Bakari Mustafa, a Burundi-born – and a Australian – entrepreneur,
     technologist, and former refugee
   robots: []
   extra:
