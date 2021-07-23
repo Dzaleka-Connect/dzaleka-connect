@@ -1,5 +1,5 @@
 ---
-title: directory/profile
+title: Bakari Mustafa
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
