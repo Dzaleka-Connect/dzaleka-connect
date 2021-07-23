@@ -290,7 +290,7 @@ sections:
           Founder of Mentors Outreach & Hungry Innovators
         actions:
           - label: Learn More
-            url: '#'
+            url: /directory/profile/bakari-mustafa
             style: button
             icon: dribbble
             new_window: false
