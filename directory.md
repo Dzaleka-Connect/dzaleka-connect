@@ -297,6 +297,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/Bakari_Mustafa_Headshot.jpeg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
