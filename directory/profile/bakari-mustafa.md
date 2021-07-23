@@ -10,7 +10,7 @@ seo:
   extra:
     - name: 'og:description'
       value: >-
-        Bakari Mustafa, a Burundi-born – and a Australian – entrepreneur,
+        Bakari Mustafa, a Burundi-born – and a Australian entrepreneur,
         technologist, and former refugee
       keyName: property
       relativeUrl: false
