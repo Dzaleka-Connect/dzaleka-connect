@@ -285,7 +285,7 @@ sections:
         type: grid_item
         image: images/1620160024880.jpg
       - title: Bakari Mustafa
-        image_alt: lorem-ipsum
+        image_alt: Bakari Mustafa
         content: >-
           ## Lorem ipsum
 
