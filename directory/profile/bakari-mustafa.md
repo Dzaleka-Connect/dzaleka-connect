@@ -47,6 +47,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
+subtitle: Founder of Mentors Outreach & Hungry Innovators
 ---
 Bakari Mustafa is an African-born Australian Entrepreneur, Technologist, and Former Refugee.
 
