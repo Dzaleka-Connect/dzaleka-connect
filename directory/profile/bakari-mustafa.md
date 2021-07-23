@@ -5,7 +5,13 @@ seo:
   title: ''
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Bakari Mustafa, a Burundi-born – and as of 2015, Australian –
+        entrepreneur, technologist, and former refugee
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
