@@ -24,8 +24,8 @@ seo:
       relativeUrl: false
     - name: 'twitter:description'
       value: >-
-        Bakari Mustafa, a Burundi-born – and as of 2015, Australian –
-        entrepreneur, technologist, and former refugee
+        Bakari Mustafa, a Burundi-born – and a Australian entrepreneur,
+        technologist, and former refugee
       keyName: name
       relativeUrl: false
     - name: 'og:type'
