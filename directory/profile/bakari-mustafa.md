@@ -32,6 +32,10 @@ seo:
       value: profile
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: images/Bakari_Mustafa_Headshot.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: page
 image: images/Bakari_Mustafa_Headshot.jpeg
