@@ -288,7 +288,14 @@ sections:
         image_alt: Bakari Mustafa
         content: |
           Founder of Mentors Outreach & Hungry Innovators
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
 seo:
