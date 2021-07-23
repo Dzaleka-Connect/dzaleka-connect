@@ -3,7 +3,9 @@ title: Bakari Mustafa
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: >-
+    Bakari Mustafa, a Burundi-born – and as of 2015, Australian – entrepreneur,
+    technologist, and former refugee
   robots: []
   extra:
     - name: 'og:description'
