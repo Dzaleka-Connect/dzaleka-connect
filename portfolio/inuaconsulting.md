@@ -26,7 +26,7 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:title'
-      value: Inua Consulting
+      value: Inua Consulting - Advancing community based solutions
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
