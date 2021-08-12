@@ -1,7 +1,7 @@
 ---
 title: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
 date: '2021-08-12'
-image_alt: lorem-ipsum
+image_alt: Dzaleka.com
 seo:
   title: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
   description: >+
