@@ -5,7 +5,7 @@ date: '2021-08-12'
 thumb_image_alt: Inua Consulting
 image_alt: Inua Consulting
 seo:
-  title: Inua Consulting
+  title: Inua Consulting - Advancing community based solutions
   description: >-
     Inua Consulting works with social impact investors to deliver training to
     grassroots organizations that are deserving but not yet financially viable.
