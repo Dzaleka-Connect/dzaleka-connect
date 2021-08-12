@@ -5,7 +5,11 @@ seo:
   title: Volunteer
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Volunteer
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
