@@ -60,7 +60,7 @@ layout: post
 image: images/hvn-penn-school-malawi-768x1024.jpeg
 thumb_image: images/hvn-penn-school-malawi-768x1024.jpeg
 ---
-![](https://centraljersey.com/wp-content/uploads/sites/26/2021/05/hvn-penn-school-malawi-768x1024.jpeg)
+
 
 > Pennington School students sew hybrid sanitary napkins for girls in a refugee camp in Malawi.PHOTO COURTESY OF THE PENNINGTON SCHOOL
 
