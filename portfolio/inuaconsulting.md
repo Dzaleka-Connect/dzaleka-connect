@@ -14,6 +14,18 @@ layout: project
 ---
 **Inua Consulting** works with social impact investors to deliver training to grassroots organizations that are deserving but not yet financially viable. We journey with governments to develop healthy refugee policies, and we inspire communities for social justice action. We deliver in-person and online services.
 
+# Services
+
+1.  Early-stage organizational support
+
+2.  Refugee advocacy and integration
+
+3.  Storytelling for change
+
+4.  Faith and social justice
+
+5.  Philanthropy support
+
 #### Contact
 
 Inua Consulting, Innocent Magambi
