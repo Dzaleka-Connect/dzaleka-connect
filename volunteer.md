@@ -3,7 +3,11 @@ title: Volunteer
 image_alt: lorem-ipsum
 seo:
   title: Volunteer
-  description: ''
+  description: >+
+    We're a fast growing community organisation and are always looking for
+    people to help us take things to the next level! This is a great opportunity
+    to help thousands of Dzaleka refugees.
+
   robots: []
   extra:
     - name: 'og:title'
