@@ -5,7 +5,7 @@ date: '2021-08-12'
 thumb_image_alt: Inua Consulting
 image_alt: Inua Consulting
 seo:
-  title: ''
+  title: Inua Consulting
   description: ''
   robots: []
   extra: []
