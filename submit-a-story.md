@@ -25,7 +25,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: text
-        name: Story title
+        name: Title
         label: Title
         default_value: Story title
         options: []
