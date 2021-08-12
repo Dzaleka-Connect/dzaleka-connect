@@ -26,7 +26,7 @@
                 "type": "action"
             },
             {
-                "label": "Members Directory",
+                "label": "Directory",
                 "url": "/directory",
                 "style": "link",
                 "icon": "dribbble",
