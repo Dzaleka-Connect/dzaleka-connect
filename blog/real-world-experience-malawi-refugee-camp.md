@@ -1,6 +1,5 @@
 ---
 title: 'Real World Experience: Malawi Refugee Camp'
-subtitle: lorem-ipsum
 date: '2021-08-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
