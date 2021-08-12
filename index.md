@@ -47,7 +47,7 @@ sections:
           opportunity to make new connections.
 
 
-      - title: Create Profile
+      - title: Profile
         image_alt: lorem-ipsum
         content: >+
           Build your own personal and professinal profile to share with the
