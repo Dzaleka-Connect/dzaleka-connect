@@ -24,7 +24,7 @@ sections:
         label: Subject
         default_value: Please select
         options:
-          - Error on the site
+          - Submit a Story
           - Sponsorship
           - Volunteering
           - Other
