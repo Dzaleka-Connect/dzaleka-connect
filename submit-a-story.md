@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Submit a Story
 hide_title: true
 sections:
   - title: Submit a Story
