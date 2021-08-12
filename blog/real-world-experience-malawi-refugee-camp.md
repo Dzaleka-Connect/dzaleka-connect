@@ -41,9 +41,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+In December 2010, Medill Assistant Professor Brent Huffman and a group of five Northwestern students visited a refugee camp in Malawi to document life there.
