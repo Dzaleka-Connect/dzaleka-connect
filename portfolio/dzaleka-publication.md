@@ -36,6 +36,10 @@ seo:
       value: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
       keyName: name
       relativeUrl: false
+    - name: 'og:type'
+      value: webiste
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
