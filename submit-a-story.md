@@ -46,7 +46,7 @@ sections:
         options: []
         is_required: false
         type: form_field
-    submit_label: lorem-ipsum
+    submit_label: Send
     type: section_form
 seo:
   title: ''
