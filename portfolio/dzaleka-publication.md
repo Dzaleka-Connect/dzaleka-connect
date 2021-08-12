@@ -12,7 +12,15 @@ seo:
     international media and events.
 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >+
+        Dzaleka.com is a community and platform for Dzaleka Refugee Voices,
+        Stories, Artists, and thought. We aim to ensure refugee
+        self-representation in international media and events.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
