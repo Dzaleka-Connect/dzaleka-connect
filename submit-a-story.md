@@ -29,7 +29,7 @@ sections:
         label: Title
         default_value: Story title
         options: []
-        is_required: false
+        is_required: true
         type: form_field
       - input_type: textarea
         name: Story
