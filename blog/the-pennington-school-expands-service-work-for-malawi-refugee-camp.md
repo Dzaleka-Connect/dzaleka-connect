@@ -32,6 +32,15 @@ seo:
       value: images/hvn-penn-school-malawi-768x1024.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >+
+        Over the past three years, students at The Pennington School have been
+        using their STEM (science, technology, engineering, math) skills to
+        solve real-world problems and provide needed resources to the schools at
+        the Dzaleka Refugee Camp in Malawi, Africa.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 image: images/hvn-penn-school-malawi-768x1024.jpeg
