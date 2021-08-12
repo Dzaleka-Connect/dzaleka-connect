@@ -2,7 +2,7 @@
 title: lorem-ipsum
 hide_title: true
 sections:
-  - title: contact-
+  - title: Submit a Story
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
