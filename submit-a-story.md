@@ -49,6 +49,10 @@ seo:
       value: Submit a Story
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Submit a Story
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
