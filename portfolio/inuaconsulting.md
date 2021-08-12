@@ -18,6 +18,13 @@ seo:
         viable.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >-
+        Inua Consulting works with social impact investors to deliver training
+        to grassroots organizations that are deserving but not yet financially
+        viable.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 image: images/inno-2021-1024x576.jpeg
