@@ -30,11 +30,9 @@ sections:
 
 
       - title: Events
-        content: >+
+        content: >
           Find Events & Discuss local events for meeting other Dzaleka in your
-          area.
-
-
+          area. e.g, Tumaini Festival
       - title: Community Discussion
         content: >+
           Fuel your passion – start or join a discussion on a matter close to
