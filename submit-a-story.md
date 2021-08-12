@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 sections:
   - title: Submit a Story
-    section_id: sub
+    section_id: submit-story
     content: |
       Want to pitch a story that matters to you? Submit a Story
       Fields marked with an \* are required
