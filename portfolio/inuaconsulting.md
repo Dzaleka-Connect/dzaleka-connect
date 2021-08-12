@@ -10,7 +10,14 @@ seo:
     Inua Consulting works with social impact investors to deliver training to
     grassroots organizations that are deserving but not yet financially viable.
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >-
+        Inua Consulting works with social impact investors to deliver training
+        to grassroots organizations that are deserving but not yet financially
+        viable.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 image: images/inno-2021-1024x576.jpeg
