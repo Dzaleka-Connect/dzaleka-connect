@@ -53,6 +53,7 @@ seo:
 layout: project
 thumb_image: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
 thumb_image_alt: Dzaleka.com
+image: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
 ---
 [Dzaleka.com](http://dzaleka.com/) is an independent journalism and community platform dedicated to greater clarity and more informed public engagement on refugees in Dzaleka Refugee Camp.
 
