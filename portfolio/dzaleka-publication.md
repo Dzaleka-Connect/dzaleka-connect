@@ -4,7 +4,7 @@ date: '2021-08-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
   description: >+
     Dzaleka.com is a community and platform for Dzaleka Refugee Voices, Stories,
     Artists, and thought. We aim to ensure refugee self-representation in
