@@ -42,7 +42,7 @@ sections:
     type: section_form
 seo:
   title: Submit a Story
-  description: ''
+  description: Want to pitch a story that matters to you? Submit a Story
   robots: []
   extra:
     - name: 'og:title'
