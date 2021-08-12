@@ -47,4 +47,4 @@ We're looking for help with the following areas:
 
 ## Apply
 
-If this sounds like it's for you, apply here.
+Send an email with your CV and your availability to <dzalekaconnect@gmail.com> if you would like to find out more.
