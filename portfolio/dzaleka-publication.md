@@ -32,6 +32,10 @@ seo:
       value: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
