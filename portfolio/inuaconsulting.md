@@ -16,7 +16,7 @@ layout: project
 
 #### Contact
 
-**Inua Consulting, **Innocent Magambi
+Inua Consulting, Innocent Magambi
 
 [Email: info@inuaconsulting.com](mailto:info@inuaconsulting.com)
 
