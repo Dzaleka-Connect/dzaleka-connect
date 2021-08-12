@@ -16,7 +16,7 @@ sections:
 
       - dolor sit amet
     form_id: submit-story
-    form_action: contact-form
+    form_action: submit-story
     form_fields:
       - input_type: text
         name: Name
