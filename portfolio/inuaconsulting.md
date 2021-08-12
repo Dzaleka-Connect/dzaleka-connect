@@ -45,6 +45,10 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'twitter:card'
+      value: summary_large_image
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 image: images/inno-2021-1024x576.jpeg
