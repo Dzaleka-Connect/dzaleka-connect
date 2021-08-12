@@ -34,7 +34,7 @@ sections:
         type: form_field
       - input_type: textarea
         name: Story
-        label: Story
+        label: Story *
         default_value: Your Story
         options: []
         is_required: true
