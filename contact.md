@@ -27,7 +27,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-          - lorem-ipsum
+          - Volunteer
       - input_type: textarea
         name: message
         label: Message
