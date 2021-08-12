@@ -14,6 +14,8 @@ layout: post
 ---
 ![](https://centraljersey.com/wp-content/uploads/sites/26/2021/05/hvn-penn-school-malawi-768x1024.jpeg)
 
+> Pennington School students sew hybrid sanitary napkins for girls in a refugee camp in Malawi.PHOTO COURTESY OF THE PENNINGTON SCHOOL
+
 Over the past three years, students at The Pennington School have been using their STEM (science, technology, engineering, math) skills to solve real-world problems and provide needed resources to the schools at the Dzaleka Refugee Camp in Malawi, Africa.
 
 This year, Pennington students have refurbished iPads, provided online math tutoring sessions, designed a hybrid sanitary napkin, and developed lessons on solar power for the high school at the African camp.
