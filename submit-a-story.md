@@ -20,7 +20,7 @@ sections:
         type: form_field
       - input_type: email
         name: Email
-        label: Email
+        label: Email *
         default_value: Email
         options: []
         is_required: true
