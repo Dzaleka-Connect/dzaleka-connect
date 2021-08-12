@@ -52,7 +52,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Submit a Story
+      value: Submit a Story  - Dzaleka Connect
       keyName: name
       relativeUrl: false
     - name: 'twitter:description'
