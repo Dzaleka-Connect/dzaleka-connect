@@ -20,6 +20,10 @@ seo:
       value: article
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: The Pennington School expands service work for Malawi refugee camp
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 image: images/hvn-penn-school-malawi-768x1024.jpeg
