@@ -30,7 +30,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: Inua Consulting
+      value: Inua Consulting - Advancing community based solutions
       keyName: name
       relativeUrl: false
     - name: 'twitter:image'
