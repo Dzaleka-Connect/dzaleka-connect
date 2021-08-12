@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+image: images/hvn-penn-school-malawi-768x1024.jpeg
 ---
 ![](https://centraljersey.com/wp-content/uploads/sites/26/2021/05/hvn-penn-school-malawi-768x1024.jpeg)
 
