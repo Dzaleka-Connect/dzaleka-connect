@@ -1,6 +1,6 @@
 ---
 title: Inua Consulting
-subtitle: lorem-ipsum
+subtitle: 'Inua is a Kiswahili word that means lift, uplift or raise.'
 date: '2021-08-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
