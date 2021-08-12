@@ -4,17 +4,9 @@ hide_title: true
 sections:
   - title: Submit a Story
     section_id: contact-form
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: |
+      Want to pitch a story that matters to you? Submit a Story
+      Fields marked with an \* are required
     form_id: submit-story
     form_action: submit-story
     form_fields:
