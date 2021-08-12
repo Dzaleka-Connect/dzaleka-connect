@@ -8,7 +8,7 @@ image_alt: >-
   Pennington School students sew hybrid sanitary napkins for girls in a refugee
   camp in Malawi.PHOTO COURTESY OF THE PENNINGTON SCHOOL
 seo:
-  title: ''
+  title: The Pennington School expands service work for Malawi refugee camp
   description: ''
   robots: []
   extra: []
