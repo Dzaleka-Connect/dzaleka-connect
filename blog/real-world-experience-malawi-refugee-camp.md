@@ -41,6 +41,4 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-
-
 In December 2010, Medill Assistant Professor Brent Huffman and a group of five Northwestern students visited a refugee camp in Malawi to document life there.
