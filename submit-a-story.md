@@ -21,7 +21,7 @@ sections:
       - input_type: text
         name: Fullname
         label: Name
-        default_value: lorem-ipsum
+        default_value: Full Name
         options: []
         is_required: false
         type: form_field
