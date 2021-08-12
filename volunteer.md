@@ -2,7 +2,7 @@
 title: Volunteer
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: Volunteer
   description: ''
   robots: []
   extra: []
