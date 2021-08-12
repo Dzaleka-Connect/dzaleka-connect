@@ -60,7 +60,7 @@ sections:
         image_alt: lorem-ipsum
         content: >
           Join a growing range of CAMP Hubs to connect with like-minded people
-          near you, e.g, TakanoLAB & Appfactory
+          near you, e.g, TakanoLAB, Adai Circle & Appfactory
         actions: []
         type: grid_item
 seo:
