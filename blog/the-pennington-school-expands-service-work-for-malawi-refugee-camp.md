@@ -1,6 +1,5 @@
 ---
 title: The Pennington School expands service work for Malawi refugee camp
-subtitle: lorem-ipsum
 date: '2021-08-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
