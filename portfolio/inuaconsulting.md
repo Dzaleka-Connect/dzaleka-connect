@@ -16,7 +16,10 @@ layout: project
 
 #### Contact
 
-*   **Inua Consulting**
-    Innocent Magambi
-    <info@inuaconsulting.com>
-    \+265 882 717 995
+**Inua Consulting**
+
+Innocent Magambi
+
+<info@inuaconsulting.com>
+
+\+265 882 717 995
