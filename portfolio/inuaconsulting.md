@@ -26,6 +26,8 @@ layout: project
 
 5.  Philanthropy support
 
+Learn More, <https://inuaconsulting.com/>
+
 #### Contact
 
 Inua Consulting, Innocent Magambi
