@@ -60,7 +60,9 @@ seo:
       keyName: name
       relativeUrl: false
     - name: 'og:description'
-      value: Want to pitch a story that matters to you? Submit a Story
+      value: >-
+        Share your story with us or nominate a friend, wherever they are in the
+        world, to tell theirs.
       keyName: property
       relativeUrl: false
     - name: 'og:type'
