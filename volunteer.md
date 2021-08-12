@@ -18,6 +18,14 @@ seo:
       value: website
       keyName: property
       relativeUrl: false
+    - name: 'og:description'
+      value: >+
+        We're a fast growing community organisation and are always looking for
+        people to help us take things to the next level! This is a great
+        opportunity to help thousands of Dzaleka refugees.
+
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
