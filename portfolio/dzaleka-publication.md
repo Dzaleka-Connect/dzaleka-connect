@@ -28,6 +28,10 @@ seo:
 
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
