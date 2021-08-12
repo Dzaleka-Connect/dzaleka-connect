@@ -19,7 +19,7 @@ sections:
     form_action: lorem-ipsum
     form_fields:
       - input_type: text
-        name: Fullname
+        name: Name
         label: Name
         default_value: Full Name
         options: []
