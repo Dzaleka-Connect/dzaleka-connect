@@ -10,6 +10,10 @@ seo:
       value: Volunteer
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Volunteer
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 ---
