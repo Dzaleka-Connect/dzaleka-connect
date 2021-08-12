@@ -41,7 +41,7 @@ sections:
     submit_label: Submit
     type: section_form
 seo:
-  title: ''
+  title: Submit a Story
   description: ''
   robots: []
   extra: []
