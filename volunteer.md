@@ -10,9 +10,18 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+We're a fast growing community organisation and are always looking for people to help us take things to the next level! This is a great opportunity to help thousands of Dzaleka refugees.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+## What can I do?
 
-- Lorem ipsum
-- dolor sit amet
+We're looking for help with the following areas:
+
+*   Copywriting: help us find inspiring stories to share with the community.
+
+*   Growth: use your marketing skills to help us reach more people.
+
+*   Event management: help us during one of our upcoming events to deliver a great experience.
+
+## Apply
+
+If this sounds like it's for you, apply here.
