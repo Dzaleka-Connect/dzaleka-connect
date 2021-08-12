@@ -14,6 +14,10 @@ seo:
       value: 'Real World Experience: Malawi Refugee Camp'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Real World Experience: Malawi Refugee Camp'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
