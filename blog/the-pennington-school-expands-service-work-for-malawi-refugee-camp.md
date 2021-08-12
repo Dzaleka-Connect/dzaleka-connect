@@ -9,7 +9,12 @@ image_alt: >-
   camp in Malawi.PHOTO COURTESY OF THE PENNINGTON SCHOOL
 seo:
   title: The Pennington School expands service work for Malawi refugee camp
-  description: ''
+  description: >+
+    Over the past three years, students at The Pennington School have been using
+    their STEM (science, technology, engineering, math) skills to solve
+    real-world problems and provide needed resources to the schools at the
+    Dzaleka Refugee Camp in Malawi, Africa.
+
   robots: []
   extra:
     - name: 'og:title'
