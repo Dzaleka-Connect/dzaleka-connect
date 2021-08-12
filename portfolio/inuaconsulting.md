@@ -12,6 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: project
 image: images/inno-2021-1024x576.jpeg
+thumb_image: images/inno-2021-1024x576.jpeg
 ---
 **Inua Consulting** works with social impact investors to deliver training to grassroots organizations that are deserving but not yet financially viable. We journey with governments to develop healthy refugee policies, and we inspire communities for social justice action. We deliver in-person and online services.
 
