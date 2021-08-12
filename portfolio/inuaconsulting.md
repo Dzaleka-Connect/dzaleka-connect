@@ -6,7 +6,9 @@ thumb_image_alt: Inua Consulting
 image_alt: Inua Consulting
 seo:
   title: Inua Consulting
-  description: ''
+  description: >-
+    Inua Consulting works with social impact investors to deliver training to
+    grassroots organizations that are deserving but not yet financially viable.
   robots: []
   extra: []
   type: stackbit_page_meta
