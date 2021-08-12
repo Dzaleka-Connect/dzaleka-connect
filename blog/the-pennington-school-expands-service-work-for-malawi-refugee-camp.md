@@ -12,7 +12,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-**![](https://centraljersey.com/wp-content/uploads/sites/26/2021/05/hvn-penn-school-malawi-768x1024.jpeg)
+![](https://centraljersey.com/wp-content/uploads/sites/26/2021/05/hvn-penn-school-malawi-768x1024.jpeg)
 
 Over the past three years, students at The Pennington School have been using their STEM (science, technology, engineering, math) skills to solve real-world problems and provide needed resources to the schools at the Dzaleka Refugee Camp in Malawi, Africa.
 
