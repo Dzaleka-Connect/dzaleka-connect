@@ -28,6 +28,10 @@ seo:
       value: images/hvn-penn-school-malawi-768x1024.jpeg
       keyName: property
       relativeUrl: true
+    - name: 'og:image'
+      value: images/hvn-penn-school-malawi-768x1024.jpeg
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 layout: post
 image: images/hvn-penn-school-malawi-768x1024.jpeg
