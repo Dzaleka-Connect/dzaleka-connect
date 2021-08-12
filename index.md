@@ -35,7 +35,7 @@ sections:
           area.
 
 
-      - title: Community Discuss
+      - title: Community Discussion
         content: >+
           Fuel your passion – start or join a discussion on a matter close to
           your heart.
