@@ -41,7 +41,7 @@ sections:
     submit_label: Submit
     type: section_form
 seo:
-  title: Submit a Story
+  title: Submit a Story  - Dzaleka Connect
   description: >-
     Share your story with us or nominate a friend, wherever they are in the
     world, to tell theirs.
