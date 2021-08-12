@@ -27,7 +27,7 @@ sections:
           - Error on the site
           - Sponsorship
           - Other
-          - Volunteer
+          - Volunteering
       - input_type: textarea
         name: message
         label: Message
