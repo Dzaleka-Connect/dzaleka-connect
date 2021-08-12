@@ -42,7 +42,7 @@ sections:
       - input_type: textarea
         name: Story
         label: Story
-        default_value: lorem-ipsum
+        default_value: Story
         options: []
         is_required: false
         type: form_field
