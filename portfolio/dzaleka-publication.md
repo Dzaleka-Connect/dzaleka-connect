@@ -21,6 +21,14 @@ seo:
 
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >+
+        Dzaleka.com is a community and platform for Dzaleka Refugee Voices,
+        Stories, Artists, and thought. We aim to ensure refugee
+        self-representation in international media and events.
+
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
