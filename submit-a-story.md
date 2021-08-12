@@ -15,7 +15,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    form_id: lorem-ipsum
+    form_id: submit-story
     form_action: contact-form
     form_fields:
       - input_type: text
