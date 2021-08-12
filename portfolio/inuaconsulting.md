@@ -29,6 +29,10 @@ seo:
       value: Inua Consulting
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Inua Consulting
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 image: images/inno-2021-1024x576.jpeg
