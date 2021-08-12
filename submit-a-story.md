@@ -48,7 +48,7 @@ seo:
   robots: []
   extra:
     - name: 'og:title'
-      value: Submit a Story
+      value: Submit a Story  - Dzaleka Connect
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
