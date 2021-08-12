@@ -42,7 +42,9 @@ sections:
     type: section_form
 seo:
   title: Submit a Story
-  description: Want to pitch a story that matters to you? Submit a Story
+  description: >-
+    Share your story with us or nominate a friend, wherever they are in the
+    world, to tell theirs.
   robots: []
   extra:
     - name: 'og:title'
