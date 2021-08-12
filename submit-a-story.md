@@ -27,7 +27,7 @@ sections:
         type: form_field
       - input_type: text
         name: Title
-        label: Title
+        label: Title *
         default_value: Title
         options: []
         is_required: true
