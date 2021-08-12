@@ -1,6 +1,5 @@
 ---
 title: Dzaleka.com - The Community for Dzaleka Refugee Creativity and News
-subtitle: lorem-ipsum
 date: '2021-08-12'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
