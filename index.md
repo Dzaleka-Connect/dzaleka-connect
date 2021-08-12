@@ -41,7 +41,7 @@ sections:
           your heart.
 
 
-      - title: Trips
+      - title: Camp Trips
         content: >+
           Share with the community if you've got a trip planned for an
           opportunity to make new connections.
