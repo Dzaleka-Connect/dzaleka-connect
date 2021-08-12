@@ -6,7 +6,8 @@ sections:
     section_id: submit-story
     content: |
       Want to pitch a story that matters to you? Submit a Story
-      Fields marked with an \* are required
+
+      Fields marked with an **\*** are required
     form_id: submit-story
     form_action: submit-story
     form_fields:
