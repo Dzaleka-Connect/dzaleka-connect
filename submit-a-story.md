@@ -36,7 +36,7 @@ sections:
         label: Story
         default_value: Your Story
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Submit
     type: section_form
