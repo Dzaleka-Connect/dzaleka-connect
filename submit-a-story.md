@@ -42,7 +42,7 @@ sections:
       - input_type: textarea
         name: Story
         label: Story
-        default_value: Story
+        default_value: Your Story
         options: []
         is_required: false
         type: form_field
