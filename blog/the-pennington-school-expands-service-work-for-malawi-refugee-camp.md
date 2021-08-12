@@ -2,7 +2,9 @@
 title: The Pennington School expands service work for Malawi refugee camp
 date: '2021-05-25'
 thumb_image_alt: lorem-ipsum
-image_alt: lorem-ipsum
+image_alt: >-
+  Pennington School students sew hybrid sanitary napkins for girls in a refugee
+  camp in Malawi.PHOTO COURTESY OF THE PENNINGTON SCHOOL
 excerpt: lorem-ipsum
 seo:
   title: ''
