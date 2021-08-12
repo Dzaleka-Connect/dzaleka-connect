@@ -57,6 +57,10 @@ seo:
       value: Want to pitch a story that matters to you? Submit a Story
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: Want to pitch a story that matters to you? Submit a Story
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
