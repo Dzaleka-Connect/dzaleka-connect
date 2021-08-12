@@ -6,7 +6,11 @@ thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
-  description: ''
+  description: >+
+    Dzaleka.com is a community and platform for Dzaleka Refugee Voices, Stories,
+    Artists, and thought. We aim to ensure refugee self-representation in
+    international media and events.
+
   robots: []
   extra: []
   type: stackbit_page_meta
