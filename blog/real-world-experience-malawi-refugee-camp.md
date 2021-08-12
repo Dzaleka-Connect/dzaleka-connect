@@ -9,7 +9,11 @@ seo:
   title: 'Real World Experience: Malawi Refugee Camp'
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: 'Real World Experience: Malawi Refugee Camp'
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: post
 ---
