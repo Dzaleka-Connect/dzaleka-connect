@@ -40,6 +40,11 @@ seo:
       value: webiste
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: >-
+        https://1.bp.blogspot.com/-R2YqpFuQyhY/YNQ6bXT9GYI/AAAAAAAASpI/M6yPSTo0RAkic2ywslXTUaksQOmwhT43wCPcBGAYYCw/s2048/1_eVk2Vg1lnnk6NgOwEHp-RQ.jpeg
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: project
 ---
