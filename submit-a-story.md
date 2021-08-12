@@ -44,7 +44,11 @@ seo:
   title: Submit a Story
   description: ''
   robots: []
-  extra: []
+  extra:
+    - name: 'og:title'
+      value: Submit a Story
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
