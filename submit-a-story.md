@@ -3,7 +3,7 @@ title: lorem-ipsum
 hide_title: true
 sections:
   - title: Submit a Story
-    section_id: lorem-ipsum
+    section_id: contact-form
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
