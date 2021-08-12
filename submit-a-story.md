@@ -16,7 +16,7 @@ sections:
 
       - dolor sit amet
     form_id: lorem-ipsum
-    form_action: contact-for
+    form_action: contact-form
     form_fields:
       - input_type: text
         name: Name
