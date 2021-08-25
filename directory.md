@@ -302,7 +302,14 @@ sections:
         image_alt: Furaha Damien
         content: |
           Software Engineer based in Seattle, Washington.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
         image: images/furaha.jpeg
     type: section_grid
