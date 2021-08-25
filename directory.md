@@ -305,7 +305,7 @@ sections:
         actions:
           - label: Personal Website
             url: 'https://furahadamien.com/'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
