@@ -2,7 +2,7 @@
 title: Events
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: Upco
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
