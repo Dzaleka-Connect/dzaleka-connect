@@ -34,7 +34,14 @@ sections:
 
           Reputable speakers, personal stories, and engaging, straight talk. The
           webinar is free, open to anyone, and scheduled for one hour.
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
 seo:
