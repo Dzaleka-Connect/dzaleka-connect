@@ -313,7 +313,7 @@ sections:
         type: grid_item
         image: images/furaha.jpeg
       - title: Emmanuel Chima
-        image_alt: lorem-ipsum
+        image_alt: Emmanuel Chima
         content: "PhD Candidate\_@School of Social Work, Michigan State University, East Lancing, USA\n"
         actions: []
         type: grid_item
