@@ -16,6 +16,9 @@ This webinar is one in a series of web seminars organized under the auspices of 
 
 We invite you to join us for this conversation and collaborate in producing dynamic sites for the co-creation and dissemination of knowledge and practice.
 
+**Time**: Sep 28, 2021 03:00 PM in Johannesburg
+**Register**: <https://maties.zoom.us/webinar/register/WN_HXdwCbXXTii4r8zAeJGwIQ>
+
 # Speakers
 
 ![](https://maties.zoom.us/w_p/95465682959/f2909398-9c0f-4c1b-a2ae-47b3b361bf70.jpg)
