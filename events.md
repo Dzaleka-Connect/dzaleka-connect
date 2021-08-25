@@ -44,17 +44,14 @@ sections:
         type: grid_item
       - title: Tumaini Festival 2021
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          The festival aims to promote the talents and cultures of Dzaleka to
+          Malawians and people from across the globe, as well as to promote
+          Dzaleka itself as a place of unity, peace, coexistence and harmony
+          among refugees and Malawian populations. It has a vision to change
+          public perception towards refugees and to empower them through arts.
+          Tumaini Festival is a need to encourage entrepreneurship and reducing
+          poverty in the refugee camp.
         actions: []
         type: grid_item
     type: section_grid
