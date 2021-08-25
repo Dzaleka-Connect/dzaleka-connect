@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Events
 hide_title: true
 sections: []
 seo:
