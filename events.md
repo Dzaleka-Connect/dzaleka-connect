@@ -65,7 +65,13 @@ seo:
     Find Events & Discuss local events for meeting other Refugees in your area.
 
   robots: []
-  extra: []
+  extra:
+    - name: 'og:description'
+      value: >
+        Find Events & Discuss local events for meeting other Refugees in your
+        area.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
