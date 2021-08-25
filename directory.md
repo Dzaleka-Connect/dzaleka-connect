@@ -314,17 +314,7 @@ sections:
         image: images/furaha.jpeg
       - title: Emmanuel Chima
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: "PhD Candidate\_@School of Social Work, Michigan State University, East Lancing, USA\n"
         actions: []
         type: grid_item
     type: section_grid
