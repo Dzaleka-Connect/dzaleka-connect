@@ -303,7 +303,7 @@ sections:
         content: |
           Software Engineer based in Seattle, Washington.
         actions:
-          - label: lorem-ipsum
+          - label: Personal Website
             url: '#'
             style: link
             icon: dribbble
