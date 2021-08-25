@@ -82,6 +82,10 @@ seo:
       value: Events
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: Events
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
