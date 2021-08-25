@@ -300,17 +300,8 @@ sections:
         image: images/Bakari_Mustafa_Headshot.jpeg
       - title: Furaha Damien
         image_alt: Furaha Damien
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Software Engineer based in Seattle, Washington.
         actions: []
         type: grid_item
         image: images/furaha.jpeg
