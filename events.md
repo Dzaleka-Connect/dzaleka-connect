@@ -59,7 +59,7 @@ sections:
           ***
         actions:
           - label: Learn More
-            url: '#'
+            url: 'https://dzalekaconnect.com/portfolio/tumaini-festival/'
             style: link
             icon: dribbble
             new_window: false
