@@ -2,7 +2,7 @@
 title: Events
 hide_title: true
 sections:
-  - title: "\U0001F4C5 Upcoming Event"
+  - title: "\U0001F4C5 Upcoming Events"
     section_id: lorem-ipsum
     col_number: three
     is_numbered: false
