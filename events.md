@@ -61,7 +61,9 @@ sections:
     type: section_grid
 seo:
   title: Events
-  description: ''
+  description: |+
+    Find Events & Discuss local events for meeting other Refugees in your area.
+
   robots: []
   extra: []
   type: stackbit_page_meta
