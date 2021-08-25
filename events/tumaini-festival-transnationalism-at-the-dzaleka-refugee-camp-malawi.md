@@ -21,6 +21,13 @@ seo:
         Uganda.
       keyName: name
       relativeUrl: false
+    - name: 'og:description'
+      value: >
+        Ubuntu Dialogues Seminar Exchange Fellow Mr. Emmanuel Chima in
+        conversation with Prof Paul Bukuliki of Makerere University, Kampala,
+        Uganda.
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 subtitle: Ubuntu Dialogues
