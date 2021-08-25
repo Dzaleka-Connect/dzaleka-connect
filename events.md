@@ -36,7 +36,7 @@ sections:
         actions:
           - label: Join Zoom Meeting
             url: 'https://maties.zoom.us/webinar/register/WN_HXdwCbXXTii4r8zAeJGwIQ'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
