@@ -317,7 +317,7 @@ sections:
         content: "PhD Candidate\_@School of Social Work, Michigan State University, East Lancing, USA\n"
         actions:
           - label: Learn More
-            url: '#'
+            url: 'https://my.dzalekaconnect.com/user/emmanuel_chima'
             style: link
             icon: dribbble
             new_window: false
