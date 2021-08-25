@@ -10,6 +10,10 @@ seo:
       value: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
       keyName: property
       relativeUrl: false
+    - name: 'twitter:title'
+      value: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 subtitle: Ubuntu Dialogues
