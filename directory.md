@@ -317,6 +317,7 @@ sections:
         content: "PhD Candidate\_@School of Social Work, Michigan State University, East Lancing, USA\n"
         actions: []
         type: grid_item
+        image: images/f2909398-9c0f-4c1b-a2ae-47b3b361bf70.jpeg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
