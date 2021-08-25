@@ -26,9 +26,6 @@ sections:
       - title: Inua Consulting
         image_alt: lorem-ipsum
         content: >
-          ## Refugees in Malawi: the laws, their effects, and the way forward
-
-
           The first in a series of webinars tackling topics of relevance in the
           refugee dialogue in Malawi and across the Continent.
 
