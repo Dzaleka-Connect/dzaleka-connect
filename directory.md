@@ -299,7 +299,7 @@ sections:
         type: grid_item
         image: images/Bakari_Mustafa_Headshot.jpeg
       - title: Furaha Damien
-        image_alt: lorem-ipsum
+        image_alt: Furaha Damien
         content: >-
           ## Lorem ipsum
 
