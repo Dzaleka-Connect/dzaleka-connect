@@ -304,7 +304,7 @@ sections:
           Software Engineer based in Seattle, Washington.
         actions:
           - label: Personal Website
-            url: '#'
+            url: 'https://furahadamien.com/'
             style: link
             icon: dribbble
             new_window: false
