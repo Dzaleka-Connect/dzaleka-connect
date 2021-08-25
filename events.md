@@ -32,11 +32,7 @@ sections:
         type: grid_item
       - title: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
         image_alt: lorem-ipsum
-        content: >
-          Ubuntu Dialogues Seminar Exchange Fellow Mr. Emmanuel Chima in
-          conversation with Prof Paul Bukuliki of Makerere University, Kampala,
-          Uganda. Professor Thaddeus Metz, Department of Philosophy at the
-          University of Pretoria, South Africa will be the respondent.
+        content: "Ubuntu Dialogues Seminar Exchange Fellow Mr. Emmanuel Chima in conversation with Prof Paul Bukuliki of Makerere University, Kampala, Uganda. Professor Thaddeus Metz, Department of Philosophy at the University of Pretoria, South Africa will be the respondent.\n\n***Sep 28, 2021 03:00 PM in\_***[***Johannesburg***](javascript:;)\n"
         actions: []
         type: grid_item
     type: section_grid
