@@ -60,7 +60,7 @@ sections:
         type: grid_item
     type: section_grid
 seo:
-  title: ''
+  title: Events
   description: ''
   robots: []
   extra: []
