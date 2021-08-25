@@ -23,7 +23,9 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: Inua Consulting
+      - title: >-
+          Inua Consulting: Refugees in Malawi: the laws, their effects, and the
+          way forward
         image_alt: lorem-ipsum
         content: >
           The first in a series of webinars tackling topics of relevance in the
