@@ -318,7 +318,7 @@ sections:
         actions:
           - label: Learn More
             url: 'https://my.dzalekaconnect.com/user/emmanuel_chima'
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
