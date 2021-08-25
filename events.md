@@ -30,7 +30,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
-      - title: lorem-ipsum
+      - title: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
