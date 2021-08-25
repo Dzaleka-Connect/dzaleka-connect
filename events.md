@@ -36,7 +36,7 @@ sections:
         actions:
           - label: Register Meeting
             url: >-
-              tumaini-festival-transnationalism-at-the-dzaleka-refugee-camp-malawi
+              /tumaini-festival-transnationalism-at-the-dzaleka-refugee-camp-malawi
             style: button
             icon: dribbble
             new_window: false
