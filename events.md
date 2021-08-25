@@ -23,7 +23,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: Inua Consulting Webinar
+      - title: Inua Consulting
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
