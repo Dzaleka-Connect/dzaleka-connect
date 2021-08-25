@@ -25,17 +25,16 @@ sections:
     grid_items:
       - title: Inua Consulting
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Refugees in Malawi: the laws, their effects, and the way forward
 
 
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          The first in a series of webinars tackling topics of relevance in the
+          refugee dialogue in Malawi and across the Continent.
 
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          Reputable speakers, personal stories, and engaging, straight talk. The
+          webinar is free, open to anyone, and scheduled for one hour.
         actions: []
         type: grid_item
     type: section_grid
