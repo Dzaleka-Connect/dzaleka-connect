@@ -8,6 +8,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
+subtitle: Ubuntu Dialogues
 ---
 ## Lorem ipsum
 
