@@ -35,7 +35,7 @@ sections:
           Reputable speakers, personal stories, and engaging, straight talk. The
           webinar is free, open to anyone, and scheduled for one hour.
         actions:
-          - label: lorem-ipsum
+          - label: Join Zoom Meeting
             url: '#'
             style: link
             icon: dribbble
