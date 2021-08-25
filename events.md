@@ -72,6 +72,12 @@ seo:
         area.
       keyName: property
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >
+        Find Events & Discuss local events for meeting other Refugees in your
+        area.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
