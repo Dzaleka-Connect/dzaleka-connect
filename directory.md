@@ -316,7 +316,7 @@ sections:
         image_alt: Emmanuel Chima
         content: "PhD Candidate\_@School of Social Work, Michigan State University, East Lancing, USA\n"
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             icon: dribbble
