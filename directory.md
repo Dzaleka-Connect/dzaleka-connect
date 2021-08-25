@@ -312,7 +312,7 @@ sections:
             type: action
         type: grid_item
         image: images/furaha.jpeg
-      - title: lorem-ipsum
+      - title: Emmanuel Chima
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
