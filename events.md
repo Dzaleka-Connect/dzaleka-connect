@@ -18,6 +18,9 @@ sections:
 
           Reputable speakers, personal stories, and engaging, straight talk. The
           webinar is free, open to anyone, and scheduled for one hour.
+
+
+          ***Thursday, 26 August 2021 3PM CAT***
         actions:
           - label: Join Zoom Meeting
             url: 'https://zoom.us/j/97075525200?pwd=VXROdTFxRllBYkY4eUFYaTQ2RnExdz09'
