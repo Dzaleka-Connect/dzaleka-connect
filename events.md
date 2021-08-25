@@ -49,10 +49,11 @@ sections:
           Malawians and people from across the globe, as well as to promote
           Dzaleka itself as a place of unity, peace, coexistence and harmony
           among refugees and Malawian populations. It has a vision to change
-          public perception towards refugees and to empower them through arts. 
+          public perception towards refugees and to empower them through arts.
 
 
-          ***Thu, 4 Nov 2021 – Sun, 7 Nov 2021
+          ***Thu, 4 Nov 2021 – Sun, 7 Nov 2021***
+
 
           ***
         actions: []
