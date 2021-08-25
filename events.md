@@ -35,7 +35,8 @@ sections:
         content: "Ubuntu Dialogues Seminar Exchange Fellow Mr. Emmanuel Chima in conversation with Prof Paul Bukuliki of Makerere University, Kampala, Uganda. Professor Thaddeus Metz, Department of Philosophy at the University of Pretoria, South Africa will be the respondent.\n\n***Sep 28, 2021 03:00 PM in\_***[***Johannesburg***](javascript:;)\n"
         actions:
           - label: Register Meeting
-            url: 'https://maties.zoom.us/webinar/register/WN_HXdwCbXXTii4r8zAeJGwIQ'
+            url: >-
+              tumaini-festival-transnationalism-at-the-dzaleka-refugee-camp-malawi
             style: button
             icon: dribbble
             new_window: false
