@@ -2,7 +2,7 @@
 title: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
 image_alt: lorem-ipsum
 seo:
-  title: ''
+  title: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
   description: ''
   robots: []
   extra: []
