@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
 subtitle: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
