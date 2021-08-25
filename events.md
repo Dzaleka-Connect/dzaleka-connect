@@ -36,7 +36,7 @@ sections:
           webinar is free, open to anyone, and scheduled for one hour.
         actions:
           - label: Join Zoom Meeting
-            url: '#'
+            url: 'https://zoom.us/j/97075525200?pwd=VXROdTFxRllBYkY4eUFYaTQ2RnExdz09'
             style: button
             icon: dribbble
             new_window: false
