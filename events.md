@@ -78,6 +78,10 @@ seo:
         area.
       keyName: name
       relativeUrl: false
+    - name: 'og:title'
+      value: Events
+      keyName: property
+      relativeUrl: false
   type: stackbit_page_meta
 layout: advanced
 ---
