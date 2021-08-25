@@ -54,9 +54,6 @@ sections:
 
 
           ***Thu, 4 Nov 2021 – Sun, 7 Nov 2021***
-
-
-          ***
         actions:
           - label: Learn More
             url: 'https://dzalekaconnect.com/portfolio/tumaini-festival/'
