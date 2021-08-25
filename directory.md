@@ -314,7 +314,7 @@ sections:
         image: images/furaha.jpeg
       - title: Emmanuel Chima
         image_alt: Emmanuel Chima
-        content: "PhD Candidate\_@School of Social Work, Michigan State University, East Lancing, USA\n"
+        content: "PhD Candidate\_@ School of Social Work, Michigan State University\n"
         actions:
           - label: Learn More
             url: 'https://my.dzalekaconnect.com/user/emmanuel_chima'
