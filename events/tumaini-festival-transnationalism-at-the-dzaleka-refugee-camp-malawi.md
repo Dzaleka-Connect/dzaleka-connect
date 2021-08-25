@@ -34,6 +34,9 @@ seo:
 layout: page
 subtitle: Ubuntu Dialogues
 ---
+
+![](https://maties.zoom.us/w_p/95465682959/8c3c3cfb-8d77-490e-9590-ed74705ce2e0.jpg)
+
 Ubuntu Dialogues Seminar Exchange Fellow Mr. Emmanuel Chima in conversation with Prof Paul Bukuliki of Makerere University, Kampala, Uganda. Professor Thaddeus Metz, Department of Philosophy at the University of Pretoria, South Africa will be the respondent.
 
 This webinar is one in a series of web seminars organized under the auspices of the Ubuntu Dialogues Seminar Fellowship. The Ubuntu Dialogues project is a partnership between the Stellenbosch University Museum and the African Studies Center at Michigan State University. The partnership is geared toward establishing new and strengthening existing connections and cooperation between universities, museums, and communities.
@@ -61,4 +64,4 @@ Professor @Department of Social Work and Social Administration, Makerere Univer
 
 ### **Respondent: Professor Thaddeus Metz**
 
-Professor @Department of Philosophy, University of Pretoria, South Africa Thaddeus Metz is professor of philosophy at the University of Pretoria. He is known for drawing on the African philosophical tradition to analyse a variety of contemporary moral, political and legal controversies. He has published about 300 books, chapters and articles, and his research rating with the National Research Foundation is A1.
+Professor @Department of Philosophy, University of Pretoria, South Africa Thaddeus Metz is professor of philosophy at the University of Pretoria. He is known for drawing on the African philosophical tradition to analyse a variety of contemporary moral, political and legal controversies. He has published about 300 books, chapters and articles, and his research rating with the National Research Foundation is A1.![](https://maties.zoom.us/w_p/95465682959/8c3c3cfb-8d77-490e-9590-ed74705ce2e0.jpg)
