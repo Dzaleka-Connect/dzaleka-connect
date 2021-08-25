@@ -14,6 +14,13 @@ seo:
       value: 'Tumaini Festival: Transnationalism at the Dzaleka Refugee Camp, Malawi'
       keyName: name
       relativeUrl: false
+    - name: 'twitter:description'
+      value: >
+        Ubuntu Dialogues Seminar Exchange Fellow Mr. Emmanuel Chima in
+        conversation with Prof Paul Bukuliki of Makerere University, Kampala,
+        Uganda.
+      keyName: name
+      relativeUrl: false
   type: stackbit_page_meta
 layout: page
 subtitle: Ubuntu Dialogues
