@@ -38,11 +38,9 @@ sections:
 
 
       - title: Shape Dzaleka future
-        content: >+
-          Share with the community if you've got a trip planned for an
-          opportunity to make new connections.
-
-
+        content: >
+          Act as a sponsor user for Dzaleka Connect Initiative, sharing feedback
+          on new initiatives before they launch
       - title: Amplify your impact
         image_alt: lorem-ipsum
         content: |
