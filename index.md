@@ -64,17 +64,13 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      The Tarjimly team is comprised of four full-time staff and over 25
+      volunteers living in three different countries. Our founders are MIT
+      graduates, YC alum, and Forbes 30 Under 30 awardees. Our team and board
+      members are comprised of former refugees and immigrants. We work hard to
+      ensure our vision and process are centered around the voices and needs of
+      vulnerable people and refugees.
     type: section_content
 seo:
   title: Dzaleka Connect - Connecting Refugees & the Diaspora
