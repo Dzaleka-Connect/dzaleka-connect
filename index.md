@@ -32,11 +32,9 @@ sections:
           Find Events & Discuss local events for meeting other Dzaleka in your
           area. e.g, Tumaini Festival
       - title: Connect with other refugees.
-        content: >+
-          Fuel your passion – start or join a discussion on a matter close to
-          your heart.
-
-
+        content: >
+          A global community of Dzaleka refugee & the diaspora who are
+          passionate about social impact and lead others in giving back.
       - title: Shape Dzaleka future
         content: >
           Act as a sponsor user for Dzaleka Connect Initiative, sharing feedback
