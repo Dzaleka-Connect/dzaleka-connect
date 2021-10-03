@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Growing Dzaleka Community Online
+    title: Join a vibrant community of creatives & early talents
     content: >
       Dzaleka Refugee Camp is home to over 52,000+ refugees and asylum seekers,
       who are unable to leave its confines to pursue education or employment
