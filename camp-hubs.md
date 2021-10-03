@@ -53,9 +53,7 @@ Joining a local camp hub will provide community members with a way to connect wi
 
 For those yearning to reconnect with Dzaleka, Camp hubs will offer the comfort of a local network with the prospects of a global one that can offer unique mentorship and investment opportunities as well as a bridge to give back.
 
-For those in Dzaleka, Malawi, and diaspora around the world, camp hubs will be ‘on the ground’ intermediaries to help businesses and talent who are looking to trade, invest or find career opportunities in dzaleka refugee camp.
-
-### Get Involved with Dzaleka Connect
+### Get Involved with Our Camp Hub
 
 We are looking to establish Dzaleka Connect Hub and are looking for passionate people to help us with this. If you’re interested we’d love to hear from you.
 
