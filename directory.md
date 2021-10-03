@@ -93,7 +93,7 @@ sections:
             new_window: false
             no_follow: false
         image: images/241976836_254395276687526_4569099687307396860_n.jpeg
-      - title: lorem-ipsum
+      - title: Pascal Bagaluza
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
