@@ -80,7 +80,7 @@ sections:
             type: action
         type: grid_item
         image: images/josephine.png
-      - title: lorem-ipsum
+      - title: Cecile Pango
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
