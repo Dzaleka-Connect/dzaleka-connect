@@ -32,7 +32,7 @@ sections:
         content: >
           Find Events & Discuss local events for meeting other Dzaleka in your
           area. e.g, Tumaini Festival
-      - title: Community Discussion
+      - title: Connect with other new grads.
         content: >+
           Fuel your passion – start or join a discussion on a matter close to
           your heart.
