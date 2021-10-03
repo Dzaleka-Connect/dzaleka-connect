@@ -45,11 +45,8 @@ sections:
 
       - title: Amplify your impact
         image_alt: lorem-ipsum
-        content: >+
-          Build your own personal and professinal profile to share with the
-          community.
-
-
+        content: |
+          Be recognized as a social impact leader
         actions: []
         type: grid_item
       - title: Camp Hubs
