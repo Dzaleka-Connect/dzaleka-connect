@@ -82,17 +82,8 @@ sections:
         image: images/josephine.png
       - title: Cecile Pango
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Women for Action
         actions: []
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
