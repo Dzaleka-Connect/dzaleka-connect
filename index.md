@@ -62,7 +62,7 @@ sections:
         type: grid_item
   - title: lorem-ipsum
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Made By Refugees & Immigrants
     image_alt: lorem-ipsum
     content: >
       The Tarjimly team is comprised of four full-time staff and over 25
