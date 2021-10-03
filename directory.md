@@ -286,7 +286,7 @@ sections:
 
         actions:
           - label: Learn More
-            url: '#'
+            url: 'http://adaicircle.com/'
             style: link
             icon: dribbble
             new_window: false
