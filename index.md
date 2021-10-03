@@ -28,7 +28,7 @@ sections:
           The latest news and view from Dzaleka Connect and the community.
 
 
-      - title: Events
+      - title: Attend exclusive member events.
         content: >
           Find Events & Discuss local events for meeting other Dzaleka in your
           area. e.g, Tumaini Festival
