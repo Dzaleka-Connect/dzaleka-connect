@@ -15,7 +15,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: Explore Dzaleka Connect
+    title: Our Inttative
     subtitle: >-
       When refugees leave Dzaleka, their allegiance, passions and emotional
       connections don’t fade, if anything they grow stronger. No matter where we
