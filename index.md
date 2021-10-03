@@ -65,11 +65,10 @@ sections:
     subtitle: Made By Refugees & Immigrants
     image_alt: lorem-ipsum
     content: >
-      The Tarjimly team is comprised of four full-time staff and over 25
-      volunteers living in three different countries. Our founders are MIT
-      graduates, YC alum, and Forbes 30 Under 30 awardees. Our team and board
-      members are comprised of former refugees and immigrants. We work hard to
-      ensure our vision and process are centered around the voices and needs of
+      The Dzaleka Connect team is comprised of four full-time staff and over 10+
+      volunteers living in three different countries. Our team and board members
+      are comprised of former refugees and immigrants. We work hard to ensure
+      our vision and process are centered around the voices and needs of
       vulnerable people and refugees.
     type: section_content
 seo:
