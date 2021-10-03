@@ -105,6 +105,7 @@ sections:
             icon: dribbble
             new_window: false
             no_follow: false
+        image: images/241116662_244659557661098_6368121805713012213_n.jpeg
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
         content: |
