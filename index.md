@@ -43,7 +43,7 @@ sections:
           opportunity to make new connections.
 
 
-      - title: Profile
+      - title: Amplify your impact
         image_alt: lorem-ipsum
         content: >+
           Build your own personal and professinal profile to share with the
