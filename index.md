@@ -15,7 +15,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: Working With People Passionate about Dzaleka
+    title: Explore  Dzaleka
     subtitle: >-
       When refugees leave Dzaleka, their allegiance, passions and emotional
       connections don’t fade, if anything they grow stronger. No matter where we
