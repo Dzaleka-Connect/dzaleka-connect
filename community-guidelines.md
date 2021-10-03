@@ -51,7 +51,7 @@ layout: page
 ---
 When joining our community, you must comply with these rules. Here are also a few reminders of what Dzaleka Connect is about.
 
-1.  Everything said on Dzaleka Connect should be treated as off the record. Don't share any conversations from Dzaleka Connect with anyone outside who is not a member.
+1.  Everything said on Dzaleka Connect community should be treated as off the record. Don't share any conversations from Dzaleka Connect with anyone outside who is not a member.
 
 2.  We have a zero-tolerance policy for hateful conduct. Your account will immediately be suspended if you promote violence, or attack or threaten others on the basis of race, ethnicity, national origin, sexual orientation, gender, religion, age, or disability. This policy extends to all content and conduct on Dzaleka Connect, including posts, comments, direct email, usernames, and profiles.
 
