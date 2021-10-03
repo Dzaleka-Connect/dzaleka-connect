@@ -54,6 +54,6 @@ Members build meaningful connections with one another, which in turn strengthens
 
 Dzaleka Connect is a space where we support each other and are fully seen for who we are.
 
-### Make Meaningful Connections and discover Opportunities
+### Discover Opportunities
 
 Dzaleka Connect gives you a range of ways to interact and connect with others Whether you’re heading back to the camp and want to meet some friendly Malawian faces during your stay, you want to access valuable business knowledge or you want to give back and help others succeed, Dzaleka Connect will help you make those important connections and seek out those opportunities.
