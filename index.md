@@ -23,7 +23,7 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: News
+      - title: Connect with a community
         content: |+
           The latest news and view from Dzaleka Connect and the community.
 
