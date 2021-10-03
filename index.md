@@ -65,7 +65,7 @@ sections:
     subtitle: Made By Refugees & Immigrants
     image_alt: lorem-ipsum
     content: >
-      The Dzaleka Connect team is comprised of four full-time staff and over 10+
+      The Dzaleka Connect team is comprised of four full-time staff and
       volunteers living in three different countries. Our team and board members
       are comprised of former refugees and immigrants. We work hard to ensure
       our vision and process are centered around the voices and needs of
