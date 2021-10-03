@@ -24,10 +24,9 @@ sections:
     is_numbered: true
     grid_items:
       - title: Connect with a community
-        content: |+
-          The latest news and view from Dzaleka Connect and the community.
-
-
+        content: >
+          Build a network of other inspiring Dzaleka refugee who are passionate
+          about social impact
       - title: Attend exclusive events.
         content: >
           Find Events & Discuss local events for meeting other Dzaleka in your
