@@ -93,6 +93,20 @@ sections:
             new_window: false
             no_follow: false
         image: images/241976836_254395276687526_4569099687307396860_n.jpeg
+      - title: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
         content: |
