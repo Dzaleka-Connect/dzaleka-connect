@@ -31,7 +31,7 @@ sections:
         content: >
           Find Events & Discuss local events for meeting other Dzaleka in your
           area. e.g, Tumaini Festival
-      - title: CSR Influencers Network
+      - title: Dzaleka  Influencers Network
         content: >
           A global community of Dzaleka refugee & the diaspora who are
           passionate about social impact and lead others in giving back.
