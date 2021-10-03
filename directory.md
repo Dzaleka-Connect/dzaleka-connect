@@ -84,7 +84,13 @@ sections:
         image_alt: lorem-ipsum
         content: |
           Women for Action
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
         content: |
