@@ -284,7 +284,13 @@ sections:
           Adai Circle Co-Founder
 
 
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
         type: grid_item
         image: images/patrickp.jpg
       - title: Jack Buyol
