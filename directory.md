@@ -85,7 +85,7 @@ sections:
         content: |
           Women for Action
         actions:
-          - label: lorem-ipsum
+          - label: Learn More
             url: '#'
             style: link
             icon: dribbble
