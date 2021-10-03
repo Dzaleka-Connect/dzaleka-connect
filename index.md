@@ -60,7 +60,7 @@ sections:
           near you, e.g, TakanoLAB, Adai Circle & Appfactory
         actions: []
         type: grid_item
-  - title: lorem-ipsum
+  - title: Team
     section_id: Team
     subtitle: Made By Refugees & Immigrants
     image_alt: lorem-ipsum
