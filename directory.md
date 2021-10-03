@@ -80,6 +80,32 @@ sections:
             type: action
         type: grid_item
         image: images/josephine.png
+      - title: Cecile Pango
+        image_alt: lorem-ipsum
+        content: |
+          Women for Action
+        actions:
+          - label: Learn More
+            url: >-
+              https://stories.dzaleka.com/2021/09/dzaleka-change-makers-cecile-pango.html
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+        image: images/241976836_254395276687526_4569099687307396860_n.jpeg
+      - title: Pascal Bagaluza
+        image_alt: lorem-ipsum
+        content: |
+          Comfort the Community 
+        actions:
+          - label: Learn More
+            url: >-
+              https://stories.dzaleka.com/2021/09/dzaleka-change-makers-pascal-bagaluza.html
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
+        image: images/241116662_244659557661098_6368121805713012213_n.jpeg
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
         content: |
@@ -243,7 +269,13 @@ sections:
           Adai Circle Co-Founder & Entreprenuer
 
 
-        actions: []
+        actions:
+          - label: Learn More
+            url: 'http://adaicircle.com/'
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
         type: grid_item
         image: images/Amisi Jospin Hassan.jpg
       - title: Byamasu Paul Patrick
@@ -252,7 +284,13 @@ sections:
           Adai Circle Co-Founder
 
 
-        actions: []
+        actions:
+          - label: Learn More
+            url: 'http://adaicircle.com/'
+            style: button
+            icon: dribbble
+            new_window: false
+            no_follow: false
         type: grid_item
         image: images/patrickp.jpg
       - title: Jack Buyol

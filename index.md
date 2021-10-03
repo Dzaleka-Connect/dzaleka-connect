@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Growing Dzaleka Community Online
+    title: Join a vibrant community of creatives & early talents
     content: >
       Dzaleka Refugee Camp is home to over 52,000+ refugees and asylum seekers,
       who are unable to leave its confines to pursue education or employment
@@ -15,7 +15,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: Working With People Passionate about Dzaleka
+    title: Our Initiative
     subtitle: >-
       When refugees leave Dzaleka, their allegiance, passions and emotional
       connections don’t fade, if anything they grow stronger. No matter where we
@@ -23,34 +23,26 @@ sections:
     col_number: two
     is_numbered: true
     grid_items:
-      - title: News
-        content: |+
-          The latest news and view from Dzaleka Connect and the community.
-
-
-      - title: Events
+      - title: Connect with a community
+        content: >
+          Build a network of other inspiring Dzaleka refugee who are passionate
+          about social impact
+      - title: Attend exclusive events.
         content: >
           Find Events & Discuss local events for meeting other Dzaleka in your
           area. e.g, Tumaini Festival
-      - title: Community Discussion
-        content: >+
-          Fuel your passion – start or join a discussion on a matter close to
-          your heart.
-
-
-      - title: Camp Trips
-        content: >+
-          Share with the community if you've got a trip planned for an
-          opportunity to make new connections.
-
-
-      - title: Profile
+      - title: Dzaleka Connect Network
+        content: >
+          A global community of Dzaleka refugee & the diaspora who are
+          passionate about social impact and lead others in giving back.
+      - title: Shape Dzaleka future
+        content: >
+          Act as a sponsor user for Dzaleka Connect Initiative, sharing feedback
+          on new initiatives before they launch
+      - title: Amplify your impact
         image_alt: lorem-ipsum
-        content: >+
-          Build your own personal and professinal profile to share with the
-          community.
-
-
+        content: |
+          Be recognized as a social impact leader
         actions: []
         type: grid_item
       - title: Camp Hubs
@@ -60,6 +52,17 @@ sections:
           near you, e.g, TakanoLAB, Adai Circle & Appfactory
         actions: []
         type: grid_item
+  - title: Team
+    section_id: Team
+    subtitle: Made By Refugees & Immigrants
+    image_alt: lorem-ipsum
+    content: >
+      The Dzaleka Connect team is comprised of four full-time staff and
+      volunteers living in three different countries. Our team and board members
+      are comprised of former refugees and immigrants. We work hard to ensure
+      our vision and process are centered around the voices and needs of
+      vulnerable people and refugees.
+    type: section_content
 seo:
   title: Dzaleka Connect - Connecting Refugees & the Diaspora
   description: >-
