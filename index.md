@@ -37,7 +37,7 @@ sections:
           your heart.
 
 
-      - title: Shape the future
+      - title: Shape Dzaleka the future
         content: >+
           Share with the community if you've got a trip planned for an
           opportunity to make new connections.
