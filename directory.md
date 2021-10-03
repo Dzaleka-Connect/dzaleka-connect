@@ -99,7 +99,8 @@ sections:
           Comfort the Community 
         actions:
           - label: Learn More
-            url: '#'
+            url: >-
+              https://stories.dzaleka.com/2021/09/dzaleka-change-makers-pascal-bagaluza.html
             style: button
             icon: dribbble
             new_window: false
