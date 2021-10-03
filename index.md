@@ -61,7 +61,7 @@ sections:
         actions: []
         type: grid_item
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: Team
     subtitle: Made By Refugees & Immigrants
     image_alt: lorem-ipsum
     content: >
