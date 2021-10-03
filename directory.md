@@ -95,17 +95,8 @@ sections:
         image: images/241976836_254395276687526_4569099687307396860_n.jpeg
       - title: Pascal Bagaluza
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          Comfort the Community 
         actions: []
       - title: Marcel Cirhuza
         image_alt: lorem-ipsum
