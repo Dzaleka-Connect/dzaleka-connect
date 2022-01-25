@@ -376,7 +376,7 @@ sections:
           Angela is a girl's rights and education activist living in Dzaleka
           Refugee Camp in Malawi.
         actions: []
-        image: images/Angela.jpeg
+        image: images/Angela-cb07c6fd.jpeg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
