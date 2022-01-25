@@ -366,10 +366,10 @@ sections:
       - title: Damien
         image_alt: lorem-ipsum
         actions: []
-        image: images/Damien2.jpeg
         content: >
           Damien is an education campaigner living in Dzaleka Refugee Camp in
           Malawi.
+        image: images/Damien2-1e05ba39.jpeg
       - title: Angela
         image_alt: lorem-ipsum
         content: >
