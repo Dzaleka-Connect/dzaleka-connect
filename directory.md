@@ -363,6 +363,20 @@ sections:
             type: action
         type: grid_item
         image: images/f2909398-9c0f-4c1b-a2ae-47b3b361bf70.jpeg
+      - title: Damien
+        image_alt: lorem-ipsum
+        actions: []
+        image: images/Damien2.jpeg
+        content: >
+          Damien is an education campaigner living in Dzaleka Refugee Camp in
+          Malawi.
+      - title: Angela
+        image_alt: lorem-ipsum
+        content: >
+          Angela is a girl's rights and education activist living in Dzaleka
+          Refugee Camp in Malawi.
+        actions: []
+        image: images/Angela-cb07c6fd.jpeg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
