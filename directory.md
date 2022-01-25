@@ -370,7 +370,7 @@ sections:
         content: >
           Damien is an education campaigner living in Dzaleka Refugee Camp in
           Malawi.
-      - title: lorem-ipsum
+      - title: Angela
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
