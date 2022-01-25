@@ -363,7 +363,7 @@ sections:
             type: action
         type: grid_item
         image: images/f2909398-9c0f-4c1b-a2ae-47b3b361bf70.jpeg
-      - title: lorem-ipsum
+      - title: Damien
         image_alt: lorem-ipsum
         content: >-
           Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
