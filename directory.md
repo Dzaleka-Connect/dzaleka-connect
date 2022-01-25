@@ -399,6 +399,7 @@ sections:
           diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis
           justo.
         actions: []
+        image: images/Damien2.jpeg
     type: section_grid
 seo:
   title: Dzaleka Connect Talent Directory
