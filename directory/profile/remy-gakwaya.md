@@ -41,6 +41,11 @@ image: images/remy-gakwaya (1).jpg
 ---
 Remy Gakwaya, is the founder and director of [TakenoLAB](https://takenolab.com/), an organization that teaches software development, entrepreneurship, and digital skills to underprivileged communities in Malawi and Africa. The idea behind the program is to equip poor communities with less or no opportunities to jobs and other vital opportunities, with skills that they can use on the online job markets starting with software development, Professional Translation, Copywriting and entrepreneurship.
 
+#### Social
+
+1.  [Twitter](https://twitter.com/GakwayaRemy)
+
+2.  [ LinkedIn](https://www.linkedin.com/in/gakwayaremy/)
 
 ## Articles
 
