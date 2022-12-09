@@ -5,8 +5,7 @@ image_alt: Dzaleka refugee camp
 seo:
   title: About Us - Dzaleka Connect
   description: >+
-    Dzaleka is more than a refugee camp. The talent among the refugee community
-    is endless – now we want to share those stories and celebrate the talent.
+    Dzaleka is more than just a refugee camp; it is a community of talented individuals who have a lot to offer the world. There is endless talent within the Dzaleka community, and we want to celebrate and share it with the world.
 
   extra:
     - name: 'og:type'
@@ -17,9 +16,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >+
-        Dzaleka is more than a refugee camp. The talent among the refugee
-        community is endless – now we want to share those stories and celebrate
-        the talent.
+        Dzaleka is more than just a refugee camp; it is a community of talented individuals who have a lot to offer the world. There is endless talent within the Dzaleka community, and we want to celebrate and share it with the world.
 
       keyName: property
     - name: 'og:image'
@@ -42,18 +39,14 @@ seo:
 layout: page
 image: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
 ---
-Being a refugee is more than seeking asylum, it’s a sense of pride and belonging. We’re building on this strength by bringing refugees and diaspora all over the world together as one global community, sharing our knowledge, business opportunity, and connect with like-minded individuals.
-
-Dzaleka had been a political prison before it was transformed into a refugee camp in response to a massive influx of refugees from Africa's Great Lakes region in 1994. Primary countries of origin represented in the camp include the Democratic Republic of Congo (DRC), Rwanda, Burundi, Ethiopia, and Somalia. Prior to becoming a refugee camp, the Dzaleka facility had served as a political prison to around 6, 000 inmates. We have an opportunity to create Dzaleka's largest global community and shape the future of Malawi.
+Being a refugee is more than just seeking asylum; it also involves a sense of pride and belonging. In response to a large influx of refugees from Africa's Great Lakes region in 1994, Dzaleka Refugee Camp, which had previously been a political prison, was transformed into a refugee camp. The primary countries of origin represented in the camp are the Democratic Republic of Congo, Rwanda, Burundi, Ethiopia, and Somalia. By bringing refugees and diaspora from all over the world together, we can create Dzaleka's largest global community and shape the future of Malawi. We can do this by sharing our knowledge, business opportunities, and connecting with like-minded individuals. The Dzaleka community has a wealth of experience and expertise to offer, and by coming together, we can support each other and work towards a brighter future.
 
 ### Our Community
 
-Dzaleka is more than a refugee camp. The talent among the refugee community is endless – now we want to share those stories and celebrate the talent. We're changing how people see refugees by giving Dzaleka community a global platform online.
+Dzaleka is more than just a refugee camp; it is a community of talented individuals who have a lot to offer the world. By creating a global online platform, we can share the stories and talents of the people in the Dzaleka community and show the world that refugees are more than just the stereotype often portrayed in the media.
 
-Members build meaningful connections with one another, which in turn strengthens our larger Dzaleka Community. We believe that our decades of refugee experience have cultivated endless wisdom and wit, and that should be celebrated and shared.
-
-Dzaleka Connect is a space where we support each other and are fully seen for who we are.
+Through Dzaleka Connect, members of the community can build meaningful connections with one another and strengthen the larger Dzaleka community. Our decades of experience as refugees have given us a wealth of wisdom and wit that should be celebrated and shared with others. Dzaleka Connect is a space where we can support each other and be fully seen and recognized for who we are.
 
 ### Discover Opportunities
 
-Dzaleka Connect gives you a range of ways to interact and connect with others Whether you’re heading back to the camp and want to meet some friendly Malawian faces during your stay, you want to access valuable business knowledge or you want to give back and help others succeed, Dzaleka Connect will help you make those important connections and seek out those opportunities.
+Dzaleka Connect provides a range of ways for members of the Dzaleka community to interact and connect with one another. Whether you are returning to the camp and want to meet some friendly locals during your stay, looking for valuable business knowledge, or want to help others succeed, Dzaleka Connect can help you make those important connections and seek out opportunities. With Dzaleka Connect, you can connect with like-minded individuals and build meaningful relationships that can benefit you both personally and professionally.
