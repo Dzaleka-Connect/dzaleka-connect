@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Empowering the Dzaleka Community - Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
+    title: Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
     content: >
       Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.  
     actions:
