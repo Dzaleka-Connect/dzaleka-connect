@@ -1,6 +1,6 @@
 ---
 title: Our Mission
-subtitle: Empowering the Dzaleka Community: Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
+subtitle: Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
 image_alt: Dzaleka refugee camp
 seo:
   title: About Us - Dzaleka Connect
