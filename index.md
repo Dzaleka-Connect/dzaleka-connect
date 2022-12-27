@@ -21,8 +21,7 @@ sections:
     grid_items:
       - title: Connect with a community
         content: >
-          Build a network of other inspiring Dzaleka refugee who are passionate
-          about social impact
+          Whether you're an artist, entrepreneur, or creator living in the Dzaleka refugee camp, or a supporter looking to connect with and learn from the talented individuals living there, Dzaleka Connect has something for you.
       - title: Attend exclusive events.
         content: >
           We believe that everyone should have the opportunity to experience the incredible talents and creativity of the artists, entrepreneurs, and creators living in the Dzaleka refugee camp. That's why we offer a variety of exclusive events that allow you to get an up-close and personal look at the work of these talented individuals.
