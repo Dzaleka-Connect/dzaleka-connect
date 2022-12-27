@@ -4,7 +4,9 @@ hide_title: true
 sections:
   - title: 'Connect with Dzaleka Artists, Entrepreneurs and Creators.'
     section_id: Member-Directory
-    subtitle: "Dzaleka is more than a refugee camp. The talent among the refugee community is endless – now we want to share those stories and celebrate the talent.Dzaleka Community are achieving all kinds of amazing things. Discover their stories or\_submit your own."
+    subtitle: "Our mission is to connect the world to the talent and creativity of the incredible individuals living in the Dzaleka refugee camp.
+
+On this page, you'll find a directory of Dzaleka's artists, entrepreneurs, and creators. These are the inspiring individuals who are using their talents to make a difference in their community and beyond. Discover their stories or\_submit your own."
     col_number: three
     is_numbered: false
     grid_items:
