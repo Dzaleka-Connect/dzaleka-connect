@@ -17,9 +17,7 @@ sections:
     type: section_grid
     title: Our Initiative
     subtitle: >-
-      When refugees leave Dzaleka, their allegiance, passions and emotional
-      connections don’t fade, if anything they grow stronger. No matter where we
-      end up in the world, we always feel connected.
+      Our initiative is driven by the belief that everyone has something unique and valuable to contribute, and that everyone deserves the opportunity to share their gifts with the world. We are committed to amplifying the voices and talents of the Dzaleka community and helping these talented individuals reach their full potential.
     col_number: two
     is_numbered: true
     grid_items:
@@ -29,27 +27,23 @@ sections:
           about social impact
       - title: Attend exclusive events.
         content: >
-          Find Events & Discuss local events for meeting other Dzaleka in your
-          area. e.g, Tumaini Festival
+          We believe that everyone should have the opportunity to experience the incredible talents and creativity of the artists, entrepreneurs, and creators living in the Dzaleka refugee camp. That's why we offer a variety of exclusive events that allow you to get an up-close and personal look at the work of these talented individuals.
       - title: Dzaleka Connect Network
         content: >
-          A global community of Dzaleka refugee & the diaspora who are
-          passionate about social impact and lead others in giving back.
+          The Dzaleka Connect Network is a community of artists, entrepreneurs, and creators living in the Dzaleka refugee camp who are using their talents to make a difference in the world. Our network is a place for these talented individuals to connect with each other, share their work, and collaborate on projects that make a positive impact in the community.
       - title: Shape Dzaleka future
         content: >
-          Act as a sponsor user for Dzaleka Connect Initiative, sharing feedback
-          on new initiatives before they launch
+          Through our platform, we support the work of Dzaleka's artists, entrepreneurs, and creators and help them share their talents and ideas with a wider audience. We also provide resources and support to help these talented individuals grow and succeed in their fields.
       - title: Amplify your impact
         image_alt: lorem-ipsum
         content: |
-          Be recognized as a social impact leader
+          Our platform is dedicated to showcasing and supporting the talents and creativity of the individuals living in the Dzaleka refugee camp. Through profiles, interviews, and features, we highlight the work of Dzaleka's artists, entrepreneurs, and creators and share their stories with a wider audience.
         actions: []
         type: grid_item
       - title: Camp Hubs
         image_alt: lorem-ipsum
         content: >
-          Join a growing range of CAMP Hubs to connect with like-minded people
-          near you, e.g, TakanoLAB, Adai Circle & Appfactory
+          Through Camp Hubs, members of the Dzaleka Connect community can gather, collaborate, and access resources and support. Our Camp Hubs serve as a hub of activity and innovation, bringing together talented individuals from all corners of the Dzaleka refugee camp.
         actions: []
         type: grid_item
   - title: Team
@@ -66,8 +60,7 @@ sections:
 seo:
   title: Dzaleka Connect - Connecting Refugees & the Diaspora
   description: >-
-    Here to help Dzaleka Community prosper and to bring about new connections,
-    opportunities, and ideas that will enrich the lives of refugees.
+    Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.
   extra:
     - name: 'og:type'
       value: website
@@ -77,9 +70,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Here to help Dzaleka Community prosper and to bring about new
-        connections, opportunities, and ideas that will enrich the lives of
-        refugees.
+        Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.
       keyName: property
     - name: 'og:image'
       value: images/7._.jpg
@@ -91,9 +82,7 @@ seo:
       value: Dzaleka Connect - Connecting Refugees & the Diaspora
     - name: 'twitter:description'
       value: >-
-        Here to help Dzaleka Community prosper and to bring about new
-        connections, opportunities, and ideas that will enrich the lives of
-        refugees.
+        Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.
     - name: 'twitter:image'
       value: images/7._.jpg
       relativeUrl: true
