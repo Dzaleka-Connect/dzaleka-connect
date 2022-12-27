@@ -1,14 +1,12 @@
 ---
-title: Dzaleka Connect - Connecting Refugees &amp; the Diaspora
+title: Empowering the Dzaleka Community - Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Join a vibrant community of creatives & early talents
+    title: Empowering the Dzaleka Community - Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
     content: >
-      Dzaleka Refugee Camp is home to over 52,000+ refugees and asylum seekers,
-      who are unable to leave its confines to pursue education or employment
-      opportunities. 
+      Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.  
     actions:
       - label: Learn More
         url: /about
@@ -58,7 +56,7 @@ sections:
       vulnerable people and refugees.
     type: section_content
 seo:
-  title: Dzaleka Connect - Connecting Refugees & the Diaspora
+  title: Empowering the Dzaleka Community - Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
   description: >-
     Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.
   extra:
@@ -66,7 +64,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Dzaleka Connect - Connecting Refugees & the Diaspora
+      value: Empowering the Dzaleka Community - Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
       keyName: property
     - name: 'og:description'
       value: >-
@@ -79,7 +77,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Dzaleka Connect - Connecting Refugees & the Diaspora
+      value: Empowering the Dzaleka Community - Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
     - name: 'twitter:description'
       value: >-
         Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.
