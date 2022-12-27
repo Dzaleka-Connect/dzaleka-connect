@@ -1,11 +1,11 @@
 ---
 title: Our Mission
-subtitle: Connecting Dzaleka Refugees and the Diaspora
+subtitle: Empowering the Dzaleka Community: Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
 image_alt: Dzaleka refugee camp
 seo:
   title: About Us - Dzaleka Connect
   description: >+
-    Dzaleka is more than just a refugee camp; it is a community of talented individuals who have a lot to offer the world. There is endless talent within the Dzaleka community, and we want to celebrate and share it with the world.
+    We are a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp
 
   extra:
     - name: 'og:type'
@@ -16,7 +16,7 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >+
-        Dzaleka is more than just a refugee camp; it is a community of talented individuals who have a lot to offer the world. There is endless talent within the Dzaleka community, and we want to celebrate and share it with the world.
+        We are a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp
 
       keyName: property
     - name: 'og:image'
@@ -29,9 +29,7 @@ seo:
       value: About Us - Dzaleka Connect
     - name: 'twitter:description'
       value: >+
-        Dzaleka is more than a refugee camp. The talent among the refugee
-        community is endless – now we want to share those stories and celebrate
-        the talent.
+        We are a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp
 
     - name: 'twitter:image'
       value: images/about.jpg
@@ -39,14 +37,28 @@ seo:
 layout: page
 image: images/1_eVk2Vg1lnnk6NgOwEHp-RQ (1).jpeg
 ---
-Being a refugee is more than just seeking asylum; it also involves a sense of pride and belonging. In response to a large influx of refugees from Africa's Great Lakes region in 1994, Dzaleka Refugee Camp, which had previously been a political prison, was transformed into a refugee camp. The primary countries of origin represented in the camp are the Democratic Republic of Congo, Rwanda, Burundi, Ethiopia, and Somalia. By bringing refugees and diaspora from all over the world together, we can create Dzaleka's largest global community and shape the future of Malawi. We can do this by sharing our knowledge, business opportunities, and connecting with like-minded individuals. The Dzaleka community has a wealth of experience and expertise to offer, and by coming together, we can support each other and work towards a brighter future.
+Welcome to Dzaleka Connect!
 
-### Our Community
+We are a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp. Our goal is to connect the world to the incredible talents and creativity of the individuals living in Dzaleka and provide them with the resources and opportunities they need to succeed.
 
-Dzaleka is more than just a refugee camp; it is a community of talented individuals who have a lot to offer the world. By creating a global online platform, we can share the stories and talents of the people in the Dzaleka community and show the world that refugees are more than just the stereotype often portrayed in the media.
+Through profiles, interviews, and features, we highlight the work of Dzaleka's artists, entrepreneurs, and creators and share their stories with a wider audience. We also provide resources and support to help these talented individuals grow and succeed in their fields.
 
-Through Dzaleka Connect, members of the community can build meaningful connections with one another and strengthen the larger Dzaleka community. Our decades of experience as refugees have given us a wealth of wisdom and wit that should be celebrated and shared with others. Dzaleka Connect is a space where we can support each other and be fully seen and recognized for who we are.
+Our team is made up of volunteers and supporters who are passionate about amplifying the voices and talents of the Dzaleka community. We believe that everyone has something unique and valuable to contribute, and we are committed to helping the individuals living in Dzaleka share their gifts with the world.
 
 ### Discover Opportunities
 
-Dzaleka Connect provides a range of ways for members of the Dzaleka community to interact and connect with one another. Whether you are returning to the camp and want to meet some friendly locals during your stay, looking for valuable business knowledge, or want to help others succeed, Dzaleka Connect can help you make those important connections and seek out opportunities. With Dzaleka Connect, you can connect with like-minded individuals and build meaningful relationships that can benefit you both personally and professionally.
+Dzaleka Connect provides a variety of opportunities for artists, entrepreneurs, and creators living in the Dzaleka refugee camp to showcase their work, connect with others, and grow their careers.
+
+Some of the opportunities available include:
+
+- Artist showcases and exhibitions: Are you an artist looking to share your work with a wider audience? We offer a variety of opportunities for artists to display their work, including exhibitions and online showcases.
+
+- Entrepreneur pitch competitions: Are you an entrepreneur with a great business idea? We host pitch competitions and other events that provide a platform for entrepreneurs to pitch their ideas and connect with potential investors and partners.
+
+- Creative workshops and trainings: Looking to improve your skills and learn new techniques? We offer a variety of workshops and trainings led by experts in the field that can help you take your talents to the next level.
+
+- Networking events: Connect with other artists, entrepreneurs, and creators in the Dzaleka community and build valuable connections that can help you grow your career.
+
+We are always looking for new opportunities to support and celebrate the talented individuals living in the Dzaleka refugee camp. If you have an idea for an opportunity you'd like to see on this page, please don't hesitate to reach out to us!
+
+Thank you for visiting Dzaleka Connect and supporting the talented individuals living in the Dzaleka refugee camp. We hope you will join us in celebrating and amplifying their work.
