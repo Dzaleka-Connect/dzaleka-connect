@@ -4,11 +4,11 @@ date: '2023-01-06'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
-  Teachers at Newsletter #02 - Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
+  Teachers at Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
 seo:
   title: 'Newsletter #02 - Dzaleka Community Secondary School Embraces Digital Learning Technology'
   description: >
-    Teachers at Newsletter #02 - Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
+    Teachers at Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
   robots: []
   extra:
     - name: 'og:title'
@@ -25,12 +25,12 @@ seo:
       relativeUrl: false
     - name: 'og:description'
       value: >
-        Teachers at Newsletter #02 - Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
+        Teachers at Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
       keyName: property
       relativeUrl: false
     - name: 'twitter:description'
       value: >
-        Teachers at Newsletter #02 - Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
+        Teachers at Dzaleka Community Secondary School are now using digital learning technology to enhance their teaching and provide access to online learning materials.
       keyName: name
       relativeUrl: false
   type: stackbit_page_meta
