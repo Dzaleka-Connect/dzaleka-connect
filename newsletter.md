@@ -54,4 +54,5 @@ Stay tuned for future issues of Dzaleka Connect, where we will continue to bring
 
 ## Recent Newsletters
 
+- [Newsletter #01 - From Bomb Explosions to Food Ration Delays: The Reality of Life in Malawi's Refugee Camp and More](https://dzalekaconnect.com/newsletter/From-Bomb-Explosions-to-Food-Ration-Delays/)
 - [Newsletter #02 - Dzaleka Community Secondary School Embraces Digital Learning Technology](https://dzalekaconnect.com/newsletter/dzaleka-community-secondary-school-embraces-digital-learning-technology/)
