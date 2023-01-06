@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Dzaleka Connect Newsletters
 subtitle: Connecting you to the heart of the Dzaleka refugee community
 image_alt: lorem-ipsum
 seo:
@@ -51,6 +51,8 @@ You will also have the opportunity to learn about the various organizations and 
 We hope that this newsletter will provide you with a deeper understanding and appreciation of the challenges and triumphs of the refugees living in Dzaleka, and will inspire you to get involved in supporting their efforts to rebuild their lives.
 
 Stay tuned for future issues of Dzaleka Connect, where we will continue to bring you updates and stories from the camp. Thank you for your support!
+
+[Join our community](https://dzaleka.us6.list-manage.com/subscribe/post?u=4d07e94a541b8f8f4cada8a70&id=3c28f6be68)
 
 ## Recent Newsletters
 
