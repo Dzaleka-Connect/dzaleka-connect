@@ -1,22 +1,22 @@
 ---
-title: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi's Refugee Camp and More'
+title: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi Refugee Camp and More'
 date: '2022-12-16'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: >-
   Recent events in Malawi have brought attention to the challenges facing refugees in the country.
 seo:
-  title: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi's Refugee Camp and More'
+  title: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi Refugee Camp and More'
   description: >
     Recent events in Malawi have brought attention to the challenges facing refugees in the country.
   robots: []
   extra:
     - name: 'og:title'
-      value: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi's Refugee Camp and More'
+      value: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi Refugee Camp and More'
       keyName: property
       relativeUrl: false
     - name: 'twitter:title'
-      value: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi's Refugee Camp and More'
+      value: 'Newsletter #01 - From Bomb Explosions to Food Ration Delays - The Reality of Life in Malawi Refugee Camp and More'
       keyName: name
       relativeUrl: false
     - name: 'og:type'
