@@ -36,9 +36,6 @@ layout: project
 thumb_image: images/The%20Dzaleka%20Art%20Project.jpeg
 image: images/The%20Dzaleka%20Art%20Project.jpeg
 ---
-![The Dzaleka Art Project](/images/The%20Dzaleka%20Art%20Project.jpeg)
-
-# The Dzaleka Art Project
 
 ### By Lisa Gilman
 
