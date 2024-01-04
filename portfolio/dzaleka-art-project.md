@@ -1,8 +1,8 @@
 ---
 title: Dzaleka Art Project
 date: '2023-01-05'
-thumb_image_alt: A white gamepad on a green background
-image_alt: A white gamepad on a green background
+thumb_image_alt: The Dzaleka Art Project
+image_alt: The Dzaleka Art Project
 seo:
   title: Dzaleka Art Project
   description: >
@@ -19,7 +19,7 @@ seo:
         The Dzaleka Art Project is a community-based collaborative project by and about the arts and artists living as refugees in the Dzaleka camp in Malawi. Enjoy the talent and creativity in the camp while getting to know the dreams and struggles of some of its residents. Please consider visiting the website that complements the book and share what you learn with others.
       keyName: property
     - name: 'og:image'
-      value: images/vijana africa.jpg
+      value: images/The%20Dzaleka%20Art%20Project.jpeg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -30,13 +30,13 @@ seo:
       value: >
         The Dzaleka Art Project is a community-based collaborative project by and about the arts and artists living as refugees in the Dzaleka camp in Malawi. Enjoy the talent and creativity in the camp while getting to know the dreams and struggles of some of its residents. Please consider visiting the website that complements the book and share what you learn with others.
     - name: 'twitter:image'
-      value: images/vijana africa.jpg
+      value: images/The%20Dzaleka%20Art%20Project.jpeg
       relativeUrl: true
 layout: project
-thumb_image: images/vijana africa.jpg
-image: images/vijana africa.jpg
+thumb_image: images/The%20Dzaleka%20Art%20Project.jpeg
+image: images/The%20Dzaleka%20Art%20Project.jpeg
 ---
-![The Dzaleka Art Project](https://dzalekaartproject.com/images/UpdatedBanner.jpg)
+![The Dzaleka Art Project](/images/The%20Dzaleka%20Art%20Project.jpeg)
 
 # The Dzaleka Art Project
 
