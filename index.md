@@ -15,23 +15,25 @@ sections:
     type: section_grid
     title: "Our Initiative"
     subtitle: "Amplifying Dzaleka's Voices, Empowering Dreams."
-    col_number: 2
+    col_number: 1
     is_numbered: true
     grid_items:
-      - title: "Connect with a community"
-        content: "Dzaleka Connect is your hub for meaningful connections, whether you're an artist, entrepreneur, or supporter."
-      - title: "Attend exclusive events"
+      - title: "Connect with a Community"
+        content: "Dzaleka Connect is your hub for meaningful connections, whether you're an artist, entrepreneur, or supporter in the Dzaleka refugee camp."
+      - title: "Attend Exclusive Events"
         content: "Experience the outstanding talents of Dzaleka's artists, entrepreneurs, and creators through our exclusive events."
       - title: "Dzaleka Connect Network"
-        content: "Join a vibrant community of artists, entrepreneurs, and creators in Dzaleka refugee camp, leveraging their talents for impactful projects."
-      - title: "Shape Dzaleka's future"
+        content: "Join a community of artists, entrepreneurs, and creators in Dzaleka refugee camp, leveraging their talents for impactful projects."
+      - title: "Shape Dzaleka's Future"
         content: "We support and showcase the work of Dzaleka's talents, providing resources for their growth and success."
-      - title: "Amplify your impact"
+      - title: "Amplify Your Impact"
         content: "Our platform highlights the creativity of individuals in Dzaleka refugee camp, sharing their stories on a broader scale."
         image_alt: "lorem-ipsum"
+        actions: []
       - title: "Camp Hubs"
-        content: "Dynamic spaces for Dzaleka Connect members to collaborate and access resources."
+        content: "Camp Hubs serve as dynamic spaces for Dzaleka Connect members to collaborate and access resources."
         image_alt: "lorem-ipsum"
+        actions: []
   - title: "Meet the Team"
     section_id: "Meet the Team"
     subtitle: "Made By Refugees & Immigrants"
