@@ -2,11 +2,11 @@
 title: Dzaleka Connect Talent Directory
 hide_title: true
 sections:
-  - title: 'Connect with Dzaleka Artists, Entrepreneurs and Creators.'
+  - title: 'A Directory of Artists, Entrepreneurs, and Creators'
     section_id: Member-Directory
     subtitle: "Our mission is to connect the world to the talent and creativity of the incredible individuals living in the Dzaleka refugee camp.
 
-On this page, you'll find a directory of Dzaleka's artists, entrepreneurs, and creators. These are the inspiring individuals who are using their talents to make a difference in their community and beyond. Discover their stories or\_submit your own."
+You'll find a directory of Dzaleka's artists, entrepreneurs, and creators on this page. These inspiring individuals use their talents to make a difference in their community and beyond. Discover their stories or\_submit your own."
     col_number: three
     is_numbered: false
     grid_items:
