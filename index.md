@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Supporting the Talents and Aspirations of Artists, Entrepreneurs, and Creators
+    title: Empowering Dreams, Amplifying Voices
     content: >
       Dzaleka Connect is a platform dedicated to showcasing and supporting the talented artists, entrepreneurs, and creators living in the Dzaleka refugee camp.  
     actions:
@@ -15,7 +15,7 @@ sections:
     type: section_grid
     title: Our Initiative
     subtitle: >-
-      Our initiative is driven by the belief that everyone has something unique and valuable to contribute, and that everyone deserves the opportunity to share their gifts with the world. We are committed to amplifying the voices and talents of the Dzaleka community and helping these talented individuals reach their full potential.
+      Amplifying Dzaleka's Voices, Empowering Dreams.
     col_number: two
     is_numbered: true
     grid_items:
