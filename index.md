@@ -15,7 +15,7 @@ sections:
     type: section_grid
     title: "Our Initiative"
     subtitle: "Amplifying Dzaleka's Voices, Empowering Dreams."
-    col_number: 1
+    col_number: two
     is_numbered: true
     grid_items:
       - title: "Connect with a Community"
